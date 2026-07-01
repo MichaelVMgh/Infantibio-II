@@ -179,7 +179,7 @@ For the BL subsp. infantis horizontal barplots with the top significant annotate
 
 
 
-### Visualization of StrainPhlAn4 strain evolutionary distances (for relevant species) from infant to paired parents: related vs unrelated; impact of feeding
+### Visualization of StrainPhlAn4 strain evolutionary distances (for selected species) from infant to paired parents: related vs unrelated; impact of feeding
 
 
 
