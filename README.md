@@ -150,7 +150,25 @@ For the evolutionary distances we would need the Python script `evolutionary_dis
 
 
 
+## Citation
 
+
+
+
+
+If you use this code, please cite:
+
+
+
+
+
+**Preprint:**
+
+
+
+
+
+Merino MV, Weißenberger S, Ermolova A, Dhilly E, Spadazzi R, Levy L, Collado MC, Hertz T, Omer H, Heidrich V, Segata N, Larsen M, Schirmer M, Haller D. Probiotic formula intervention in infants leads to colonization and competitive strain displacement independent of IgA binding. bioRxiv (2026). https://doi.org/10.64898/2026.06.03.729775
 
 
 
