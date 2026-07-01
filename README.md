@@ -10,11 +10,28 @@
 
 
 
+### Reference-based tools:
+
+
+
+
+
 * KneadData v 0.10.0
 * Trim Galore v 0.6.10
-* MetaPhlAn 4.1.1
-* StrainPhlAn4 v 4.1.1
+* MetaPhlAn v 4.1.1
+* StrainPhlAn v 4.1.1
 * HUMAnN v 3.6
+
+
+
+
+
+### Assembly-based tools:
+
+
+
+
+
 * MEGAHIT v 1.2.9
 * Prodigal v 2.6.3
 * cd-hit v 4.8.1
@@ -25,7 +42,7 @@
 
 
 
-## In-house custom scripts for the reference-based tools used in the pipeline include:
+## In-house custom scripts for the tools used in the pipeline include:
 
 
 
