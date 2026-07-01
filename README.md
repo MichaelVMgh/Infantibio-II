@@ -77,7 +77,7 @@
 
 
 
-For alpha-diversity and beta-diversity analysis we will use the R script named `Diversities.R`. For this script we would need to install the R packages "vegan" and "ggplot". We would need two input files, A) a MetaPhlAn output table with relative abundances where the bacterial species are in the columns and the samples are in the rows, loaded as "df" (the `merged_abundance_table_species_transposed.txt` file is our original output table with MetaPhlAn4 species-level taxonomic profiles and can be used for this purpose), and B) a mapping file (text file; `mapping_file.txt`) with all the relevant metadata as columns and the samples in the rows, which we load as "mf".
+For alpha-diversity and beta-diversity analysis we will use the R script named `Diversities.R`. For this script we would need to install the R packages "vegan" and "ggplot". We would need two input files, A) a MetaPhlAn output table with relative abundances where the bacterial species are in the columns and the samples are in the rows (the `merged_abundance_table_species_transposed.txt` file is our original output table with MetaPhlAn4 species-level taxonomic profiles and can be used for this purpose), and B) a mapping file (`mapping_file.txt`) with all the relevant metadata as columns and the samples in the rows.
 
 
 
