@@ -60,19 +60,31 @@
 
 
 
-For alpha-diversity and beta-diversity analysis we will use the R script named `diversities.R`. For this script we would need to install the R packages "vegan" and "ggplot". We would need two input files, A) a MetaPhlAn output table with relative abundances where the bacterial species are in the columns and the samples are in the rows, loaded as "df" (the `merged_abundance_table_species_transposed.txt` file is our original output table with MetaPhlAn4 species-level taxonomic profiles and can be used for this purpose), and B) a mapping file (text file; `mapping_file.txt`) with all the relevant metadata as columns and the samples in the rows, which we load as "mf".
+For alpha-diversity and beta-diversity analysis we will use the R script named `Diversities.R`. For this script we would need to install the R packages "vegan" and "ggplot". We would need two input files, A) a MetaPhlAn output table with relative abundances where the bacterial species are in the columns and the samples are in the rows, loaded as "df" (the `merged_abundance_table_species_transposed.txt` file is our original output table with MetaPhlAn4 species-level taxonomic profiles and can be used for this purpose), and B) a mapping file (text file; `mapping_file.txt`) with all the relevant metadata as columns and the samples in the rows, which we load as "mf".
 
 
 
 
 
-### Dominant genera and Bifidobacterium species
+### Dominant genera (genus-level)
 
 
 
 
 
-For visualizing the relative abundances of the dominant Bifidobacterium species by formula group or the stacked barplots with the top bacterial genera we use the Jupyter scripts `Bifidobacterium_boxplots_by_formula.ipynb` or `top_genera_stacked_barplots.ipynb` respectively. We would only need one input file, which would be a MetaPhlAn output table with added metadata where both species names and metadata are in the columns and the samples names are in the rows. For the stacked barplots, a similar table would be needed with the genera abundances. The table included in the `merged_abundance_table_species_transposed.txt` can be used as input for the Bifidobacterium boxplots. If not, your own MetaPhlAn transposed table with the added metadata info as columns can also be used.
+For visualizing the median relative abundances of top bacterial genera as stacked barplots we use the Jupyter script `top_genera_stacked_barplots.ipynb`. We would only need one input file, which would be a MetaPhlAn output table (transposed) with the taxonomic relative abundances at the genus-level as values, the bacterial genera as columns and the samples as rows. The table included in the `merged_abundance_table_genus_transposed.txt` can be used. If not, your own MetaPhlAn transposed table with the added metadata info as columns can also be used.
+
+
+
+
+
+### Top Bifidobacterium species
+
+
+
+
+
+For generating the relative abundances of the dominant Bifidobacterium species by formula group we use the Jupyter script `Bifidobacterium_boxplots_by_formula.ipynb` file. As previously, we would need the `merged_abundance_table_species_transposed.txt` as input file (table with the species-level relative abundances). This table would include both species names and metadata in the columns and the samples names in the rows.
 
 
 
@@ -90,13 +102,25 @@ For the Bray-Curtis dissimilarity heatmap at 24 months the Python script `bray_c
 
 
 
+### Strain Diversity Analysis
+
+
+
+
+
+To generate these trees we would use the StrainPhlAn tool with each step in each separated script. We start with `strainphlan_extract_markers.sh` to extract reference species-specific marker genes (from the desired clade) from the MetaPhlAn database and `strainphlan_sample2markers.sh` to reconstruct consensus marker sequences for every species/strain detected in each metagenomic sample. The `strainphlan_main.sh` is the main script and builds the phylogenetic tree. Then, the script `strainphlan_add_metadata.sh` adds sample metadata to the tree while `strainphlan_graphlan.sh` is used for visualization and for generating the final figures.
+
+
+
+
+
 ### Strain Diversity Analysis of Bifidobacterium dominant species in a Global Reference Database
 
 
 
 
 
-For the global Bifidobacterium strain diversity analysis with StrainPhlAn we use the file named `global_Bifidobacterium_strain_diversity_trees.sh` and follow the steps included there.
+For the global Bifidobacterium strain diversity analysis with StrainPhlAn we use the file named `global_Bifidobacterium_strain_diversity_trees.sh` and follow the steps included there (using the StrainPhlAn tool, similarly to the step before).
 
 
 
@@ -108,7 +132,7 @@ For the global Bifidobacterium strain diversity analysis with StrainPhlAn we use
 
 
 
-For the multivariate association analyses using Maaslin2 (with Humann3 data) the R script named `maaslin.R` is used. For this purpose the Maaslin2 R package would need to be installed with BiocManager. Two input files are required: a table with all the gene families/pathways abundances, and a mapping file. Sample IDs should match between these two files.
+For the multivariate association analyses using Maaslin2 (with Humann3 data) the R script named `maaslin.R` is used. For this purpose the Maaslin2 R package would need to be installed with BiocManager. Two input files are required: a table with all the gene families/pathways abundances (`genepathways_unstratified.txt` or `genefamilies_unstratified`), and a mapping file. Sample IDs should match between these two files.
 
 
 
