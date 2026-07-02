@@ -185,7 +185,19 @@ For the BL subsp. infantis horizontal barplots with the top significant annotate
 
 
 
-For the evolutionary distances we would need the Python script `evolutionary_distances.py` and two input files. The first input file should be a "full symmetric distance matrix" table (e.g., `buniformis_full_symmetric_distance_matrix.txt`) for each bacterial species where sample names are included as row names AND columns. Values are evolutionary distances between samples according to the StrainPhlAn distance matrix output (Kimura-corrected). The second file (e.g., `buniformis_with_distances_to_parents.txt`) would be a table with the samples as rows and the "Distances_to_mother" and "Distances_to_father" as two separate columns with the evolutionary distances values from each infant sample to the respective mother or father. 
+For the evolutionary distances we would need the Python script `evolutionary_distances.py` and two input files. The first input file should be a "full symmetric distance matrix" table (e.g., `buniformis_full_symmetric_distance_matrix.txt`) for each bacterial species where sample names are included as row names AND columns. Values are evolutionary distances between samples according to the StrainPhlAn distance matrix output (Kimura-corrected). The second file (e.g., `buniformis_with_distances_to_parents.txt`) would be a table with the samples as rows and the "Distances_to_mother" and "Distances_to_father" as two separate columns with the evolutionary distances values from each infant sample to the respective mother or father.
+
+
+
+
+
+## Authors
+
+
+
+
+- Michael A. Vig Merino - Main Author - TUM - michael.vig@tum.de; michael.vig.merino@gmail.com - [ORCID](https://orcid.org/0009-0004-3180-8480)
+- Svenja Weißenberger - TUM - svenja.weissenberger@tum.de - [ORCID](https://orcid.org/0009-0009-4374-0360)
 
 
 
