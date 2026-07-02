@@ -196,7 +196,7 @@ For the evolutionary distances we would need the Python script `evolutionary_dis
 
 
 
-- Michael A. Vig Merino - Main Author - TUM - michael.vig@tum.de; michael.vig.merino@gmail.com - [ORCID](https://orcid.org/0009-0004-3180-8480)
+- Michael A. Vig Merino - Main author - TUM - michael.vig@tum.de; michael.vig.merino@gmail.com - [ORCID](https://orcid.org/0009-0004-3180-8480)
 - Svenja Weißenberger - TUM - svenja.weissenberger@tum.de - [ORCID](https://orcid.org/0009-0009-4374-0360)
 
 
