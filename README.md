@@ -4,7 +4,7 @@
 
 
 
-![Pipeline overview](metagenomics_pipeline.pdf)
+![Pipeline overview](metagenomics_pipeline.png)
 
 
 
