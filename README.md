@@ -4,6 +4,12 @@
 
 
 
+![Pipeline overview](metagenomics_pipeline.pdf)
+
+
+
+
+
 ## Requirements
 
 
