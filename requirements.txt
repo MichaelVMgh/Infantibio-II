@@ -1,0 +1,12 @@
+## Requirements
+
+- MetaPhlAn==4.1.1    # includes StrainPhlAn 4.1.1
+- HUMAnN==3.6
+- PhyloPhlAn==3.1.1
+- graphlan==1.1.3.1
+- numpy==1.24.3
+- matplotlib==3.7.2
+- seaborn==0.11.2
+- pandas==1.5.3
+- scipy==1.11.1
+- statannotations==0.6.0

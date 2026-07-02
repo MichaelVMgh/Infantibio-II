@@ -20,7 +20,7 @@
 * Trim Galore v 0.6.10
 * MetaPhlAn v 4.1.1
 * StrainPhlAn v 4.1.1
-* HUMAnN v 3.6
+* HUMAnN v 3.6 (with MetaPhlAn 3.1.0 output)
 
 
 
