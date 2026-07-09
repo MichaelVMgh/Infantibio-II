@@ -1,402 +1,402 @@
-sampleid	ID	Time point	Feeding group	Feeding Overall	Exclusive	Type of Birth	Date	TimeOfDay	Sex
-102_12mo	102	12mo	B	B	mixed	vaginal	10/12/2019	8:00	male
-102_1mo	102	1mo	BF	B	mixed	vaginal	10/12/2018	8:00	male
-102_24mo	102	24mo	24mo	B	mixed	vaginal	11/11/2020	10:00	male
-102_3mo	102	3mo	BF	B	mixed	vaginal	19/02/2019	8:45	male
-102_7mo	102	7mo	B	B	mixed	vaginal	24/06/2019	9:00	male
-102_mom	102	mother	mother	mom	Parent	mother	10/12/2018	Morgens	
-116_12mo	116	12mo	C	C	mixed	vaginal	24/06/2020	9:30	male
-116_1mo	116	1mo	C	C	mixed	vaginal	24/07/2019	8:00	male
-116_24mo	116	24mo	24mo	C	mixed	vaginal	6/21/2021	13:00	male
-116_3mo	116	3mo	C	C	mixed	vaginal	26/09/2019	9:30	male
-116_7mo	116	7mo	C	C	mixed	vaginal	06/02/2020	14:00	male
-116_dad	116	father	father	dad	Parent	father	24/07/2019	Morgens	
-116_mom	116	mother	mother	mom	Parent	mother	24/07/2019	Morgens	
-120B_12mo	120B	12mo	BF	breastfeeding	bf	c-section	11/08/2020	9:00	female
-120B_1mo	120B	1mo	BF	breastfeeding	bf	c-section	09/09/2019	9:30	female
-120B_24mo	120B	24mo	24mo	breastfeeding	bf	c-section	na	na	female
-120B_3mo	120B	3mo	BF	breastfeeding	bf	c-section	29/10/2019	9:30	female
-120B_7mo	120B	7mo	BF	breastfeeding	bf	c-section	02/03/2020	8:00	female
-120B_dad	120B	father	father	dad	Parent	father	10/09/2019	Morgens	
-120B_mom	120B	mother	mother	mom	Parent	mother	09/09/2019	Abends	
-121_12mo	121	12mo	A	A	mixed	vaginal	22/01/2021	9:00	male
-121_1mo	121	1mo	A	A	mixed	vaginal	02/03/2020	22:00	male
-121_24mo	121	24mo	24mo	A	mixed	vaginal	1/23/2021	19:00	male
-121_3mo	121	3mo	A	A	mixed	vaginal	22/04/2020	21:30	male
-121_7mo	121	7mo	A	A	mixed	vaginal	21/09/2020	15:00	male
-121_dad	121	father	father	dad	Parent	father	02/03/2020	Abends	
-121_mom	121	mother	mother	mom	Parent	mother	02/03/2020	Abends	
-128_12mo	128	12mo	B	B	mixed	c-section	25/01/2021	15:00	female
-128_1mo	128	1mo	B	B	mixed	c-section	24/02/2020	16:30	female
-128_24mo	128	24mo	24mo	B	mixed	c-section	1/23/2022	16:30	female
-128_3mo	128	3mo	B	B	mixed	c-section	21/04/2020	8:30	female
-128_7mo	128	7mo	B	B	mixed	c-section	01/09/2020	7:30	female
-128_dad	128	father	father	dad	Parent	father	25/02/2020	Morgens	
-128_mom	128	mother	mother	mom	Parent	mother	24/02/2020	Mittags	
-131_12mo	131	12mo	A	A	mixed	c-section	10/09/2019	9:15	male
-131_1mo	131	1mo	BF	A	mixed	c-section	30/09/2018	15:30	male
-131_24mo	131	24mo	24mo	A	mixed	c-section	8/31/2020	13:00	male
-131_3mo	131	3mo	BF	A	mixed	c-section	05/12/2018	8:00	male
-131_7mo	131	7mo	BF	A	mixed	c-section	05/04/2019	8:30	male
-131_dad	131	father	father	dad	Parent	father	30/09/2018	Abends	
-131_mom	131	mother	mother	mom	Parent	mother	30/09/2018	Abends	
-142_12mo	142	12mo	B	B	mixed	vaginal	29/01/2020	5:30	male
-142_1mo	142	1mo	B	B	mixed	vaginal	19/02/2019	18:00	male
-142_24mo	142	24mo	24mo	B	mixed	vaginal	02/03/2021	18:30	male
-142_3mo	142	3mo	B	B	mixed	vaginal	10/04/2019	7:00	male
-142_7mo	142	7mo	B	B	mixed	vaginal	21/08/2019	18:30	male
-142_dad	142	father	father	dad	Parent	father	19/02/2019	Abends	
-142_mom	142	mother	mother	mom	Parent	mother	19/02/2019	Morgens	
-144_12mo	144	12mo	BF	breastfeeding	bf	vaginal	05/12/2019	8:45	female
-144_1mo	144	1mo	BF	breastfeeding	bf	vaginal	10/01/2019	10:00	female
-144_24mo	144	24mo	24mo	breastfeeding	bf	vaginal	12/19/2020	9:45	female
-144_3mo	144	3mo	BF	breastfeeding	bf	vaginal	14/03/2019	10:00	female
-144_7mo	144	7mo	BF	breastfeeding	bf	vaginal	27/06/2019	19:30	female
-144_dad	144	father	father	dad	Parent	father	10/01/2019	Mittags	
-144_mom	144	mother	mother	mom	Parent	mother	10/01/2019	Mittags	
-163_12mo	163	12mo	D	D	mixed	c-section	14/02/2021	18:30	female
-163_1mo	163	1mo	D	D	mixed	c-section	16/03/2020	10:15	female
-163_24mo	163	24mo	24mo	D	mixed	c-section	1/26/2022	8:00	female
-163_3mo	163	3mo	D	D	mixed	c-section	25/05/2020	13:00	female
-163_7mo	163	7mo	D	D	mixed	c-section	22/09/2020	10:30	female
-163_dad	163	father	father	dad	Parent	father	16/03/2020	na	
-163_mom	163	mother	mother	mom	Parent	mother	16/03/2020	na	
-178_12mo	178	12mo	C	C	mixed	c-section	22/01/2021	16:00	female
-178_1mo	178	1mo	C	C	mixed	c-section	13/02/2020	15:30	female
-178_24mo	178	24mo	24mo	C	mixed	c-section	2/15/2022	7:10	female
-178_3mo	178	3mo	C	C	mixed	c-section	21/04/2020	6:00	female
-178_7mo	178	7mo	C	C	mixed	c-section	27/08/2020	9:45	female
-178_dad	178	father	father	dad	Parent	father	13/02/2020	Morgens	
-178_mom	178	mother	mother	mom	Parent	mother	12/02/2020	Abends	
-183_12mo	183	12mo	A	A	mixed	c-section	01/09/2019	15:00	male
-183_1mo	183	1mo	A	A	mixed	c-section	01/10/2018	1:00	male
-183_24mo	183	24mo	24mo	A	mixed	c-section	09/01/2020	8:45	male
-183_3mo	183	3mo	A	A	mixed	c-section	26/11/2018	13:30	male
-183_7mo	183	7mo	A	A	mixed	c-section	31/03/2019	15:30	male
-183_dad	183	father	father	dad	Parent	father	30/09/2018	Morgens	
-183_mom	183	mother	mother	mom	Parent	mother	01/10/2018	Morgens	
-199_12mo	199	12mo	D	D	bottle	vaginal	13/01/2021	8:15	female
-199_1mo	199	1mo	D	D	bottle	vaginal	05/02/2020	11:30	female
-199_24mo	199	24mo	24mo	D	bottle	vaginal	12/10/2021	8:50	female
-199_3mo	199	3mo	D	D	bottle	vaginal	07/04/2020	7:30	female
-199_7mo	199	7mo	D	D	bottle	vaginal	12/08/2020	14:00	female
-199_mom	199	mother	mother	mom	Parent	mother	05/02/2020	Morgens	
-208_12mo	208	12mo	A	A	mixed	c-section	25/09/2019	9:00	female
-208_1mo	208	1mo	BF	A	mixed	c-section	23/10/2018	4:30	female
-208_24mo	208	24mo	24mo	A	mixed	c-section	9/27/2020	16:00	female
-208_3mo	208	3mo	BF	A	mixed	c-section	20/12/2018	keine Angabe	female
-208_7mo	208	7mo	A	A	mixed	c-section	09/04/2019	16:00	female
-208_dad	208	father	father	dad	Parent	father	22/10/2018	na	
-208_mom	208	mother	mother	mom	Parent	mother	23/10/2018	Morgens	
-214_12mo	214	12mo	D	D	mixed	vaginal	15/02/2021	19:00	female
-214_1mo	214	1mo	D	D	mixed	vaginal	18/03/2020	19:15	female
-214_24mo	214	24mo	24mo	D	mixed	vaginal	1/23/2022	19:30	female
-214_3mo	214	3mo	D	D	mixed	vaginal	25/05/2020	19:30	female
-214_7mo	214	7mo	D	D	mixed	vaginal	22/09/2020	18:00	female
-214_dad	214	father	father	dad	Parent	father	19/03/2020	Mittags	
-214_mom	214	mother	mother	mom	Parent	mother	18/03/2020	Abends	
-220_12mo	220	12mo	B	B	mixed	vaginal	05/04/2020	9:00	female
-220_1mo	220	1mo	B	B	mixed	vaginal	20/05/2019	18:00	female
-220_24mo	220	24mo	24mo	B	mixed	vaginal	04/06/2021	7:45	female
-220_3mo	220	3mo	B	B	mixed	vaginal	16/07/2019	10:00	female
-220_7mo	220	7mo	B	B	mixed	vaginal	05/11/2019	9:00	female
-220_dad	220	father	father	dad	Parent	father	21/05/2019	Morgens	
-220_mom	220	mother	mother	mom	Parent	mother	20/05/2019	Morgens	
-257_12mo	257	12mo	BF	breastfeeding	bf	c-section	14/03/2021	10:30	male
-257_1mo	257	1mo	BF	breastfeeding	bf	c-section	17/04/2020	7:45	male
-257_24mo	257	24mo	24mo	breastfeeding	bf	c-section	02/07/2022	7:45	male
-257_3mo	257	3mo	BF	breastfeeding	bf	c-section	22/05/2020	8:00	male
-257_7mo	257	7mo	BF	breastfeeding	bf	c-section	12/10/2020	10:30	male
-257_dad	257	father	father	dad	Parent	father	21/04/2020	Morgens	
-257_mom	257	mother	mother	mom	Parent	mother	21/04/2020	Morgens	
-263_12mo	263	12mo	B	B	mixed	vaginal	10/11/2020	9:00	female
-263_1mo	263	1mo	BF	B	mixed	vaginal	04/12/2019	15:00	female
-263_24mo	263	24mo	24mo	B	mixed	vaginal	11/04/2021	11:00	female
-263_3mo	263	3mo	BF	BF	mixed	vaginal	01/03/2020	9:30	female
-263_7mo	263	7mo	B	B	mixed	vaginal	15/06/2020	13:00	female
-263_dad	263	father	father	dad	Parent	father	05/12/2019	Morgens	
-263_mom	263	mother	mother	mom	Parent	mother	05/12/2019	Morgens	
-276_12mo	276	12mo	D	D	mixed	vaginal	23/04/2020	13:30	female
-276_1mo	276	1mo	BF	D	mixed	vaginal	28/05/2019	7:00	female
-276_24mo	276	24mo	24mo	D	mixed	vaginal	4/20/2021	7:30	female
-276_3mo	276	3mo	BF	BF	mixed	vaginal	29/07/2019	6:40	female
-276_7mo	276	7mo	D	D	mixed	vaginal	19/11/2019	11:30	female
-276_dad	276	father	father	dad	Parent	father	27/05/2019	Abends	
-276_mom	276	mother	mother	mom	Parent	mother	27/05/2019	Mittags	
-300_24mo	300	24mo	24mo	BF	bf	vaginal	10/15/2020	11:30	male
-300_3mo	300	3mo	BF	BF	bf	vaginal	28/01/2019	19:00	male
-300_7mo	300	7mo	BF	BF	bf	vaginal	01/07/2019	8:00	male
-300_mom	300	mother	mother	mom	Parent	mother	20/11/2018	Morgens	
-303_12mo	303	12mo	C	C	mixed	vaginal	22/10/2019	7:30	male
-303_1mo	303	1mo	BF	C	mixed	vaginal	12/11/2018	10:00	male
-303_24mo	303	24mo	24mo	C	mixed	vaginal	11/10/2020	7:30	male
-303_3mo	303	3mo	BF	BF	mixed	vaginal	29/01/2019	10:00	male
-303_7mo	303	7mo	C	C	mixed	vaginal	20/05/2019	8:30	male
-303_mom	303	mother	mother	mom	Parent	mother	12/11/2018	Morgens	
-327_12mo	327	12mo	C	C	mixed	c-section	20/01/2020	9:30	male
-327_1mo	327	1mo	BF	C	mixed	c-section	18/02/2019	20:00	male
-327_24mo	327	24mo	24mo	C	mixed	c-section	03/03/2021	7:50	male
-327_3mo	327	3mo	BF	C	mixed	c-section	07/04/2019	19:30	male
-327_7mo	327	7mo	BF	C	mixed	c-section	21/08/2019	20:40	male
-327_dad	327	father	father	dad	Parent	father	17/02/2019	Abends	
-327_mom	327	mother	mother	mom	Parent	mother	18/02/2019	Morgens	
-369_12mo	369	12mo	BF	breastfeeding	bf	c-section	14/03/2021	18:30	female
-369_1mo	369	1mo	BF	breastfeeding	bf	c-section	29/04/2020	7:40	female
-369_24mo	369	24mo	24mo	breastfeeding	bf	c-section	02/08/2022	7:10	female
-369_3mo	369	3mo	BF	breastfeeding	bf	c-section	06/07/2020	15:00	female
-369_7mo	369	7mo	BF	breastfeeding	bf	c-section	20/10/2020	7:10	female
-369_mom	369	mother	mother	mom	Parent	mother	29/04/2020	Morgens	
-387_12mo	387	12mo	BF	breastfeeding	bf	vaginal	12/03/2021	21:00	male
-387_1mo	387	1mo	BF	breastfeeding	bf	vaginal	20/04/2020	14:30	male
-387_24mo	387	24mo	24mo	BF	bf	vaginal	02/01/2022	14:00	male
-387_3mo	387	3mo	BF	BF	bf	vaginal	23/06/2020	9:30	male
-387_7mo	387	7mo	BF	BF	bf	vaginal	27/10/2020	18:40	male
-387_dad	387	father	father	dad	Parent	father	21/04/2020	Mittags	
-387_mom	387	mother	mother	mom	Parent	mother	20/04/2020	Abends	
-418_12mo	418	12mo	B	B	mixed	c-section	05/12/2019	8:30	female
-418_1mo	418	1mo	B	B	mixed	c-section	23/01/2019	18:00	female
-418_24mo	418	24mo	24mo	B	mixed	c-section	1/16/2021	11:00	female
-418_3mo	418	3mo	B	B	mixed	c-section	03/04/2019	16:00	female
-418_7mo	418	7mo	B	B	mixed	c-section	26/08/2019	18:00	female
-418_dad	418	father	father	dad	Parent	father	23/01/2019	Abends	
-418_mom	418	mother	mother	mom	Parent	mother	24/01/2019	Morgens	
-421_12mo	421	12mo	BF	breastfeeding	bf	vaginal	02/03/2020	16:50	female
-421_1mo	421	1mo	BF	breastfeeding	bf	vaginal	18/03/2019	4:00	female
-421_24mo	421	24mo	24mo	BF	bf	vaginal	03/02/2021	10:20	female
-421_3mo	421	3mo	BF	BF	bf	vaginal	21/05/2019	10:00	female
-421_7mo	421	7mo	BF	BF	bf	vaginal	17/09/2019	5:30	female
-421_dad	421	father	father	dad	Parent	father	17/03/2019	Abends	
-421_mom	421	mother	mother	mom	Parent	mother	18/03/2019	Morgens	
-430_12mo	430	12mo	BF	breastfeeding	bf	vaginal	26/01/2021	7:40	female
-430_1mo	430	1mo	BF	breastfeeding	bf	vaginal	24/02/2020	6:00	female
-430_24mo	430	24mo	24mo	breastfeeding	bf	vaginal	1/24/2022	14:55	female
-430_3mo	430	3mo	BF	breastfeeding	bf	vaginal	29/04/2020	7:30	female
-430_7mo	430	7mo	BF	breastfeeding	bf	vaginal	24/08/2020	8:40	female
-430_mom	430	mother	mother	mom	Parent	mother	24/02/2020	Morgens	
-432_12mo	432	12mo	BF	breastfeeding	bf	vaginal	28/04/2020	16:30	female
-432_1mo	432	1mo	BF	breastfeeding	bf	vaginal	03/06/2019	13:00	female
-432_24mo	432	24mo	24mo	BF	bf	vaginal	6/14/2021	15:45	female
-432_3mo	432	3mo	BF	BF	bf	vaginal	05/08/2019	15:00	female
-432_7mo	432	7mo	BF	BF	bf	vaginal	02/12/2019	12:00	female
-432_dad	432	father	father	dad	Parent	father	03/06/2019	Morgens	
-432_mom	432	mother	mother	mom	Parent	mother	03/06/2019	Mittags	
-501_12mo	501	12mo	BF	breastfeeding	bf	vaginal	20/07/2020	7:15	male
-501_1mo	501	1mo	BF	breastfeeding	bf	vaginal	21/08/2019	9:00	male
-501_24mo	501	24mo	24mo	breastfeeding	bf	vaginal	11/23/2021	20:30	male
-501_3mo	501	3mo	BF	breastfeeding	bf	vaginal	04/11/2019	6:00	male
-501_7mo	501	7mo	BF	breastfeeding	bf	vaginal	27/02/2020	14:00	male
-501_dad	501	father	father	dad	Parent	father	21/08/2019	Morgens	
-501_mom	501	mother	mother	mom	Parent	mother	20/08/2019	Mittags	
-502_12mo	502	12mo	BF	breastfeeding	bf	vaginal	17/12/2019	12:10	male
-502_1mo	502	1mo	BF	breastfeeding	bf	vaginal	07/01/2019	18:00	male
-502_24mo	502	24mo	24mo	breastfeeding	bf	vaginal	12/14/2020	11:45	male
-502_3mo	502	3mo	BF	breastfeeding	bf	vaginal	21/03/2019	7:30	male
-502_7mo	502	7mo	BF	breastfeeding	bf	vaginal	06/08/2019	7:30	male
-502_mom	502	mother	mother	mom	Parent	mother	13/01/2019	Mittags	
-523_12mo	523	12mo	BF	breastfeeding	bf	vaginal	15/02/2021	8:30	male
-523_1mo	523	1mo	BF	breastfeeding	bf	vaginal	16/03/2020	11:00	male
-523_24mo	523	24mo	24mo	BF	bf	vaginal	1/26/2022	9:00	male
-523_3mo	523	3mo	BF	BF	bf	vaginal	26/05/2020	9:00	male
-523_7mo	523	7mo	BF	BF	bf	vaginal	22/09/2020	9:30	male
-523_dad	523	father	father	dad	Parent	father	15/03/2020	Abends	
-523_mom	523	mother	mother	mom	Parent	mother	15/03/2020	Abends	
-527_12mo	527	12mo	BF	breastfeeding	bf	vaginal	24/09/2019	8:30	male
-527_1mo	527	1mo	BF	breastfeeding	bf	vaginal	24/10/2018	19:00	male
-527_24mo	527	24mo	24mo	BF	bf	vaginal	9/25/2020	7:30	male
-527_3mo	527	3mo	BF	BF	bf	vaginal	18/12/2018	7:45	male
-527_7mo	527	7mo	BF	BF	bf	vaginal	15/04/2019	8:15	male
-527_dad	527	father	father	dad	Parent	father	22/10/2018	Morgens	
-527_mom	527	mother	mother	mom	Parent	mother	22/10/2018	Morgens	
-544_12mo	544	12mo	BF	breastfeeding	bf	vaginal	16/06/2020	18:00	female
-544_1mo	544	1mo	BF	breastfeeding	bf	vaginal	15/07/2019	9:00	female
-544_24mo	544	24mo	24mo	BF	bf	vaginal	6/20/2021	10:00	female
-544_3mo	544	3mo	BF	BF	bf	vaginal	03/09/2019	11:00	female
-544_7mo	544	7mo	BF	BF	bf	vaginal	28/01/2020	9:30	female
-544_dad	544	father	father	dad	Parent	father	15/07/2019	Morgens	
-544_mom	544	mother	mother	mom	Parent	mother	15/07/2019	Morgens	
-568_12mo	568	12mo	A	A	mixed	vaginal	09/07/2020	10:00	male
-568_1mo	568	1mo	BF	A	mixed	vaginal	09/08/2019	8:00	male
-568_24mo	568	24mo	24mo	A	mixed	vaginal	11/09/2021	14:45	male
-568_3mo	568	3mo	BF	BF	mixed	vaginal	07/10/2019	7:00	male
-568_7mo	568	7mo	A	A	mixed	vaginal	25/02/2020	12:00	male
-568_dad	568	father	father	dad	Parent	father	09/08/2019	Morgens	
-568_mom	568	mother	mother	mom	Parent	mother	07/10/2019	Morgens	
-577A_12mo	577A	12mo	B	B	mixed	vaginal	23/04/2020	18:30	female
-577A_1mo	577A	1mo	BF	B	mixed	vaginal	22/05/2019	8:00	female
-577A_24mo	577A	24mo	24mo	B	mixed	vaginal	na	na	female
-577A_3mo	577A	3mo	BF	B	mixed	vaginal	22/07/2019	13:45	female
-577A_7mo	577A	7mo	B	B	mixed	vaginal	20/11/2019	14:00	female
-577A_mom	577A	mother	mother	mom	Parent	mother	22/05/2019	Morgens	
-599_12mo	599	12mo	A	A	mixed	vaginal	24/05/2020	17:00	male
-599_1mo	599	1mo	BF	A	mixed	vaginal	16/06/2019	22:00	male
-599_24mo	599	24mo	24mo	A	mixed	vaginal	6/16/2021	17:00	male
-599_3mo	599	3mo	A	A	mixed	vaginal	27/08/2019	13:00	male
-599_7mo	599	7mo	A	A	mixed	vaginal	09/12/2019	16:00	male
-599_mom	599	mother	mother	mom	Parent	mother	17/06/2019	na	
-605_12mo	605	12mo	C	C	mixed	vaginal	21/09/2020	18:30	male
-605_1mo	605	1mo	BF	C	mixed	vaginal	30/10/2019	10:00	male
-605_24mo	605	24mo	24mo	C	mixed	vaginal	11/24/2021	17:00	male
-605_3mo	605	3mo	BF	BF	mixed	vaginal	16/12/2019	8:15	male
-605_7mo	605	7mo	C	C	mixed	vaginal	22/04/2020	8:30	male
-605_dad	605	father	father	dad	Parent	father	29/10/2019	Abends	
-605_mom	605	mother	mother	mom	Parent	mother	29/10/2019	Mittags	
-668_12mo	668	12mo	A	A	mixed	vaginal	14/01/2020	8:00	female
-668_1mo	668	1mo	BF	A	mixed	vaginal	04/02/2019	23:00	female
-668_24mo	668	24mo	24mo	A	mixed	vaginal	1/28/2021	14:00	female
-668_3mo	668	3mo	BF	A	mixed	vaginal	20/03/2019	20:00	female
-668_7mo	668	7mo	A	A	mixed	vaginal	28/07/2019	21:00	female
-668_mom	668	mother	mother	mom	Parent	mother	05/02/2019	na	
-679_12mo	679	12mo	D	D	mixed	vaginal	25/01/2021	15:30	male
-679_1mo	679	1mo	BF	D	mixed	vaginal	25/02/2020	6:00	male
-679_24mo	679	24mo	24mo	D	mixed	vaginal	1/22/2022	15:00	male
-679_3mo	679	3mo	BF	D	mixed	vaginal	22/04/2020	14:00	male
-679_7mo	679	7mo	D	D	mixed	vaginal	13/08/2020	9:00	male
-679_dad	679	father	father	dad	Parent	father	25/02/2020	Morgens	
-679_mom	679	mother	mother	mom	Parent	mother	24/02/2020	Mittags	
-710_12mo	710	12mo	C	C	mixed	vaginal	25/05/2020	11:00	female
-710_1mo	710	1mo	BF	C	mixed	vaginal	03/06/2019	8:00	female
-710_24mo	710	24mo	24mo	C	mixed	vaginal	6/13/2021	18:30	female
-710_3mo	710	3mo	BF	BF	mixed	vaginal	01/08/2019	7:00	female
-710_7mo	710	7mo	BF	BF	mixed	vaginal	23/01/2020	8:00	female
-710_mom	710	mother	mother	mom	Parent	mother	03/06/2019	Morgens	
-719_12mo	719	12mo	C	C	mixed	c-section	19/11/2019	9:00	male
-719_1mo	719	1mo	C	C	mixed	c-section	26/11/2018	16:00	male
-719_24mo	719	24mo	24mo	C	mixed	c-section	11/19/2020	9:45	male
-719_3mo	719	3mo	C	C	mixed	c-section	29/01/2019	2:00	male
-719_7mo	719	7mo	C	C	mixed	c-section	23/06/2019	11:00	male
-719_mom	719	mother	mother	mom	Parent	mother	27/11/2018	Morgens	
-748_12mo	748	12mo	D	D	mixed	c-section	03/12/2020	12:30	female
-748_1mo	748	1mo	D	D	mixed	c-section	14/01/2020	17:15	female
-748_24mo	748	24mo	24mo	D	mixed	c-section	12/07/2021	18:55	female
-748_3mo	748	3mo	D	BF	mixed	c-section	03/03/2020	14:30	female
-748_7mo	748	7mo	D	D	mixed	c-section	07/07/2020	7:30	female
-748_dad	748	father	father	dad	Parent	father	14/01/2020	Morgens	
-748_mom	748	mother	mother	mom	Parent	mother	13/01/2020	Abends	
-756_12mo	756	12mo	BF	breastfeeding	bf	vaginal	01/09/2020	8:20	female
-756_1mo	756	1mo	BF	breastfeeding	bf	vaginal	07/10/2019	17:30	female
-756_24mo	756	24mo	24mo	BF	bf	vaginal	11/22/2021	18:55	female
-756_3mo	756	3mo	BF	BF	bf	vaginal	28/11/2019	6:45	female
-756_7mo	756	7mo	BF	BF	bf	vaginal	25/04/2020	8:30	female
-756_dad	756	father	father	dad	Parent	father	08/10/2019	Morgens	
-756_mom	756	mother	mother	mom	Parent	mother	08/10/2019	Morgens	
-789_12mo	789	12mo	BF	breastfeeding	bf	vaginal	09/09/2019	10:00	female
-789_1mo	789	1mo	BF	breastfeeding	bf	vaginal	27/08/2018	keine Angabe	female
-789_24mo	789	24mo	24mo	BF	bf	vaginal	08/12/2020	11:15	female
-789_7mo	789	7mo	BF	BF	bf	vaginal	07/03/2019	15:00	female
-789_dad	789	father	father	dad	Parent	father	27/08/2018	na	
-789_mom	789	mother	mother	mom	Parent	mother	27/08/2018	NA	
-792_12mo	792	12mo	BF	breastfeeding	bf	vaginal	12/08/2020	8:30	female
-792_1mo	792	1mo	BF	breastfeeding	bf	vaginal	16/09/2019	8:00	female
-792_24mo	792	24mo	24mo	breastfeeding	bf	vaginal	1/20/2022	8:00	female
-792_3mo	792	3mo	BF	breastfeeding	bf	vaginal	11/11/2019	10:45	female
-792_7mo	792	7mo	BF	breastfeeding	bf	vaginal	16/03/2020	10:00	female
-792_dad	792	father	father	dad	Parent	father	16/09/2019	Morgens	
-792_mom	792	mother	mother	mom	Parent	mother	15/09/2019	Mittags	
-802_12mo	802	12mo	D	D	mixed	vaginal	20/07/2020	8:30	female
-802_1mo	802	1mo	D	D	mixed	vaginal	21/08/2019	14:00	female
-802_24mo	802	24mo	24mo	D	mixed	vaginal	11/29/2021	18:45	female
-802_3mo	802	3mo	D	D	mixed	vaginal	13/10/2019	17:00	female
-802_7mo	802	7mo	D	D	mixed	vaginal	27/02/2020	12:00	female
-802_dad	802	father	father	dad	Parent	father	21/08/2019	Mittags	
-802_mom	802	mother	mother	mom	Parent	mother	21/08/2019	Morgens	
-806_12mo	806	12mo	A	A	mixed	vaginal	04/03/2021	8:15	female
-806_1mo	806	1mo	A	A	mixed	vaginal	30/03/2020	17:00	female
-806_24mo	806	24mo	24mo	A	mixed	vaginal	02/05/2022	8:45	female
-806_3mo	806	3mo	A	A	mixed	vaginal	25/05/2020	13:50	female
-806_7mo	806	7mo	A	A	mixed	vaginal	27/09/2020	11:20	female
-806_dad	806	father	father	dad	Parent	father	30/03/2020	Morgens	
-806_mom	806	mother	mother	mom	Parent	mother	30/03/2020	Morgens	
-819_12mo	819	12mo	D	D	mixed	c-section	23/01/2020	7:30	female
-819_1mo	819	1mo	BF	D	mixed	c-section	26/02/2019	7:00	female
-819_24mo	819	24mo	24mo	D	mixed	c-section	2/25/2021	18:00	female
-819_3mo	819	3mo	D	D	mixed	c-section	20/05/2019	7:30	female
-819_7mo	819	7mo	D	D	mixed	c-section	25/08/2019	10:00	female
-819_dad	819	father	father	dad	Parent	father	26/02/2019	na	
-819_mom	819	mother	mother	mom	Parent	mother	25/02/2019	Morgens	
-836_12mo	836	12mo	C	C	mixed	vaginal	19/01/2021	14:30	male
-836_1mo	836	1mo	C	C	mixed	vaginal	04/02/2020	8:00	male
-836_24mo	836	24mo	24mo	C	mixed	vaginal	12/07/2021	17:00	male
-836_3mo	836	3mo	C	C	mixed	vaginal	08/04/2020	19:00	male
-836_7mo	836	7mo	C	C	mixed	vaginal	29/07/2020	9:15	male
-836_mom	836	mother	mother	mom	Parent	mother	04/02/2020	Morgens	
-839_12mo	839	12mo	D	D	mixed	c-section	31/05/2020	19:00	male
-839_1mo	839	1mo	D	D	mixed	c-section	18/06/2019	8:45	male
-839_24mo	839	24mo	24mo	D	mixed	c-section	5/27/2021	11:00	male
-839_3mo	839	3mo	D	D	mixed	c-section	20/08/2019	8:00	male
-839_7mo	839	7mo	D	D	mixed	c-section	16/12/2019	7:00	male
-839_dad	839	father	father	dad	Parent	father	17/06/2019	Abends	
-839_mom	839	mother	mother	mom	Parent	mother	17/06/2019	Morgens	
-859_12mo	859	12mo	B	B	mixed	vaginal	19/09/2019	8:00	female
-859_1mo	859	1mo	B	B	mixed	vaginal	09/10/2018	17:00	female
-859_24mo	859	24mo	24mo	B	mixed	vaginal	9/13/2020	14:00	female
-859_3mo	859	3mo	B	B	mixed	vaginal	12/12/2018	8:00	female
-859_7mo	859	7mo	B	B	mixed	vaginal	22/04/2019	20:00	female
-859_dad	859	father	father	dad	Parent	father	09/10/2018	Morgens	
-859_mom	859	mother	mother	mom	Parent	mother	09/10/2018	Abends	
-861_12mo	861	12mo	BF	breastfeeding	bf	vaginal	03/09/2019	14:30	female
-861_1mo	861	1mo	BF	breastfeeding	bf	vaginal	18/09/2018	21:00	female
-861_24mo	861	24mo	24mo	BF	bf	vaginal	09/01/2020	7:00	female
-861_3mo	861	3mo	BF	BF	bf	vaginal	05/12/2018	8:30	female
-861_7mo	861	7mo	BF	BF	bf	vaginal	05/04/2019	11:30	female
-861_dad	861	father	father	dad	Parent	father	19/09/2018	Morgens	
-861_mom	861	mother	mother	mom	Parent	mother	18/09/2018	Mittags	
-865_12mo	865	12mo	B	B	mixed	vaginal	21/01/2020	7:30	female
-865_1mo	865	1mo	B	B	mixed	vaginal	06/02/2019	keine Angabe	female
-865_24mo	865	24mo	24mo	B	mixed	vaginal	02/12/2021	19:30	female
-865_3mo	865	3mo	B	BF	mixed	vaginal	08/04/2019	11:00	female
-865_7mo	865	7mo	B	B	mixed	vaginal	26/08/2019	10:00	female
-865_dad	865	father	father	dad	Parent	father	05/02/2019	Abends	
-865_mom	865	mother	mother	mom	Parent	mother	04/02/2019	Morgens	
-907_12mo	907	12mo	BF	breastfeeding	bf	vaginal	03/12/2020	7:00	female
-907_1mo	907	1mo	BF	breastfeeding	bf	vaginal	17/12/2019	5:00	female
-907_24mo	907	24mo	24mo	BF	bf	vaginal	02/03/2022	7:45	female
-907_3mo	907	3mo	BF	BF	bf	vaginal	09/03/2020	9:00	female
-907_7mo	907	7mo	BF	BF	bf	vaginal	23/06/2020	8:00	female
-907_mom	907	mother	mother	mom	Parent	mother	17/12/2019	Mittags	
-912_12mo	912	12mo	BF	breastfeeding	bf	vaginal	14/02/2021	8:00	female
-912_1mo	912	1mo	BF	breastfeeding	bf	vaginal	16/03/2020	8:00	female
-912_24mo	912	24mo	24mo	breastfeeding	bf	vaginal	02/07/2022	17:00	female
-912_3mo	912	3mo	BF	breastfeeding	bf	vaginal	26/05/2020	17:30	female
-912_7mo	912	7mo	BF	breastfeeding	bf	vaginal	22/09/2020	7:45	female
-912_mom	912	mother	mother	mom	Parent	mother	16/03/2020	Morgens	
-933_12mo	933	12mo	C	C	mixed	c-section	10/11/2019	8:00	male
-933_1mo	933	1mo	C	C	mixed	c-section	03/12/2018	11:00	male
-933_24mo	933	24mo	24mo	C	mixed	c-section	11/10/2020	8:15	male
-933_3mo	933	3mo	C	C	mixed	c-section	12/02/2019	16:30	male
-933_7mo	933	7mo	C	C	mixed	c-section	18/06/2019	8:45	male
-933_dad	933	father	father	dad	Parent	father	03/12/2018	Morgens	
-933_mom	933	mother	mother	mom	Parent	mother	02/12/2018	Abends	
-960_12mo	960	12mo	A	A	mixed	vaginal	26/02/2020	19:30	female
-960_1mo	960	1mo	A	A	mixed	vaginal	18/03/2019	17:00	female
-960_24mo	960	24mo	24mo	A	mixed	vaginal	2/18/2021	18:30	female
-960_3mo	960	3mo	A	A	mixed	vaginal	17/06/2019	11:30	female
-960_7mo	960	7mo	A	A	mixed	vaginal	09/09/2019	7:30	female
-960_dad	960	father	father	dad	Parent	father	18/03/2019	Mittags	
-960_mom	960	mother	mother	mom	Parent	mother	17/03/2019	Abends	
-968_12mo	968	12mo	B	B	mixed	vaginal	24/05/2020	15:00	male
-968_1mo	968	1mo	B	B	mixed	vaginal	01/07/2019	16:00	male
-968_24mo	968	24mo	24mo	B	mixed	vaginal	06/10/2021	7:00	male
-968_3mo	968	3mo	B	B	mixed	vaginal	23/08/2019	20:30	male
-968_7mo	968	7mo	B	B	mixed	vaginal	19/01/2020	8:00	male
-968_dad	968	father	father	dad	Parent	father	02/07/2019	Morgens	
-968_mom	968	mother	mother	mom	Parent	mother	01/07/2019	Abends	
-975_12mo	975	12mo	A	A	mixed	vaginal	01/10/2019	12:00	male
-975_1mo	975	1mo	A	A	mixed	vaginal	17/10/2018	11:00	male
-975_24mo	975	24mo	24mo	A	mixed	vaginal	09/02/2020	7:30	male
-975_3mo	975	3mo	A	A	mixed	vaginal	06/12/2018	3:00	male
-975_7mo	975	7mo	A	A	mixed	vaginal	08/03/2019	6:30	male
-975_mom	975	mother	mother	mom	Parent	mother	18/10/2018	Morgens	
-981_12mo	981	12mo	D	D	bottle	c-section	21/09/2020	13:15	female
-981_1mo	981	1mo	D	D	bottle	c-section	03/11/2019	17:30	female
-981_24mo	981	24mo	24mo	D	bottle	c-section	11/22/2021	11:45	female
-981_3mo	981	3mo	D	D	bottle	c-section	12/01/2020	13:00	female
-981_7mo	981	7mo	D	D	bottle	c-section	28/04/2020	11:00	female
-981_dad	981	father	father	dad	Parent	father	04/11/2019	Morgens	
-981_mom	981	mother	mother	mom	Parent	mother	04/11/2019	Morgens	
-999_12mo	999	12mo	C	C	mixed	c-section	08/10/2019	7:45	male
-999_1mo	999	1mo	BF	C	mixed	c-section	23/10/2018	9:00	male
-999_24mo	999	24mo	24mo	C	mixed	c-section	10/14/2020	7:00	male
-999_3mo	999	3mo	BF	C	mixed	c-section	19/12/2018	9:00	male
-999_7mo	999	7mo	C	C	mixed	c-section	10/04/2019	9:00	male
-999_dad	999	father	father	dad	Parent	father	23/10/2018	Abends	
-999_mom	999	mother	mother	mom	Parent	mother	23/10/2018	Morgens	
+sample_name	organism	host	isolation_source	collection_date	geo_loc_name	ID	Time_point	Feeding_group	Feeding_Overall	Exclusive	Type_of_Birth	Time_of_Day	Sex	Weight_at_Birth	Antibiotics_in_Mother
+102_12mo	human gut metagenome	Homo sapiens	stool	10/12/2019	Germany: Bavaria	102	12mo	B	B	mixed	vaginal	8:00	male	2970	yes
+116_12mo	human gut metagenome	Homo sapiens	stool	24/06/2020	Germany: Bavaria	116	12mo	C	C	mixed	vaginal	9:30	male	3560	no
+120B_12mo	human gut metagenome	Homo sapiens	stool	11/08/2020	Germany: Bavaria	120B	12mo	BF	breastfeeding	bf	c-section	9:00	female	2500	yes
+121_12mo	human gut metagenome	Homo sapiens	stool	22/01/2021	Germany: Bavaria	121	12mo	A	A	mixed	vaginal	9:00	male	3725	yes
+128_12mo	human gut metagenome	Homo sapiens	stool	25/01/2021	Germany: Bavaria	128	12mo	B	B	mixed	c-section	15:00	female	2890	no
+131_12mo	human gut metagenome	Homo sapiens	stool	10/09/2019	Germany: Bavaria	131	12mo	A	A	mixed	c-section	9:15	male	3350	no
+142_12mo	human gut metagenome	Homo sapiens	stool	29/01/2020	Germany: Bavaria	142	12mo	B	B	mixed	vaginal	5:30	male	3550	no
+144_12mo	human gut metagenome	Homo sapiens	stool	05/12/2019	Germany: Bavaria	144	12mo	BF	breastfeeding	bf	vaginal	8:45	female	3570	yes
+163_12mo	human gut metagenome	Homo sapiens	stool	14/02/2021	Germany: Bavaria	163	12mo	D	D	mixed	c-section	18:30	female	3535	no
+178_12mo	human gut metagenome	Homo sapiens	stool	22/01/2021	Germany: Bavaria	178	12mo	C	C	mixed	c-section	16:00	female	3870	yes
+183_12mo	human gut metagenome	Homo sapiens	stool	01/09/2019	Germany: Bavaria	183	12mo	A	A	mixed	c-section	15:00	male	3100	no
+199_12mo	human gut metagenome	Homo sapiens	stool	13/01/2021	Germany: Bavaria	199	12mo	D	D	bottle	vaginal	8:15	female	3050	no
+208_12mo	human gut metagenome	Homo sapiens	stool	25/09/2019	Germany: Bavaria	208	12mo	A	A	mixed	c-section	9:00	female	2800	no
+214_12mo	human gut metagenome	Homo sapiens	stool	15/02/2021	Germany: Bavaria	214	12mo	D	D	mixed	vaginal	19:00	female	2910	yes
+220_12mo	human gut metagenome	Homo sapiens	stool	05/04/2020	Germany: Bavaria	220	12mo	B	B	mixed	vaginal	9:00	female	3580	no
+257_12mo	human gut metagenome	Homo sapiens	stool	14/03/2021	Germany: Bavaria	257	12mo	BF	breastfeeding	bf	c-section	10:30	male	4450	yes
+263_12mo	human gut metagenome	Homo sapiens	stool	10/11/2020	Germany: Bavaria	263	12mo	B	B	mixed	vaginal	9:00	female	3170	no
+276_12mo	human gut metagenome	Homo sapiens	stool	23/04/2020	Germany: Bavaria	276	12mo	D	D	mixed	vaginal	13:30	female	3475	no
+303_12mo	human gut metagenome	Homo sapiens	stool	22/10/2019	Germany: Bavaria	303	12mo	C	C	mixed	vaginal	7:30	male	2830	yes
+327_12mo	human gut metagenome	Homo sapiens	stool	20/01/2020	Germany: Bavaria	327	12mo	C	C	mixed	c-section	9:30	male	3270	yes
+369_12mo	human gut metagenome	Homo sapiens	stool	14/03/2021	Germany: Bavaria	369	12mo	BF	breastfeeding	bf	c-section	18:30	female	3250	yes
+387_12mo	human gut metagenome	Homo sapiens	stool	12/03/2021	Germany: Bavaria	387	12mo	BF	breastfeeding	bf	vaginal	21:00	male	3380	no
+418_12mo	human gut metagenome	Homo sapiens	stool	05/12/2019	Germany: Bavaria	418	12mo	B	B	mixed	c-section	8:30	female	3300	yes
+421_12mo	human gut metagenome	Homo sapiens	stool	02/03/2020	Germany: Bavaria	421	12mo	BF	breastfeeding	bf	vaginal	16:50	female	3020	no
+430_12mo	human gut metagenome	Homo sapiens	stool	26/01/2021	Germany: Bavaria	430	12mo	BF	breastfeeding	bf	vaginal	7:40	female	3480	no
+432_12mo	human gut metagenome	Homo sapiens	stool	28/04/2020	Germany: Bavaria	432	12mo	BF	breastfeeding	bf	vaginal	16:30	female	3015	no
+501_12mo	human gut metagenome	Homo sapiens	stool	20/07/2020	Germany: Bavaria	501	12mo	BF	breastfeeding	bf	vaginal	7:15	male	3630	yes
+502_12mo	human gut metagenome	Homo sapiens	stool	17/12/2019	Germany: Bavaria	502	12mo	BF	breastfeeding	bf	vaginal	12:10	male	2315	yes
+523_12mo	human gut metagenome	Homo sapiens	stool	15/02/2021	Germany: Bavaria	523	12mo	BF	breastfeeding	bf	vaginal	8:30	male	3920	no
+527_12mo	human gut metagenome	Homo sapiens	stool	24/09/2019	Germany: Bavaria	527	12mo	BF	breastfeeding	bf	vaginal	8:30	male	4520	no
+544_12mo	human gut metagenome	Homo sapiens	stool	16/06/2020	Germany: Bavaria	544	12mo	BF	breastfeeding	bf	vaginal	18:00	female	3600	no
+568_12mo	human gut metagenome	Homo sapiens	stool	09/07/2020	Germany: Bavaria	568	12mo	A	A	mixed	vaginal	10:00	male	3720	no
+577A_12mo	human gut metagenome	Homo sapiens	stool	23/04/2020	Germany: Bavaria	577A	12mo	B	B	mixed	vaginal	18:30	female	2480	yes
+599_12mo	human gut metagenome	Homo sapiens	stool	24/05/2020	Germany: Bavaria	599	12mo	A	A	mixed	vaginal	17:00	male	4180	no
+605_12mo	human gut metagenome	Homo sapiens	stool	21/09/2020	Germany: Bavaria	605	12mo	C	C	mixed	vaginal	18:30	male	3990	no
+668_12mo	human gut metagenome	Homo sapiens	stool	14/01/2020	Germany: Bavaria	668	12mo	A	A	mixed	vaginal	8:00	female	3450	yes
+679_12mo	human gut metagenome	Homo sapiens	stool	25/01/2021	Germany: Bavaria	679	12mo	D	D	mixed	vaginal	15:30	male	3500	yes
+710_12mo	human gut metagenome	Homo sapiens	stool	25/05/2020	Germany: Bavaria	710	12mo	C	C	mixed	vaginal	11:00	female	3090	no
+719_12mo	human gut metagenome	Homo sapiens	stool	19/11/2019	Germany: Bavaria	719	12mo	C	C	mixed	c-section	9:00	male	4700	yes
+748_12mo	human gut metagenome	Homo sapiens	stool	03/12/2020	Germany: Bavaria	748	12mo	D	D	mixed	c-section	12:30	female	3520	no
+756_12mo	human gut metagenome	Homo sapiens	stool	01/09/2020	Germany: Bavaria	756	12mo	BF	breastfeeding	bf	vaginal	8:20	female	3070	no
+789_12mo	human gut metagenome	Homo sapiens	stool	09/09/2019	Germany: Bavaria	789	12mo	BF	breastfeeding	bf	vaginal	10:00	female	3600	no
+792_12mo	human gut metagenome	Homo sapiens	stool	12/08/2020	Germany: Bavaria	792	12mo	BF	breastfeeding	bf	vaginal	8:30	female	2770	yes
+802_12mo	human gut metagenome	Homo sapiens	stool	20/07/2020	Germany: Bavaria	802	12mo	D	D	mixed	vaginal	8:30	female	3345	yes
+806_12mo	human gut metagenome	Homo sapiens	stool	04/03/2021	Germany: Bavaria	806	12mo	A	A	mixed	vaginal	8:15	female	3240	yes
+819_12mo	human gut metagenome	Homo sapiens	stool	23/01/2020	Germany: Bavaria	819	12mo	D	D	mixed	c-section	7:30	female	3440	yes
+836_12mo	human gut metagenome	Homo sapiens	stool	19/01/2021	Germany: Bavaria	836	12mo	C	C	mixed	vaginal	14:30	male	2840	yes
+839_12mo	human gut metagenome	Homo sapiens	stool	31/05/2020	Germany: Bavaria	839	12mo	D	D	mixed	c-section	19:00	male	3800	yes
+859_12mo	human gut metagenome	Homo sapiens	stool	19/09/2019	Germany: Bavaria	859	12mo	B	B	mixed	vaginal	8:00	female	2830	no
+861_12mo	human gut metagenome	Homo sapiens	stool	03/09/2019	Germany: Bavaria	861	12mo	BF	breastfeeding	bf	vaginal	14:30	female	3620	no
+865_12mo	human gut metagenome	Homo sapiens	stool	21/01/2020	Germany: Bavaria	865	12mo	B	B	mixed	vaginal	7:30	female	3080	no
+907_12mo	human gut metagenome	Homo sapiens	stool	03/12/2020	Germany: Bavaria	907	12mo	BF	breastfeeding	bf	vaginal	7:00	female	4000	no
+912_12mo	human gut metagenome	Homo sapiens	stool	14/02/2021	Germany: Bavaria	912	12mo	BF	breastfeeding	bf	vaginal	8:00	female	3380	no
+933_12mo	human gut metagenome	Homo sapiens	stool	10/11/2019	Germany: Bavaria	933	12mo	C	C	mixed	c-section	8:00	male	3975	yes
+960_12mo	human gut metagenome	Homo sapiens	stool	26/02/2020	Germany: Bavaria	960	12mo	A	A	mixed	vaginal	19:30	female	3270	no
+968_12mo	human gut metagenome	Homo sapiens	stool	24/05/2020	Germany: Bavaria	968	12mo	B	B	mixed	vaginal	15:00	male	3880	no
+975_12mo	human gut metagenome	Homo sapiens	stool	01/10/2019	Germany: Bavaria	975	12mo	A	A	mixed	vaginal	12:00	male	3895	no
+981_12mo	human gut metagenome	Homo sapiens	stool	21/09/2020	Germany: Bavaria	981	12mo	D	D	bottle	c-section	13:15	female	2990	no
+999_12mo	human gut metagenome	Homo sapiens	stool	08/10/2019	Germany: Bavaria	999	12mo	C	C	mixed	c-section	7:45	male	3390	yes
+102_1mo	human gut metagenome	Homo sapiens	stool	10/12/2018	Germany: Bavaria	102	1mo	BF	B	mixed	vaginal	8:00	male	2970	yes
+116_1mo	human gut metagenome	Homo sapiens	stool	24/07/2019	Germany: Bavaria	116	1mo	C	C	mixed	vaginal	8:00	male	3560	no
+120B_1mo	human gut metagenome	Homo sapiens	stool	09/09/2019	Germany: Bavaria	120B	1mo	BF	breastfeeding	bf	c-section	9:30	female	2500	yes
+121_1mo	human gut metagenome	Homo sapiens	stool	02/03/2020	Germany: Bavaria	121	1mo	A	A	mixed	vaginal	22:00	male	3725	yes
+128_1mo	human gut metagenome	Homo sapiens	stool	24/02/2020	Germany: Bavaria	128	1mo	B	B	mixed	c-section	16:30	female	2890	no
+131_1mo	human gut metagenome	Homo sapiens	stool	30/09/2018	Germany: Bavaria	131	1mo	BF	A	mixed	c-section	15:30	male	3350	no
+142_1mo	human gut metagenome	Homo sapiens	stool	19/02/2019	Germany: Bavaria	142	1mo	B	B	mixed	vaginal	18:00	male	3550	no
+144_1mo	human gut metagenome	Homo sapiens	stool	10/01/2019	Germany: Bavaria	144	1mo	BF	breastfeeding	bf	vaginal	10:00	female	3570	yes
+163_1mo	human gut metagenome	Homo sapiens	stool	16/03/2020	Germany: Bavaria	163	1mo	D	D	mixed	c-section	10:15	female	3535	no
+178_1mo	human gut metagenome	Homo sapiens	stool	13/02/2020	Germany: Bavaria	178	1mo	C	C	mixed	c-section	15:30	female	3870	yes
+183_1mo	human gut metagenome	Homo sapiens	stool	01/10/2018	Germany: Bavaria	183	1mo	A	A	mixed	c-section	1:00	male	3100	no
+199_1mo	human gut metagenome	Homo sapiens	stool	05/02/2020	Germany: Bavaria	199	1mo	D	D	bottle	vaginal	11:30	female	3050	no
+208_1mo	human gut metagenome	Homo sapiens	stool	23/10/2018	Germany: Bavaria	208	1mo	BF	A	mixed	c-section	4:30	female	2800	no
+214_1mo	human gut metagenome	Homo sapiens	stool	18/03/2020	Germany: Bavaria	214	1mo	D	D	mixed	vaginal	19:15	female	2910	yes
+220_1mo	human gut metagenome	Homo sapiens	stool	20/05/2019	Germany: Bavaria	220	1mo	B	B	mixed	vaginal	18:00	female	3580	no
+257_1mo	human gut metagenome	Homo sapiens	stool	17/04/2020	Germany: Bavaria	257	1mo	BF	breastfeeding	bf	c-section	7:45	male	4450	yes
+263_1mo	human gut metagenome	Homo sapiens	stool	04/12/2019	Germany: Bavaria	263	1mo	BF	B	mixed	vaginal	15:00	female	3170	no
+276_1mo	human gut metagenome	Homo sapiens	stool	28/05/2019	Germany: Bavaria	276	1mo	BF	D	mixed	vaginal	7:00	female	3475	no
+303_1mo	human gut metagenome	Homo sapiens	stool	12/11/2018	Germany: Bavaria	303	1mo	BF	C	mixed	vaginal	10:00	male	2830	yes
+327_1mo	human gut metagenome	Homo sapiens	stool	18/02/2019	Germany: Bavaria	327	1mo	BF	C	mixed	c-section	20:00	male	3270	yes
+369_1mo	human gut metagenome	Homo sapiens	stool	29/04/2020	Germany: Bavaria	369	1mo	BF	breastfeeding	bf	c-section	7:40	female	3250	yes
+387_1mo	human gut metagenome	Homo sapiens	stool	20/04/2020	Germany: Bavaria	387	1mo	BF	breastfeeding	bf	vaginal	14:30	male	3380	no
+418_1mo	human gut metagenome	Homo sapiens	stool	23/01/2019	Germany: Bavaria	418	1mo	B	B	mixed	c-section	18:00	female	3300	yes
+421_1mo	human gut metagenome	Homo sapiens	stool	18/03/2019	Germany: Bavaria	421	1mo	BF	breastfeeding	bf	vaginal	4:00	female	3020	no
+430_1mo	human gut metagenome	Homo sapiens	stool	24/02/2020	Germany: Bavaria	430	1mo	BF	breastfeeding	bf	vaginal	6:00	female	3480	no
+432_1mo	human gut metagenome	Homo sapiens	stool	03/06/2019	Germany: Bavaria	432	1mo	BF	breastfeeding	bf	vaginal	13:00	female	3015	no
+501_1mo	human gut metagenome	Homo sapiens	stool	21/08/2019	Germany: Bavaria	501	1mo	BF	breastfeeding	bf	vaginal	9:00	male	3630	yes
+502_1mo	human gut metagenome	Homo sapiens	stool	07/01/2019	Germany: Bavaria	502	1mo	BF	breastfeeding	bf	vaginal	18:00	male	2315	yes
+523_1mo	human gut metagenome	Homo sapiens	stool	16/03/2020	Germany: Bavaria	523	1mo	BF	breastfeeding	bf	vaginal	11:00	male	3920	no
+527_1mo	human gut metagenome	Homo sapiens	stool	24/10/2018	Germany: Bavaria	527	1mo	BF	breastfeeding	bf	vaginal	19:00	male	4520	no
+544_1mo	human gut metagenome	Homo sapiens	stool	15/07/2019	Germany: Bavaria	544	1mo	BF	breastfeeding	bf	vaginal	9:00	female	3600	no
+568_1mo	human gut metagenome	Homo sapiens	stool	09/08/2019	Germany: Bavaria	568	1mo	BF	A	mixed	vaginal	8:00	male	3720	no
+577A_1mo	human gut metagenome	Homo sapiens	stool	22/05/2019	Germany: Bavaria	577A	1mo	BF	B	mixed	vaginal	8:00	female	2480	yes
+599_1mo	human gut metagenome	Homo sapiens	stool	16/06/2019	Germany: Bavaria	599	1mo	BF	A	mixed	vaginal	22:00	male	4180	no
+605_1mo	human gut metagenome	Homo sapiens	stool	30/10/2019	Germany: Bavaria	605	1mo	BF	C	mixed	vaginal	10:00	male	3990	no
+668_1mo	human gut metagenome	Homo sapiens	stool	04/02/2019	Germany: Bavaria	668	1mo	BF	A	mixed	vaginal	23:00	female	3450	yes
+679_1mo	human gut metagenome	Homo sapiens	stool	25/02/2020	Germany: Bavaria	679	1mo	BF	D	mixed	vaginal	6:00	male	3500	yes
+710_1mo	human gut metagenome	Homo sapiens	stool	03/06/2019	Germany: Bavaria	710	1mo	BF	C	mixed	vaginal	8:00	female	3090	no
+719_1mo	human gut metagenome	Homo sapiens	stool	26/11/2018	Germany: Bavaria	719	1mo	C	C	mixed	c-section	16:00	male	4700	yes
+748_1mo	human gut metagenome	Homo sapiens	stool	14/01/2020	Germany: Bavaria	748	1mo	D	D	mixed	c-section	17:15	female	3520	no
+756_1mo	human gut metagenome	Homo sapiens	stool	07/10/2019	Germany: Bavaria	756	1mo	BF	breastfeeding	bf	vaginal	17:30	female	3070	no
+789_1mo	human gut metagenome	Homo sapiens	stool	27/08/2018	Germany: Bavaria	789	1mo	BF	breastfeeding	bf	vaginal	keine Angabe	female	3600	no
+792_1mo	human gut metagenome	Homo sapiens	stool	16/09/2019	Germany: Bavaria	792	1mo	BF	breastfeeding	bf	vaginal	8:00	female	2770	yes
+802_1mo	human gut metagenome	Homo sapiens	stool	21/08/2019	Germany: Bavaria	802	1mo	D	D	mixed	vaginal	14:00	female	3345	yes
+806_1mo	human gut metagenome	Homo sapiens	stool	30/03/2020	Germany: Bavaria	806	1mo	A	A	mixed	vaginal	17:00	female	3240	yes
+819_1mo	human gut metagenome	Homo sapiens	stool	26/02/2019	Germany: Bavaria	819	1mo	BF	D	mixed	c-section	7:00	female	3440	yes
+836_1mo	human gut metagenome	Homo sapiens	stool	04/02/2020	Germany: Bavaria	836	1mo	C	C	mixed	vaginal	8:00	male	2840	yes
+839_1mo	human gut metagenome	Homo sapiens	stool	18/06/2019	Germany: Bavaria	839	1mo	D	D	mixed	c-section	8:45	male	3800	yes
+859_1mo	human gut metagenome	Homo sapiens	stool	09/10/2018	Germany: Bavaria	859	1mo	B	B	mixed	vaginal	17:00	female	2830	no
+861_1mo	human gut metagenome	Homo sapiens	stool	18/09/2018	Germany: Bavaria	861	1mo	BF	breastfeeding	bf	vaginal	21:00	female	3620	no
+865_1mo	human gut metagenome	Homo sapiens	stool	06/02/2019	Germany: Bavaria	865	1mo	B	B	mixed	vaginal	keine Angabe	female	3080	no
+907_1mo	human gut metagenome	Homo sapiens	stool	17/12/2019	Germany: Bavaria	907	1mo	BF	breastfeeding	bf	vaginal	5:00	female	4000	no
+912_1mo	human gut metagenome	Homo sapiens	stool	16/03/2020	Germany: Bavaria	912	1mo	BF	breastfeeding	bf	vaginal	8:00	female	3380	no
+933_1mo	human gut metagenome	Homo sapiens	stool	03/12/2018	Germany: Bavaria	933	1mo	C	C	mixed	c-section	11:00	male	3975	yes
+960_1mo	human gut metagenome	Homo sapiens	stool	18/03/2019	Germany: Bavaria	960	1mo	A	A	mixed	vaginal	17:00	female	3270	no
+968_1mo	human gut metagenome	Homo sapiens	stool	01/07/2019	Germany: Bavaria	968	1mo	B	B	mixed	vaginal	16:00	male	3880	no
+975_1mo	human gut metagenome	Homo sapiens	stool	17/10/2018	Germany: Bavaria	975	1mo	A	A	mixed	vaginal	11:00	male	3895	no
+981_1mo	human gut metagenome	Homo sapiens	stool	03/11/2019	Germany: Bavaria	981	1mo	D	D	bottle	c-section	17:30	female	2990	no
+999_1mo	human gut metagenome	Homo sapiens	stool	23/10/2018	Germany: Bavaria	999	1mo	BF	C	mixed	c-section	9:00	male	3390	yes
+102_24mo	human gut metagenome	Homo sapiens	stool	11/11/2020	Germany: Bavaria	102	24mo	24mo	B	mixed	vaginal	10:00	male	2970	yes
+116_24mo	human gut metagenome	Homo sapiens	stool	21/06/2021	Germany: Bavaria	116	24mo	24mo	C	mixed	vaginal	13:00	male	3560	no
+120B_24mo	human gut metagenome	Homo sapiens	stool	07/11/2021	Germany: Bavaria	120B	24mo	24mo	breastfeeding	bf	c-section	17:00	female	2500	yes
+121_24mo	human gut metagenome	Homo sapiens	stool	23/01/2021	Germany: Bavaria	121	24mo	24mo	A	mixed	vaginal	19:00	male	3725	yes
+128_24mo	human gut metagenome	Homo sapiens	stool	23/01/2022	Germany: Bavaria	128	24mo	24mo	B	mixed	c-section	16:30	female	2890	no
+131_24mo	human gut metagenome	Homo sapiens	stool	31/08/2020	Germany: Bavaria	131	24mo	24mo	A	mixed	c-section	13:00	male	3350	no
+142_24mo	human gut metagenome	Homo sapiens	stool	03/02/2021	Germany: Bavaria	142	24mo	24mo	B	mixed	vaginal	18:30	male	3550	no
+144_24mo	human gut metagenome	Homo sapiens	stool	19/12/2020	Germany: Bavaria	144	24mo	24mo	breastfeeding	bf	vaginal	9:45	female	3570	yes
+163_24mo	human gut metagenome	Homo sapiens	stool	26/01/2022	Germany: Bavaria	163	24mo	24mo	D	mixed	c-section	8:00	female	3535	no
+178_24mo	human gut metagenome	Homo sapiens	stool	15/02/2022	Germany: Bavaria	178	24mo	24mo	C	mixed	c-section	7:10	female	3870	yes
+183_24mo	human gut metagenome	Homo sapiens	stool	01/09/2020	Germany: Bavaria	183	24mo	24mo	A	mixed	c-section	8:45	male	3100	no
+199_24mo	human gut metagenome	Homo sapiens	stool	10/12/2021	Germany: Bavaria	199	24mo	24mo	D	bottle	vaginal	8:50	female	3050	no
+208_24mo	human gut metagenome	Homo sapiens	stool	27/09/2020	Germany: Bavaria	208	24mo	24mo	A	mixed	c-section	16:00	female	2800	no
+214_24mo	human gut metagenome	Homo sapiens	stool	23/01/2022	Germany: Bavaria	214	24mo	24mo	D	mixed	vaginal	19:30	female	2910	yes
+220_24mo	human gut metagenome	Homo sapiens	stool	06/04/2021	Germany: Bavaria	220	24mo	24mo	B	mixed	vaginal	7:45	female	3580	no
+257_24mo	human gut metagenome	Homo sapiens	stool	07/02/2022	Germany: Bavaria	257	24mo	24mo	breastfeeding	bf	c-section	7:45	male	4450	yes
+263_24mo	human gut metagenome	Homo sapiens	stool	04/11/2021	Germany: Bavaria	263	24mo	24mo	B	mixed	vaginal	11:00	female	3170	no
+276_24mo	human gut metagenome	Homo sapiens	stool	20/04/2021	Germany: Bavaria	276	24mo	24mo	D	mixed	vaginal	7:30	female	3475	no
+300_24mo	human gut metagenome	Homo sapiens	stool	15/10/2020	Germany: Bavaria	300	24mo	24mo	BF	bf	vaginal	11:30	male	3270	no
+303_24mo	human gut metagenome	Homo sapiens	stool	10/11/2020	Germany: Bavaria	303	24mo	24mo	C	mixed	vaginal	7:30	male	2830	yes
+327_24mo	human gut metagenome	Homo sapiens	stool	03/03/2021	Germany: Bavaria	327	24mo	24mo	C	mixed	c-section	7:50	male	3270	yes
+369_24mo	human gut metagenome	Homo sapiens	stool	08/02/2022	Germany: Bavaria	369	24mo	24mo	breastfeeding	bf	c-section	7:10	female	3250	yes
+387_24mo	human gut metagenome	Homo sapiens	stool	01/02/2022	Germany: Bavaria	387	24mo	24mo	BF	bf	vaginal	14:00	male	3380	no
+418_24mo	human gut metagenome	Homo sapiens	stool	16/01/2021	Germany: Bavaria	418	24mo	24mo	B	mixed	c-section	11:00	female	3300	yes
+421_24mo	human gut metagenome	Homo sapiens	stool	02/03/2021	Germany: Bavaria	421	24mo	24mo	BF	bf	vaginal	10:20	female	3020	no
+430_24mo	human gut metagenome	Homo sapiens	stool	24/01/2022	Germany: Bavaria	430	24mo	24mo	breastfeeding	bf	vaginal	14:55	female	3480	no
+432_24mo	human gut metagenome	Homo sapiens	stool	14/06/2021	Germany: Bavaria	432	24mo	24mo	BF	bf	vaginal	15:45	female	3015	no
+501_24mo	human gut metagenome	Homo sapiens	stool	23/11/2021	Germany: Bavaria	501	24mo	24mo	breastfeeding	bf	vaginal	20:30	male	3630	yes
+502_24mo	human gut metagenome	Homo sapiens	stool	14/12/2020	Germany: Bavaria	502	24mo	24mo	breastfeeding	bf	vaginal	11:45	male	2315	yes
+523_24mo	human gut metagenome	Homo sapiens	stool	26/01/2022	Germany: Bavaria	523	24mo	24mo	BF	bf	vaginal	9:00	male	3920	no
+527_24mo	human gut metagenome	Homo sapiens	stool	25/09/2020	Germany: Bavaria	527	24mo	24mo	BF	bf	vaginal	7:30	male	4520	no
+544_24mo	human gut metagenome	Homo sapiens	stool	20/06/2021	Germany: Bavaria	544	24mo	24mo	BF	bf	vaginal	10:00	female	3600	no
+568_24mo	human gut metagenome	Homo sapiens	stool	09/11/2021	Germany: Bavaria	568	24mo	24mo	A	mixed	vaginal	14:45	male	3720	no
+577A_24mo	human gut metagenome	Homo sapiens	stool	17/04/2021	Germany: Bavaria	577A	24mo	24mo	B	mixed	vaginal	9:15	female	2480	yes
+599_24mo	human gut metagenome	Homo sapiens	stool	16/06/2021	Germany: Bavaria	599	24mo	24mo	A	mixed	vaginal	17:00	male	4180	no
+605_24mo	human gut metagenome	Homo sapiens	stool	24/11/2021	Germany: Bavaria	605	24mo	24mo	C	mixed	vaginal	17:00	male	3990	no
+668_24mo	human gut metagenome	Homo sapiens	stool	28/01/2021	Germany: Bavaria	668	24mo	24mo	A	mixed	vaginal	14:00	female	3450	yes
+679_24mo	human gut metagenome	Homo sapiens	stool	22/01/2022	Germany: Bavaria	679	24mo	24mo	D	mixed	vaginal	15:00	male	3500	yes
+710_24mo	human gut metagenome	Homo sapiens	stool	13/06/2021	Germany: Bavaria	710	24mo	24mo	C	mixed	vaginal	18:30	female	3090	no
+719_24mo	human gut metagenome	Homo sapiens	stool	19/11/2020	Germany: Bavaria	719	24mo	24mo	C	mixed	c-section	9:45	male	4700	yes
+748_24mo	human gut metagenome	Homo sapiens	stool	07/12/2021	Germany: Bavaria	748	24mo	24mo	D	mixed	c-section	18:55	female	3520	no
+756_24mo	human gut metagenome	Homo sapiens	stool	22/11/2021	Germany: Bavaria	756	24mo	24mo	BF	bf	vaginal	18:55	female	3070	no
+789_24mo	human gut metagenome	Homo sapiens	stool	12/08/2020	Germany: Bavaria	789	24mo	24mo	BF	bf	vaginal	11:15	female	3600	no
+792_24mo	human gut metagenome	Homo sapiens	stool	20/01/2022	Germany: Bavaria	792	24mo	24mo	breastfeeding	bf	vaginal	8:00	female	2770	yes
+802_24mo	human gut metagenome	Homo sapiens	stool	29/11/2021	Germany: Bavaria	802	24mo	24mo	D	mixed	vaginal	18:45	female	3345	yes
+806_24mo	human gut metagenome	Homo sapiens	stool	05/02/2022	Germany: Bavaria	806	24mo	24mo	A	mixed	vaginal	8:45	female	3240	yes
+819_24mo	human gut metagenome	Homo sapiens	stool	25/02/2021	Germany: Bavaria	819	24mo	24mo	D	mixed	c-section	18:00	female	3440	yes
+836_24mo	human gut metagenome	Homo sapiens	stool	07/12/2021	Germany: Bavaria	836	24mo	24mo	C	mixed	vaginal	17:00	male	2840	yes
+839_24mo	human gut metagenome	Homo sapiens	stool	27/05/2021	Germany: Bavaria	839	24mo	24mo	D	mixed	c-section	11:00	male	3800	yes
+859_24mo	human gut metagenome	Homo sapiens	stool	13/09/2020	Germany: Bavaria	859	24mo	24mo	B	mixed	vaginal	14:00	female	2830	no
+861_24mo	human gut metagenome	Homo sapiens	stool	01/09/2020	Germany: Bavaria	861	24mo	24mo	BF	bf	vaginal	7:00	female	3620	no
+865_24mo	human gut metagenome	Homo sapiens	stool	12/02/2021	Germany: Bavaria	865	24mo	24mo	B	mixed	vaginal	19:30	female	3080	no
+907_24mo	human gut metagenome	Homo sapiens	stool	03/02/2022	Germany: Bavaria	907	24mo	24mo	BF	bf	vaginal	7:45	female	4000	no
+912_24mo	human gut metagenome	Homo sapiens	stool	07/02/2022	Germany: Bavaria	912	24mo	24mo	breastfeeding	bf	vaginal	17:00	female	3380	no
+933_24mo	human gut metagenome	Homo sapiens	stool	10/11/2020	Germany: Bavaria	933	24mo	24mo	C	mixed	c-section	8:15	male	3975	yes
+960_24mo	human gut metagenome	Homo sapiens	stool	18/02/2021	Germany: Bavaria	960	24mo	24mo	A	mixed	vaginal	18:30	female	3270	no
+968_24mo	human gut metagenome	Homo sapiens	stool	10/06/2021	Germany: Bavaria	968	24mo	24mo	B	mixed	vaginal	7:00	male	3880	no
+975_24mo	human gut metagenome	Homo sapiens	stool	02/09/2020	Germany: Bavaria	975	24mo	24mo	A	mixed	vaginal	7:30	male	3895	no
+981_24mo	human gut metagenome	Homo sapiens	stool	22/11/2021	Germany: Bavaria	981	24mo	24mo	D	bottle	c-section	11:45	female	2990	no
+999_24mo	human gut metagenome	Homo sapiens	stool	14/10/2020	Germany: Bavaria	999	24mo	24mo	C	mixed	c-section	7:00	male	3390	yes
+102_3mo	human gut metagenome	Homo sapiens	stool	19/02/2019	Germany: Bavaria	102	3mo	BF	B	mixed	vaginal	8:45	male	2970	yes
+116_3mo	human gut metagenome	Homo sapiens	stool	26/09/2019	Germany: Bavaria	116	3mo	C	C	mixed	vaginal	9:30	male	3560	no
+120B_3mo	human gut metagenome	Homo sapiens	stool	29/10/2019	Germany: Bavaria	120B	3mo	BF	breastfeeding	bf	c-section	9:30	female	2500	yes
+121_3mo	human gut metagenome	Homo sapiens	stool	22/04/2020	Germany: Bavaria	121	3mo	A	A	mixed	vaginal	21:30	male	3725	yes
+128_3mo	human gut metagenome	Homo sapiens	stool	21/04/2020	Germany: Bavaria	128	3mo	B	B	mixed	c-section	8:30	female	2890	no
+131_3mo	human gut metagenome	Homo sapiens	stool	05/12/2018	Germany: Bavaria	131	3mo	BF	A	mixed	c-section	8:00	male	3350	no
+142_3mo	human gut metagenome	Homo sapiens	stool	10/04/2019	Germany: Bavaria	142	3mo	B	B	mixed	vaginal	7:00	male	3550	no
+144_3mo	human gut metagenome	Homo sapiens	stool	14/03/2019	Germany: Bavaria	144	3mo	BF	breastfeeding	bf	vaginal	10:00	female	3570	yes
+163_3mo	human gut metagenome	Homo sapiens	stool	25/05/2020	Germany: Bavaria	163	3mo	D	D	mixed	c-section	13:00	female	3535	no
+178_3mo	human gut metagenome	Homo sapiens	stool	21/04/2020	Germany: Bavaria	178	3mo	C	C	mixed	c-section	6:00	female	3870	yes
+183_3mo	human gut metagenome	Homo sapiens	stool	26/11/2018	Germany: Bavaria	183	3mo	A	A	mixed	c-section	13:30	male	3100	no
+199_3mo	human gut metagenome	Homo sapiens	stool	07/04/2020	Germany: Bavaria	199	3mo	D	D	bottle	vaginal	7:30	female	3050	no
+208_3mo	human gut metagenome	Homo sapiens	stool	20/12/2018	Germany: Bavaria	208	3mo	BF	A	mixed	c-section	keine Angabe	female	2800	no
+214_3mo	human gut metagenome	Homo sapiens	stool	25/05/2020	Germany: Bavaria	214	3mo	D	D	mixed	vaginal	19:30	female	2910	yes
+220_3mo	human gut metagenome	Homo sapiens	stool	16/07/2019	Germany: Bavaria	220	3mo	B	B	mixed	vaginal	10:00	female	3580	no
+257_3mo	human gut metagenome	Homo sapiens	stool	22/05/2020	Germany: Bavaria	257	3mo	BF	breastfeeding	bf	c-section	8:00	male	4450	yes
+263_3mo	human gut metagenome	Homo sapiens	stool	01/03/2020	Germany: Bavaria	263	3mo	BF	BF	mixed	vaginal	9:30	female	3170	no
+276_3mo	human gut metagenome	Homo sapiens	stool	29/07/2019	Germany: Bavaria	276	3mo	BF	BF	mixed	vaginal	6:40	female	3475	no
+300_3mo	human gut metagenome	Homo sapiens	stool	28/01/2019	Germany: Bavaria	300	3mo	BF	BF	bf	vaginal	19:00	male	3270	no
+303_3mo	human gut metagenome	Homo sapiens	stool	29/01/2019	Germany: Bavaria	303	3mo	BF	BF	mixed	vaginal	10:00	male	2830	yes
+327_3mo	human gut metagenome	Homo sapiens	stool	07/04/2019	Germany: Bavaria	327	3mo	BF	C	mixed	c-section	19:30	male	3270	yes
+369_3mo	human gut metagenome	Homo sapiens	stool	06/07/2020	Germany: Bavaria	369	3mo	BF	breastfeeding	bf	c-section	15:00	female	3250	yes
+387_3mo	human gut metagenome	Homo sapiens	stool	23/06/2020	Germany: Bavaria	387	3mo	BF	BF	bf	vaginal	9:30	male	3380	no
+418_3mo	human gut metagenome	Homo sapiens	stool	03/04/2019	Germany: Bavaria	418	3mo	B	B	mixed	c-section	16:00	female	3300	yes
+421_3mo	human gut metagenome	Homo sapiens	stool	21/05/2019	Germany: Bavaria	421	3mo	BF	BF	bf	vaginal	10:00	female	3020	no
+430_3mo	human gut metagenome	Homo sapiens	stool	29/04/2020	Germany: Bavaria	430	3mo	BF	breastfeeding	bf	vaginal	7:30	female	3480	no
+432_3mo	human gut metagenome	Homo sapiens	stool	05/08/2019	Germany: Bavaria	432	3mo	BF	BF	bf	vaginal	15:00	female	3015	no
+501_3mo	human gut metagenome	Homo sapiens	stool	04/11/2019	Germany: Bavaria	501	3mo	BF	breastfeeding	bf	vaginal	6:00	male	3630	yes
+502_3mo	human gut metagenome	Homo sapiens	stool	21/03/2019	Germany: Bavaria	502	3mo	BF	breastfeeding	bf	vaginal	7:30	male	2315	yes
+523_3mo	human gut metagenome	Homo sapiens	stool	26/05/2020	Germany: Bavaria	523	3mo	BF	BF	bf	vaginal	9:00	male	3920	no
+527_3mo	human gut metagenome	Homo sapiens	stool	18/12/2018	Germany: Bavaria	527	3mo	BF	BF	bf	vaginal	7:45	male	4520	no
+544_3mo	human gut metagenome	Homo sapiens	stool	03/09/2019	Germany: Bavaria	544	3mo	BF	BF	bf	vaginal	11:00	female	3600	no
+568_3mo	human gut metagenome	Homo sapiens	stool	07/10/2019	Germany: Bavaria	568	3mo	BF	BF	mixed	vaginal	7:00	male	3720	no
+577A_3mo	human gut metagenome	Homo sapiens	stool	22/07/2019	Germany: Bavaria	577A	3mo	BF	B	mixed	vaginal	13:45	female	2480	yes
+599_3mo	human gut metagenome	Homo sapiens	stool	27/08/2019	Germany: Bavaria	599	3mo	A	A	mixed	vaginal	13:00	male	4180	no
+605_3mo	human gut metagenome	Homo sapiens	stool	16/12/2019	Germany: Bavaria	605	3mo	BF	BF	mixed	vaginal	8:15	male	3990	no
+668_3mo	human gut metagenome	Homo sapiens	stool	20/03/2019	Germany: Bavaria	668	3mo	BF	A	mixed	vaginal	20:00	female	3450	yes
+679_3mo	human gut metagenome	Homo sapiens	stool	22/04/2020	Germany: Bavaria	679	3mo	BF	D	mixed	vaginal	14:00	male	3500	yes
+710_3mo	human gut metagenome	Homo sapiens	stool	01/08/2019	Germany: Bavaria	710	3mo	BF	BF	mixed	vaginal	7:00	female	3090	no
+719_3mo	human gut metagenome	Homo sapiens	stool	29/01/2019	Germany: Bavaria	719	3mo	C	C	mixed	c-section	2:00	male	4700	yes
+748_3mo	human gut metagenome	Homo sapiens	stool	03/03/2020	Germany: Bavaria	748	3mo	D	BF	mixed	c-section	14:30	female	3520	no
+756_3mo	human gut metagenome	Homo sapiens	stool	28/11/2019	Germany: Bavaria	756	3mo	BF	BF	bf	vaginal	6:45	female	3070	no
+792_3mo	human gut metagenome	Homo sapiens	stool	11/11/2019	Germany: Bavaria	792	3mo	BF	breastfeeding	bf	vaginal	10:45	female	2770	yes
+802_3mo	human gut metagenome	Homo sapiens	stool	13/10/2019	Germany: Bavaria	802	3mo	D	D	mixed	vaginal	17:00	female	3345	yes
+806_3mo	human gut metagenome	Homo sapiens	stool	25/05/2020	Germany: Bavaria	806	3mo	A	A	mixed	vaginal	13:50	female	3240	yes
+819_3mo	human gut metagenome	Homo sapiens	stool	20/05/2019	Germany: Bavaria	819	3mo	D	D	mixed	c-section	7:30	female	3440	yes
+836_3mo	human gut metagenome	Homo sapiens	stool	08/04/2020	Germany: Bavaria	836	3mo	C	C	mixed	vaginal	19:00	male	2840	yes
+839_3mo	human gut metagenome	Homo sapiens	stool	20/08/2019	Germany: Bavaria	839	3mo	D	D	mixed	c-section	8:00	male	3800	yes
+859_3mo	human gut metagenome	Homo sapiens	stool	12/12/2018	Germany: Bavaria	859	3mo	B	B	mixed	vaginal	8:00	female	2830	no
+861_3mo	human gut metagenome	Homo sapiens	stool	05/12/2018	Germany: Bavaria	861	3mo	BF	BF	bf	vaginal	8:30	female	3620	no
+865_3mo	human gut metagenome	Homo sapiens	stool	08/04/2019	Germany: Bavaria	865	3mo	B	BF	mixed	vaginal	11:00	female	3080	no
+907_3mo	human gut metagenome	Homo sapiens	stool	09/03/2020	Germany: Bavaria	907	3mo	BF	BF	bf	vaginal	9:00	female	4000	no
+912_3mo	human gut metagenome	Homo sapiens	stool	26/05/2020	Germany: Bavaria	912	3mo	BF	breastfeeding	bf	vaginal	17:30	female	3380	no
+933_3mo	human gut metagenome	Homo sapiens	stool	12/02/2019	Germany: Bavaria	933	3mo	C	C	mixed	c-section	16:30	male	3975	yes
+960_3mo	human gut metagenome	Homo sapiens	stool	17/06/2019	Germany: Bavaria	960	3mo	A	A	mixed	vaginal	11:30	female	3270	no
+968_3mo	human gut metagenome	Homo sapiens	stool	23/08/2019	Germany: Bavaria	968	3mo	B	B	mixed	vaginal	20:30	male	3880	no
+975_3mo	human gut metagenome	Homo sapiens	stool	06/12/2018	Germany: Bavaria	975	3mo	A	A	mixed	vaginal	3:00	male	3895	no
+981_3mo	human gut metagenome	Homo sapiens	stool	12/01/2020	Germany: Bavaria	981	3mo	D	D	bottle	c-section	13:00	female	2990	no
+999_3mo	human gut metagenome	Homo sapiens	stool	19/12/2018	Germany: Bavaria	999	3mo	BF	C	mixed	c-section	9:00	male	3390	yes
+102_7mo	human gut metagenome	Homo sapiens	stool	24/06/2019	Germany: Bavaria	102	7mo	B	B	mixed	vaginal	9:00	male	2970	yes
+116_7mo	human gut metagenome	Homo sapiens	stool	06/02/2020	Germany: Bavaria	116	7mo	C	C	mixed	vaginal	14:00	male	3560	no
+120B_7mo	human gut metagenome	Homo sapiens	stool	02/03/2020	Germany: Bavaria	120B	7mo	BF	breastfeeding	bf	c-section	8:00	female	2500	yes
+121_7mo	human gut metagenome	Homo sapiens	stool	21/09/2020	Germany: Bavaria	121	7mo	A	A	mixed	vaginal	15:00	male	3725	yes
+128_7mo	human gut metagenome	Homo sapiens	stool	01/09/2020	Germany: Bavaria	128	7mo	B	B	mixed	c-section	7:30	female	2890	no
+131_7mo	human gut metagenome	Homo sapiens	stool	05/04/2019	Germany: Bavaria	131	7mo	BF	A	mixed	c-section	8:30	male	3350	no
+142_7mo	human gut metagenome	Homo sapiens	stool	21/08/2019	Germany: Bavaria	142	7mo	B	B	mixed	vaginal	18:30	male	3550	no
+144_7mo	human gut metagenome	Homo sapiens	stool	27/06/2019	Germany: Bavaria	144	7mo	BF	breastfeeding	bf	vaginal	19:30	female	3570	yes
+163_7mo	human gut metagenome	Homo sapiens	stool	22/09/2020	Germany: Bavaria	163	7mo	D	D	mixed	c-section	10:30	female	3535	no
+178_7mo	human gut metagenome	Homo sapiens	stool	27/08/2020	Germany: Bavaria	178	7mo	C	C	mixed	c-section	9:45	female	3870	yes
+183_7mo	human gut metagenome	Homo sapiens	stool	31/03/2019	Germany: Bavaria	183	7mo	A	A	mixed	c-section	15:30	male	3100	no
+199_7mo	human gut metagenome	Homo sapiens	stool	12/08/2020	Germany: Bavaria	199	7mo	D	D	bottle	vaginal	14:00	female	3050	no
+208_7mo	human gut metagenome	Homo sapiens	stool	09/04/2019	Germany: Bavaria	208	7mo	A	A	mixed	c-section	16:00	female	2800	no
+214_7mo	human gut metagenome	Homo sapiens	stool	22/09/2020	Germany: Bavaria	214	7mo	D	D	mixed	vaginal	18:00	female	2910	yes
+220_7mo	human gut metagenome	Homo sapiens	stool	05/11/2019	Germany: Bavaria	220	7mo	B	B	mixed	vaginal	9:00	female	3580	no
+257_7mo	human gut metagenome	Homo sapiens	stool	12/10/2020	Germany: Bavaria	257	7mo	BF	breastfeeding	bf	c-section	10:30	male	4450	yes
+263_7mo	human gut metagenome	Homo sapiens	stool	15/06/2020	Germany: Bavaria	263	7mo	B	B	mixed	vaginal	13:00	female	3170	no
+276_7mo	human gut metagenome	Homo sapiens	stool	19/11/2019	Germany: Bavaria	276	7mo	D	D	mixed	vaginal	11:30	female	3475	no
+300_7mo	human gut metagenome	Homo sapiens	stool	01/07/2019	Germany: Bavaria	300	7mo	BF	BF	bf	vaginal	8:00	male	3270	no
+303_7mo	human gut metagenome	Homo sapiens	stool	20/05/2019	Germany: Bavaria	303	7mo	C	C	mixed	vaginal	8:30	male	2830	yes
+327_7mo	human gut metagenome	Homo sapiens	stool	21/08/2019	Germany: Bavaria	327	7mo	BF	C	mixed	c-section	20:40	male	3270	yes
+369_7mo	human gut metagenome	Homo sapiens	stool	20/10/2020	Germany: Bavaria	369	7mo	BF	breastfeeding	bf	c-section	7:10	female	3250	yes
+387_7mo	human gut metagenome	Homo sapiens	stool	27/10/2020	Germany: Bavaria	387	7mo	BF	BF	bf	vaginal	18:40	male	3380	no
+418_7mo	human gut metagenome	Homo sapiens	stool	26/08/2019	Germany: Bavaria	418	7mo	B	B	mixed	c-section	18:00	female	3300	yes
+421_7mo	human gut metagenome	Homo sapiens	stool	17/09/2019	Germany: Bavaria	421	7mo	BF	BF	bf	vaginal	5:30	female	3020	no
+430_7mo	human gut metagenome	Homo sapiens	stool	24/08/2020	Germany: Bavaria	430	7mo	BF	breastfeeding	bf	vaginal	8:40	female	3480	no
+432_7mo	human gut metagenome	Homo sapiens	stool	02/12/2019	Germany: Bavaria	432	7mo	BF	BF	bf	vaginal	12:00	female	3015	no
+501_7mo	human gut metagenome	Homo sapiens	stool	27/02/2020	Germany: Bavaria	501	7mo	BF	breastfeeding	bf	vaginal	14:00	male	3630	yes
+502_7mo	human gut metagenome	Homo sapiens	stool	06/08/2019	Germany: Bavaria	502	7mo	BF	breastfeeding	bf	vaginal	7:30	male	2315	yes
+523_7mo	human gut metagenome	Homo sapiens	stool	22/09/2020	Germany: Bavaria	523	7mo	BF	BF	bf	vaginal	9:30	male	3920	no
+527_7mo	human gut metagenome	Homo sapiens	stool	15/04/2019	Germany: Bavaria	527	7mo	BF	BF	bf	vaginal	8:15	male	4520	no
+544_7mo	human gut metagenome	Homo sapiens	stool	28/01/2020	Germany: Bavaria	544	7mo	BF	BF	bf	vaginal	9:30	female	3600	no
+568_7mo	human gut metagenome	Homo sapiens	stool	25/02/2020	Germany: Bavaria	568	7mo	A	A	mixed	vaginal	12:00	male	3720	no
+577A_7mo	human gut metagenome	Homo sapiens	stool	20/11/2019	Germany: Bavaria	577A	7mo	B	B	mixed	vaginal	14:00	female	2480	yes
+599_7mo	human gut metagenome	Homo sapiens	stool	09/12/2019	Germany: Bavaria	599	7mo	A	A	mixed	vaginal	16:00	male	4180	no
+605_7mo	human gut metagenome	Homo sapiens	stool	22/04/2020	Germany: Bavaria	605	7mo	C	C	mixed	vaginal	8:30	male	3990	no
+668_7mo	human gut metagenome	Homo sapiens	stool	28/07/2019	Germany: Bavaria	668	7mo	A	A	mixed	vaginal	21:00	female	3450	yes
+679_7mo	human gut metagenome	Homo sapiens	stool	13/08/2020	Germany: Bavaria	679	7mo	D	D	mixed	vaginal	9:00	male	3500	yes
+710_7mo	human gut metagenome	Homo sapiens	stool	23/01/2020	Germany: Bavaria	710	7mo	BF	BF	mixed	vaginal	8:00	female	3090	no
+719_7mo	human gut metagenome	Homo sapiens	stool	23/06/2019	Germany: Bavaria	719	7mo	C	C	mixed	c-section	11:00	male	4700	yes
+748_7mo	human gut metagenome	Homo sapiens	stool	07/07/2020	Germany: Bavaria	748	7mo	D	D	mixed	c-section	7:30	female	3520	no
+756_7mo	human gut metagenome	Homo sapiens	stool	25/04/2020	Germany: Bavaria	756	7mo	BF	BF	bf	vaginal	8:30	female	3070	no
+789_7mo	human gut metagenome	Homo sapiens	stool	07/03/2019	Germany: Bavaria	789	7mo	BF	BF	bf	vaginal	15:00	female	3600	no
+792_7mo	human gut metagenome	Homo sapiens	stool	16/03/2020	Germany: Bavaria	792	7mo	BF	breastfeeding	bf	vaginal	10:00	female	2770	yes
+802_7mo	human gut metagenome	Homo sapiens	stool	27/02/2020	Germany: Bavaria	802	7mo	D	D	mixed	vaginal	12:00	female	3345	yes
+806_7mo	human gut metagenome	Homo sapiens	stool	27/09/2020	Germany: Bavaria	806	7mo	A	A	mixed	vaginal	11:20	female	3240	yes
+819_7mo	human gut metagenome	Homo sapiens	stool	25/08/2019	Germany: Bavaria	819	7mo	D	D	mixed	c-section	10:00	female	3440	yes
+836_7mo	human gut metagenome	Homo sapiens	stool	29/07/2020	Germany: Bavaria	836	7mo	C	C	mixed	vaginal	9:15	male	2840	yes
+839_7mo	human gut metagenome	Homo sapiens	stool	16/12/2019	Germany: Bavaria	839	7mo	D	D	mixed	c-section	7:00	male	3800	yes
+859_7mo	human gut metagenome	Homo sapiens	stool	22/04/2019	Germany: Bavaria	859	7mo	B	B	mixed	vaginal	20:00	female	2830	no
+861_7mo	human gut metagenome	Homo sapiens	stool	05/04/2019	Germany: Bavaria	861	7mo	BF	BF	bf	vaginal	11:30	female	3620	no
+865_7mo	human gut metagenome	Homo sapiens	stool	26/08/2019	Germany: Bavaria	865	7mo	B	B	mixed	vaginal	10:00	female	3080	no
+907_7mo	human gut metagenome	Homo sapiens	stool	23/06/2020	Germany: Bavaria	907	7mo	BF	BF	bf	vaginal	8:00	female	4000	no
+912_7mo	human gut metagenome	Homo sapiens	stool	22/09/2020	Germany: Bavaria	912	7mo	BF	breastfeeding	bf	vaginal	7:45	female	3380	no
+933_7mo	human gut metagenome	Homo sapiens	stool	18/06/2019	Germany: Bavaria	933	7mo	C	C	mixed	c-section	8:45	male	3975	yes
+960_7mo	human gut metagenome	Homo sapiens	stool	09/09/2019	Germany: Bavaria	960	7mo	A	A	mixed	vaginal	7:30	female	3270	no
+968_7mo	human gut metagenome	Homo sapiens	stool	19/01/2020	Germany: Bavaria	968	7mo	B	B	mixed	vaginal	8:00	male	3880	no
+975_7mo	human gut metagenome	Homo sapiens	stool	08/03/2019	Germany: Bavaria	975	7mo	A	A	mixed	vaginal	6:30	male	3895	no
+981_7mo	human gut metagenome	Homo sapiens	stool	28/04/2020	Germany: Bavaria	981	7mo	D	D	bottle	c-section	11:00	female	2990	no
+999_7mo	human gut metagenome	Homo sapiens	stool	10/04/2019	Germany: Bavaria	999	7mo	C	C	mixed	c-section	9:00	male	3390	yes
+116_dad	human gut metagenome	Homo sapiens	stool	24/07/2019	Germany: Bavaria	116	father	father	dad	Parent	father	Morgens	male	3560	no
+120B_dad	human gut metagenome	Homo sapiens	stool	10/09/2019	Germany: Bavaria	120B	father	father	dad	Parent	father	Morgens	male	2500	yes
+121_dad	human gut metagenome	Homo sapiens	stool	02/03/2020	Germany: Bavaria	121	father	father	dad	Parent	father	Abends	male	3725	yes
+128_dad	human gut metagenome	Homo sapiens	stool	25/02/2020	Germany: Bavaria	128	father	father	dad	Parent	father	Morgens	male	2890	no
+131_dad	human gut metagenome	Homo sapiens	stool	30/09/2018	Germany: Bavaria	131	father	father	dad	Parent	father	Abends	male	3350	no
+142_dad	human gut metagenome	Homo sapiens	stool	19/02/2019	Germany: Bavaria	142	father	father	dad	Parent	father	Abends	male	3550	no
+144_dad	human gut metagenome	Homo sapiens	stool	10/01/2019	Germany: Bavaria	144	father	father	dad	Parent	father	Mittags	male	3570	yes
+163_dad	human gut metagenome	Homo sapiens	stool	16/03/2020	Germany: Bavaria	163	father	father	dad	Parent	father	na	male	3535	no
+178_dad	human gut metagenome	Homo sapiens	stool	13/02/2020	Germany: Bavaria	178	father	father	dad	Parent	father	Morgens	male	3870	yes
+183_dad	human gut metagenome	Homo sapiens	stool	30/09/2018	Germany: Bavaria	183	father	father	dad	Parent	father	Morgens	male	3100	no
+208_dad	human gut metagenome	Homo sapiens	stool	22/10/2018	Germany: Bavaria	208	father	father	dad	Parent	father	na	male	2800	no
+214_dad	human gut metagenome	Homo sapiens	stool	19/03/2020	Germany: Bavaria	214	father	father	dad	Parent	father	Mittags	male	2910	yes
+220_dad	human gut metagenome	Homo sapiens	stool	21/05/2019	Germany: Bavaria	220	father	father	dad	Parent	father	Morgens	male	3580	no
+257_dad	human gut metagenome	Homo sapiens	stool	21/04/2020	Germany: Bavaria	257	father	father	dad	Parent	father	Morgens	male	4450	yes
+263_dad	human gut metagenome	Homo sapiens	stool	05/12/2019	Germany: Bavaria	263	father	father	dad	Parent	father	Morgens	male	3170	no
+276_dad	human gut metagenome	Homo sapiens	stool	27/05/2019	Germany: Bavaria	276	father	father	dad	Parent	father	Abends	male	3475	no
+327_dad	human gut metagenome	Homo sapiens	stool	17/02/2019	Germany: Bavaria	327	father	father	dad	Parent	father	Abends	male	3270	yes
+387_dad	human gut metagenome	Homo sapiens	stool	21/04/2020	Germany: Bavaria	387	father	father	dad	Parent	father	Mittags	male	3380	no
+418_dad	human gut metagenome	Homo sapiens	stool	23/01/2019	Germany: Bavaria	418	father	father	dad	Parent	father	Abends	male	3300	yes
+421_dad	human gut metagenome	Homo sapiens	stool	17/03/2019	Germany: Bavaria	421	father	father	dad	Parent	father	Abends	male	3020	no
+432_dad	human gut metagenome	Homo sapiens	stool	03/06/2019	Germany: Bavaria	432	father	father	dad	Parent	father	Morgens	male	3015	no
+501_dad	human gut metagenome	Homo sapiens	stool	21/08/2019	Germany: Bavaria	501	father	father	dad	Parent	father	Morgens	male	3630	yes
+523_dad	human gut metagenome	Homo sapiens	stool	15/03/2020	Germany: Bavaria	523	father	father	dad	Parent	father	Abends	male	3920	no
+527_dad	human gut metagenome	Homo sapiens	stool	22/10/2018	Germany: Bavaria	527	father	father	dad	Parent	father	Morgens	male	4520	no
+544_dad	human gut metagenome	Homo sapiens	stool	15/07/2019	Germany: Bavaria	544	father	father	dad	Parent	father	Morgens	male	3600	no
+568_dad	human gut metagenome	Homo sapiens	stool	09/08/2019	Germany: Bavaria	568	father	father	dad	Parent	father	Morgens	male	3720	no
+605_dad	human gut metagenome	Homo sapiens	stool	29/10/2019	Germany: Bavaria	605	father	father	dad	Parent	father	Abends	male	3990	no
+679_dad	human gut metagenome	Homo sapiens	stool	25/02/2020	Germany: Bavaria	679	father	father	dad	Parent	father	Morgens	male	3500	yes
+748_dad	human gut metagenome	Homo sapiens	stool	14/01/2020	Germany: Bavaria	748	father	father	dad	Parent	father	Morgens	male	3520	no
+756_dad	human gut metagenome	Homo sapiens	stool	08/10/2019	Germany: Bavaria	756	father	father	dad	Parent	father	Morgens	male	3070	no
+789_dad	human gut metagenome	Homo sapiens	stool	27/08/2018	Germany: Bavaria	789	father	father	dad	Parent	father	na	male	3600	no
+792_dad	human gut metagenome	Homo sapiens	stool	16/09/2019	Germany: Bavaria	792	father	father	dad	Parent	father	Morgens	male	2770	yes
+802_dad	human gut metagenome	Homo sapiens	stool	21/08/2019	Germany: Bavaria	802	father	father	dad	Parent	father	Mittags	male	3345	yes
+806_dad	human gut metagenome	Homo sapiens	stool	30/03/2020	Germany: Bavaria	806	father	father	dad	Parent	father	Morgens	male	3240	yes
+819_dad	human gut metagenome	Homo sapiens	stool	26/02/2019	Germany: Bavaria	819	father	father	dad	Parent	father	na	male	3440	yes
+839_dad	human gut metagenome	Homo sapiens	stool	17/06/2019	Germany: Bavaria	839	father	father	dad	Parent	father	Abends	male	3800	yes
+859_dad	human gut metagenome	Homo sapiens	stool	09/10/2018	Germany: Bavaria	859	father	father	dad	Parent	father	Morgens	male	2830	no
+861_dad	human gut metagenome	Homo sapiens	stool	19/09/2018	Germany: Bavaria	861	father	father	dad	Parent	father	Morgens	male	3620	no
+865_dad	human gut metagenome	Homo sapiens	stool	05/02/2019	Germany: Bavaria	865	father	father	dad	Parent	father	Abends	male	3080	no
+933_dad	human gut metagenome	Homo sapiens	stool	03/12/2018	Germany: Bavaria	933	father	father	dad	Parent	father	Morgens	male	3975	yes
+960_dad	human gut metagenome	Homo sapiens	stool	18/03/2019	Germany: Bavaria	960	father	father	dad	Parent	father	Mittags	male	3270	no
+968_dad	human gut metagenome	Homo sapiens	stool	02/07/2019	Germany: Bavaria	968	father	father	dad	Parent	father	Morgens	male	3880	no
+981_dad	human gut metagenome	Homo sapiens	stool	04/11/2019	Germany: Bavaria	981	father	father	dad	Parent	father	Morgens	male	2990	no
+999_dad	human gut metagenome	Homo sapiens	stool	23/10/2018	Germany: Bavaria	999	father	father	dad	Parent	father	Abends	male	3390	yes
+102_mom	human gut metagenome	Homo sapiens	stool	10/12/2018	Germany: Bavaria	102	mother	mother	mom	Parent	mother	Morgens	female	2970	yes
+116_mom	human gut metagenome	Homo sapiens	stool	24/07/2019	Germany: Bavaria	116	mother	mother	mom	Parent	mother	Morgens	female	3560	no
+120B_mom	human gut metagenome	Homo sapiens	stool	09/09/2019	Germany: Bavaria	120B	mother	mother	mom	Parent	mother	Abends	female	2500	yes
+121_mom	human gut metagenome	Homo sapiens	stool	02/03/2020	Germany: Bavaria	121	mother	mother	mom	Parent	mother	Abends	female	3725	yes
+128_mom	human gut metagenome	Homo sapiens	stool	24/02/2020	Germany: Bavaria	128	mother	mother	mom	Parent	mother	Mittags	female	2890	no
+131_mom	human gut metagenome	Homo sapiens	stool	30/09/2018	Germany: Bavaria	131	mother	mother	mom	Parent	mother	Abends	female	3350	no
+142_mom	human gut metagenome	Homo sapiens	stool	19/02/2019	Germany: Bavaria	142	mother	mother	mom	Parent	mother	Morgens	female	3550	no
+144_mom	human gut metagenome	Homo sapiens	stool	10/01/2019	Germany: Bavaria	144	mother	mother	mom	Parent	mother	Mittags	female	3570	yes
+163_mom	human gut metagenome	Homo sapiens	stool	16/03/2020	Germany: Bavaria	163	mother	mother	mom	Parent	mother	na	female	3535	no
+178_mom	human gut metagenome	Homo sapiens	stool	12/02/2020	Germany: Bavaria	178	mother	mother	mom	Parent	mother	Abends	female	3870	yes
+183_mom	human gut metagenome	Homo sapiens	stool	01/10/2018	Germany: Bavaria	183	mother	mother	mom	Parent	mother	Morgens	female	3100	no
+199_mom	human gut metagenome	Homo sapiens	stool	05/02/2020	Germany: Bavaria	199	mother	mother	mom	Parent	mother	Morgens	female	3050	no
+208_mom	human gut metagenome	Homo sapiens	stool	23/10/2018	Germany: Bavaria	208	mother	mother	mom	Parent	mother	Morgens	female	2800	no
+214_mom	human gut metagenome	Homo sapiens	stool	18/03/2020	Germany: Bavaria	214	mother	mother	mom	Parent	mother	Abends	female	2910	yes
+220_mom	human gut metagenome	Homo sapiens	stool	20/05/2019	Germany: Bavaria	220	mother	mother	mom	Parent	mother	Morgens	female	3580	no
+257_mom	human gut metagenome	Homo sapiens	stool	21/04/2020	Germany: Bavaria	257	mother	mother	mom	Parent	mother	Morgens	female	4450	yes
+263_mom	human gut metagenome	Homo sapiens	stool	05/12/2019	Germany: Bavaria	263	mother	mother	mom	Parent	mother	Morgens	female	3170	no
+276_mom	human gut metagenome	Homo sapiens	stool	27/05/2019	Germany: Bavaria	276	mother	mother	mom	Parent	mother	Mittags	female	3475	no
+300_mom	human gut metagenome	Homo sapiens	stool	20/11/2018	Germany: Bavaria	300	mother	mother	mom	Parent	mother	Morgens	female	3270	no
+303_mom	human gut metagenome	Homo sapiens	stool	12/11/2018	Germany: Bavaria	303	mother	mother	mom	Parent	mother	Morgens	female	2830	yes
+327_mom	human gut metagenome	Homo sapiens	stool	18/02/2019	Germany: Bavaria	327	mother	mother	mom	Parent	mother	Morgens	female	3270	yes
+369_mom	human gut metagenome	Homo sapiens	stool	29/04/2020	Germany: Bavaria	369	mother	mother	mom	Parent	mother	Morgens	female	3250	yes
+387_mom	human gut metagenome	Homo sapiens	stool	20/04/2020	Germany: Bavaria	387	mother	mother	mom	Parent	mother	Abends	female	3380	no
+418_mom	human gut metagenome	Homo sapiens	stool	24/01/2019	Germany: Bavaria	418	mother	mother	mom	Parent	mother	Morgens	female	3300	yes
+421_mom	human gut metagenome	Homo sapiens	stool	18/03/2019	Germany: Bavaria	421	mother	mother	mom	Parent	mother	Morgens	female	3020	no
+430_mom	human gut metagenome	Homo sapiens	stool	24/02/2020	Germany: Bavaria	430	mother	mother	mom	Parent	mother	Morgens	female	3480	no
+432_mom	human gut metagenome	Homo sapiens	stool	03/06/2019	Germany: Bavaria	432	mother	mother	mom	Parent	mother	Mittags	female	3015	no
+501_mom	human gut metagenome	Homo sapiens	stool	20/08/2019	Germany: Bavaria	501	mother	mother	mom	Parent	mother	Mittags	female	3630	yes
+502_mom	human gut metagenome	Homo sapiens	stool	13/01/2019	Germany: Bavaria	502	mother	mother	mom	Parent	mother	Mittags	female	2315	yes
+523_mom	human gut metagenome	Homo sapiens	stool	15/03/2020	Germany: Bavaria	523	mother	mother	mom	Parent	mother	Abends	female	3920	no
+527_mom	human gut metagenome	Homo sapiens	stool	22/10/2018	Germany: Bavaria	527	mother	mother	mom	Parent	mother	Morgens	female	4520	no
+544_mom	human gut metagenome	Homo sapiens	stool	15/07/2019	Germany: Bavaria	544	mother	mother	mom	Parent	mother	Morgens	female	3600	no
+568_mom	human gut metagenome	Homo sapiens	stool	07/10/2019	Germany: Bavaria	568	mother	mother	mom	Parent	mother	Morgens	female	3720	no
+577A_mom	human gut metagenome	Homo sapiens	stool	22/05/2019	Germany: Bavaria	577A	mother	mother	mom	Parent	mother	Morgens	female	2480	yes
+599_mom	human gut metagenome	Homo sapiens	stool	17/06/2019	Germany: Bavaria	599	mother	mother	mom	Parent	mother	na	female	4180	no
+605_mom	human gut metagenome	Homo sapiens	stool	29/10/2019	Germany: Bavaria	605	mother	mother	mom	Parent	mother	Mittags	female	3990	no
+668_mom	human gut metagenome	Homo sapiens	stool	05/02/2019	Germany: Bavaria	668	mother	mother	mom	Parent	mother	na	female	3450	yes
+679_mom	human gut metagenome	Homo sapiens	stool	24/02/2020	Germany: Bavaria	679	mother	mother	mom	Parent	mother	Mittags	female	3500	yes
+710_mom	human gut metagenome	Homo sapiens	stool	03/06/2019	Germany: Bavaria	710	mother	mother	mom	Parent	mother	Morgens	female	3090	no
+719_mom	human gut metagenome	Homo sapiens	stool	27/11/2018	Germany: Bavaria	719	mother	mother	mom	Parent	mother	Morgens	female	4700	yes
+748_mom	human gut metagenome	Homo sapiens	stool	13/01/2020	Germany: Bavaria	748	mother	mother	mom	Parent	mother	Abends	female	3520	no
+756_mom	human gut metagenome	Homo sapiens	stool	08/10/2019	Germany: Bavaria	756	mother	mother	mom	Parent	mother	Morgens	female	3070	no
+789_mom	human gut metagenome	Homo sapiens	stool	27/08/2018	Germany: Bavaria	789	mother	mother	mom	Parent	mother		female	3600	no
+792_mom	human gut metagenome	Homo sapiens	stool	15/09/2019	Germany: Bavaria	792	mother	mother	mom	Parent	mother	Mittags	female	2770	yes
+802_mom	human gut metagenome	Homo sapiens	stool	21/08/2019	Germany: Bavaria	802	mother	mother	mom	Parent	mother	Morgens	female	3345	yes
+806_mom	human gut metagenome	Homo sapiens	stool	30/03/2020	Germany: Bavaria	806	mother	mother	mom	Parent	mother	Morgens	female	3240	yes
+819_mom	human gut metagenome	Homo sapiens	stool	25/02/2019	Germany: Bavaria	819	mother	mother	mom	Parent	mother	Morgens	female	3440	yes
+836_mom	human gut metagenome	Homo sapiens	stool	04/02/2020	Germany: Bavaria	836	mother	mother	mom	Parent	mother	Morgens	female	2840	yes
+839_mom	human gut metagenome	Homo sapiens	stool	17/06/2019	Germany: Bavaria	839	mother	mother	mom	Parent	mother	Morgens	female	3800	yes
+859_mom	human gut metagenome	Homo sapiens	stool	09/10/2018	Germany: Bavaria	859	mother	mother	mom	Parent	mother	Abends	female	2830	no
+861_mom	human gut metagenome	Homo sapiens	stool	18/09/2018	Germany: Bavaria	861	mother	mother	mom	Parent	mother	Mittags	female	3620	no
+865_mom	human gut metagenome	Homo sapiens	stool	04/02/2019	Germany: Bavaria	865	mother	mother	mom	Parent	mother	Morgens	female	3080	no
+907_mom	human gut metagenome	Homo sapiens	stool	17/12/2019	Germany: Bavaria	907	mother	mother	mom	Parent	mother	Mittags	female	4000	no
+912_mom	human gut metagenome	Homo sapiens	stool	16/03/2020	Germany: Bavaria	912	mother	mother	mom	Parent	mother	Morgens	female	3380	no
+933_mom	human gut metagenome	Homo sapiens	stool	02/12/2018	Germany: Bavaria	933	mother	mother	mom	Parent	mother	Abends	female	3975	yes
+960_mom	human gut metagenome	Homo sapiens	stool	17/03/2019	Germany: Bavaria	960	mother	mother	mom	Parent	mother	Abends	female	3270	no
+968_mom	human gut metagenome	Homo sapiens	stool	01/07/2019	Germany: Bavaria	968	mother	mother	mom	Parent	mother	Abends	female	3880	no
+975_mom	human gut metagenome	Homo sapiens	stool	18/10/2018	Germany: Bavaria	975	mother	mother	mom	Parent	mother	Morgens	female	3895	no
+981_mom	human gut metagenome	Homo sapiens	stool	04/11/2019	Germany: Bavaria	981	mother	mother	mom	Parent	mother	Morgens	female	2990	no
+999_mom	human gut metagenome	Homo sapiens	stool	23/10/2018	Germany: Bavaria	999	mother	mother	mom	Parent	mother	Morgens	female	3390	yes

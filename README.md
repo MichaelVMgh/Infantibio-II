@@ -59,7 +59,7 @@
 - `strainphlan_add_metadata.sh`
 - `strainphlan_graphlan.sh`
 - `global_Bifidobacterium_strain_diversity_trees.sh` (for global Bifidobacterium strain diversity analysis with StrainPhlAn)
-  - uses the `make_annotation_file_ALL.py` python and `total_metadata_merged_ALL.txt` excel files.
+  - used the `make_annotation_file_ALL.py` python and `total_metadata_merged_ALL.txt` excel files.
 - Additional reference-based tools (KneadData, Trim Galore and HUMAnN) and assembly-based tools (MEGAHIT, Prodigal, cd-hit, MSPMiner, and InterProScan) were executed using an in-house pipeline implemented in Snakemake v 7.26.0.
 
 
@@ -83,7 +83,7 @@
 
 
 
-For alpha-diversity and beta-diversity analysis we will use the R script named `Diversities.R`. For this script we would need to install the R packages "vegan" and "ggplot". We would need two input files, A) a MetaPhlAn output table with relative abundances where the bacterial species are in the columns and the samples are in the rows (the `merged_abundance_table_species_transposed.txt` file is our original output table with MetaPhlAn4 species-level taxonomic profiles and can be used for this purpose), and B) a mapping file (`mapping_file.txt`) with all the relevant metadata as columns and the samples in the rows.
+For alpha-diversity and beta-diversity analysis we used the R script named `Diversities.R`. For this script we needed to install the R packages "vegan" and "ggplot". We also needed two input files, A) a MetaPhlAn output table with relative abundances where the bacterial species are in the columns and the samples are in the rows (the `merged_abundance_table_species_transposed.txt` file is our original output table with MetaPhlAn4 species-level taxonomic profiles and was used for this purpose), and B) a mapping file (`mapping_file.txt`) with all the relevant metadata as columns and the samples in the rows.
 
 
 
@@ -95,7 +95,7 @@ For alpha-diversity and beta-diversity analysis we will use the R script named `
 
 
 
-For visualizing the median relative abundances of top bacterial genera as stacked barplots we use the Jupyter script `top_genera_stacked_barplots.ipynb`. We would only need one input file, which would be a MetaPhlAn output table (transposed) with the taxonomic relative abundances at the genus-level as values, the bacterial genera as columns and the samples as rows. The table included in the `merged_abundance_table_genus_transposed.txt` can be used. If not, your own MetaPhlAn transposed table with the added metadata info as columns can also be used.
+For visualizing the median relative abundances of top bacterial genera as stacked barplots we used the Jupyter script `top_genera_stacked_barplots.ipynb`. We only needed one input file, which is a MetaPhlAn output table (transposed) with the taxonomic relative abundances at the genus-level as values, the bacterial genera as columns and the samples as rows. We used the table included in the `merged_abundance_table_genus_transposed.txt`. If not, your own MetaPhlAn transposed table with the added metadata info as columns can also be used.
 
 
 
@@ -107,7 +107,7 @@ For visualizing the median relative abundances of top bacterial genera as stacke
 
 
 
-For generating the relative abundances of the dominant Bifidobacterium species by formula group we use the Jupyter script `Bifidobacterium_boxplots_by_formula.ipynb` file. As previously, we would need the `merged_abundance_table_species_transposed.txt` as input file (table with the species-level relative abundances). This table would include both species names and metadata in the columns and the samples names in the rows.
+For generating the relative abundances of the dominant Bifidobacterium species by formula group we used the Jupyter script `Bifidobacterium_boxplots_by_formula.ipynb` file. As previously, we needed the `merged_abundance_table_species_transposed.txt` as input file (table with the species-level relative abundances). This table includes both species names and metadata in the columns and the samples names in the rows.
 
 
 
@@ -119,7 +119,7 @@ For generating the relative abundances of the dominant Bifidobacterium species b
 
 
 
-For the Bray-Curtis dissimilarity heatmap at 24 months the Python script `bray_curtis_heatmap.py` can be used with the same `merged_abundance_table_species_transposed.txt` input file as mentioned before.
+For the Bray-Curtis dissimilarity heatmap at 24 months the Python script `bray_curtis_heatmap.py` was used with the same `merged_abundance_table_species_transposed.txt` input file as mentioned before.
 
 
 
@@ -131,7 +131,7 @@ For the Bray-Curtis dissimilarity heatmap at 24 months the Python script `bray_c
 
 
 
-To generate these trees we would use the StrainPhlAn tool with each step in each separated script. We start with `strainphlan_extract_markers.sh` to extract reference species-specific marker genes (from the desired clade) from the MetaPhlAn database and `strainphlan_sample2markers.sh` to reconstruct consensus marker sequences for every species/strain detected in each metagenomic sample. The `strainphlan_main.sh` is the main script and builds the phylogenetic tree. Then, the script `strainphlan_add_metadata.sh` adds sample metadata to the tree while `strainphlan_graphlan.sh` is used for visualization and for generating the final figures.
+To generate these trees we used the StrainPhlAn tool with each step in each separated script. We started with `strainphlan_extract_markers.sh` to extract reference species-specific marker genes (from the desired clade) from the MetaPhlAn database and `strainphlan_sample2markers.sh` to reconstruct consensus marker sequences for every species/strain detected in each metagenomic sample. The `strainphlan_main.sh` was the main script and constructed the phylogenetic tree. Then, the script `strainphlan_add_metadata.sh` added sample metadata to the tree while `strainphlan_graphlan.sh` was used for visualization and for generating the final figures.
 
 
 
@@ -143,7 +143,7 @@ To generate these trees we would use the StrainPhlAn tool with each step in each
 
 
 
-For the global Bifidobacterium strain diversity analysis with StrainPhlAn we use the file named `global_Bifidobacterium_strain_diversity_trees.sh` and follow the steps included there (using the StrainPhlAn tool, similarly to the step before).
+For the global Bifidobacterium strain diversity analysis with StrainPhlAn we used the file named `global_Bifidobacterium_strain_diversity_trees.sh` and followed the steps included there (using the StrainPhlAn tool, similarly to the step before).
 
 
 
@@ -155,7 +155,7 @@ For the global Bifidobacterium strain diversity analysis with StrainPhlAn we use
 
 
 
-For the multivariate association analyses using Maaslin2 (with Humann3 data) the R script named `maaslin.R` is used. For this purpose the Maaslin2 R package would need to be installed with BiocManager. Two input files are required: a table with all the gene families/pathways abundances (`genepathways_unstratified.txt` or `genefamilies_unstratified`), and a mapping file. Sample IDs should match between these two files.
+For the multivariate association analyses using Maaslin2 (with Humann3 data) the R script named `maaslin.R` was used. For this purpose the Maaslin2 R package had to be installed with BiocManager. Two input files were required: a table with all the gene families/pathways abundances (`genepathways_unstratified.txt` or `genefamilies_unstratified`), and a mapping file. Sample IDs had to match between these two files.
 
 
 
@@ -167,7 +167,7 @@ For the multivariate association analyses using Maaslin2 (with Humann3 data) the
 
 
 
-For the volcanoplots with Humann3 functional profiles (gene families or gene pathways), the R script `volcanoplots.R` is used. The Maaslin2 output file with the significant gene families/pathways (filtered by the associated ones to your desired variable; e.g., feeding) would be used as input file.
+For the volcanoplots with Humann3 functional profiles (gene families or gene pathways), the R script `volcanoplots.R` was used. The Maaslin2 output file with the significant gene families/pathways (filtered by the associated ones to your desired variable; e.g., feeding) was used as input file.
 
 
 
@@ -179,7 +179,7 @@ For the volcanoplots with Humann3 functional profiles (gene families or gene pat
 
 
 
-For the BL subsp. infantis horizontal barplots with the top significant annotated genes, the script `BLinfantis_clusters_top_genes_barplots.py` may be used. Input files should be: A) a Maaslin2 output file with the significant genes associated with the relevant variable (e.g., clade or cluster), and B) an output file from InterproScan with the annotated Pfam domains.
+For the BL subsp. infantis horizontal barplots with the top significant annotated genes, the script `BLinfantis_clusters_top_genes_barplots.py` was used. Input files were: A) a Maaslin2 output file with the significant genes associated with the relevant variable (e.g., clade or cluster), and B) an output file from InterproScan with the annotated Pfam domains.
 
 
 
@@ -191,7 +191,7 @@ For the BL subsp. infantis horizontal barplots with the top significant annotate
 
 
 
-For the evolutionary distances we would need the Python script `evolutionary_distances.py` and two input files. The first input file should be a "full symmetric distance matrix" table (e.g., `buniformis_full_symmetric_distance_matrix.txt`) for each bacterial species where sample names are included as row names AND columns. Values are evolutionary distances between samples according to the StrainPhlAn distance matrix output (Kimura-corrected). The second file (e.g., `buniformis_with_distances_to_parents.txt`) would be a table with the samples as rows and the "Distances_to_mother" and "Distances_to_father" as two separate columns with the evolutionary distances values from each infant sample to the respective mother or father.
+For the evolutionary distances we used the Python script `evolutionary_distances.py` and two input files. The first input file was a "full symmetric distance matrix" table (e.g., `buniformis_full_symmetric_distance_matrix.txt`) for each bacterial species where sample names are included as row names AND columns. Values were evolutionary distances between samples according to the StrainPhlAn distance matrix output (Kimura-corrected). The second file (e.g., `buniformis_with_distances_to_parents.txt`) was a table with the samples as rows and the "Distances_to_mother" and "Distances_to_father" as two separate columns with the evolutionary distances values from each infant sample to the respective mother or father.
 
 
 
