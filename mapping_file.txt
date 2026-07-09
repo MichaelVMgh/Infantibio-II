@@ -1,402 +1,402 @@
-sampleid	ID	TimePoint	Feeding_group	Feeding_Overall	Exclusive	TypeOfBirth	total_weight_in_g_x	amount_spike_x	Date	TimeOfDay	Sex
-102_12mo	102	12mo	B	B	mixed	vaginal	2,124	6.0	10/12/2019	8:00	male
-102_1mo	102	1mo	BF	B	mixed	vaginal	1,687	6.0	10/12/2018	8:00	male
-102_24mo	102	24mo	24mo	B	mixed	vaginal			11/11/2020	10:00	male
-102_3mo	102	3mo	BF	B	mixed	vaginal	2,078	6.0	19/02/2019	8:45	male
-102_7mo	102	7mo	B	B	mixed	vaginal	2,239	6.0	24/06/2019	9:00	male
-102_mom	102	mother	mother	mom	Parent	mother	2,079	6.0	10/12/2018	Morgens	
-116_12mo	116	12mo	C	C	mixed	vaginal	1,843	6.0	24/06/2020	9:30	male
-116_1mo	116	1mo	C	C	mixed	vaginal	0,129	6.0	24/07/2019	8:00	male
-116_24mo	116	24mo	24mo	C	mixed	vaginal			6/21/2021	13:00	male
-116_3mo	116	3mo	C	C	mixed	vaginal	1,626	6.0	26/09/2019	9:30	male
-116_7mo	116	7mo	C	C	mixed	vaginal	2,759	6.0	06/02/2020	14:00	male
-116_dad	116	father	father	dad	Parent	father	2,351	6.0	24/07/2019	Morgens	
-116_mom	116	mother	mother	mom	Parent	mother	1,018	6.0	24/07/2019	Morgens	
-120B_12mo	120B	12mo	BF	breastfeeding	bf	c-section	2,107	6.0	11/08/2020	9:00	female
-120B_1mo	120B	1mo	BF	breastfeeding	bf	c-section	1	6.0	09/09/2019	9:30	female
-120B_24mo	120B	24mo	24mo	breastfeeding	bf	c-section			na	na	female
-120B_3mo	120B	3mo	BF	breastfeeding	bf	c-section	1,134	6.0	29/10/2019	9:30	female
-120B_7mo	120B	7mo	BF	breastfeeding	bf	c-section	1,565	6.0	02/03/2020	8:00	female
-120B_dad	120B	father	father	dad	Parent	father			10/09/2019	Morgens	
-120B_mom	120B	mother	mother	mom	Parent	mother	1,485	6.0	09/09/2019	Abends	
-121_12mo	121	12mo	A	A	mixed	vaginal	0,716	6.0	22/01/2021	9:00	male
-121_1mo	121	1mo	A	A	mixed	vaginal	1	6.0	02/03/2020	22:00	male
-121_24mo	121	24mo	24mo	A	mixed	vaginal			1/23/2021	19:00	male
-121_3mo	121	3mo	A	A	mixed	vaginal	0,568	6.0	22/04/2020	21:30	male
-121_7mo	121	7mo	A	A	mixed	vaginal	0,706	6.0	21/09/2020	15:00	male
-121_dad	121	father	father	dad	Parent	father	0,426	6.0	02/03/2020	Abends	
-121_mom	121	mother	mother	mom	Parent	mother	1,289	6.0	02/03/2020	Abends	
-128_12mo	128	12mo	B	B	mixed	c-section	1,54	6.0	25/01/2021	15:00	female
-128_1mo	128	1mo	B	B	mixed	c-section	1	6.0	24/02/2020	16:30	female
-128_24mo	128	24mo	24mo	B	mixed	c-section			1/23/2022	16:30	female
-128_3mo	128	3mo	B	B	mixed	c-section	1	6.0	21/04/2020	8:30	female
-128_7mo	128	7mo	B	B	mixed	c-section	1,233	6.0	01/09/2020	7:30	female
-128_dad	128	father	father	dad	Parent	father	2,944	6.0	25/02/2020	Morgens	
-128_mom	128	mother	mother	mom	Parent	mother	0,626	6.0	24/02/2020	Mittags	
-131_12mo	131	12mo	A	A	mixed	c-section	1,634	6.0	10/09/2019	9:15	male
-131_1mo	131	1mo	BF	A	mixed	c-section	0,679	6.0	30/09/2018	15:30	male
-131_24mo	131	24mo	24mo	A	mixed	c-section			8/31/2020	13:00	male
-131_3mo	131	3mo	BF	A	mixed	c-section	1,147	6.0	05/12/2018	8:00	male
-131_7mo	131	7mo	BF	A	mixed	c-section	1,86	6.0	05/04/2019	8:30	male
-131_dad	131	father	father	dad	Parent	father	2,409	6.0	30/09/2018	Abends	
-131_mom	131	mother	mother	mom	Parent	mother	1,279	6.0	30/09/2018	Abends	
-142_12mo	142	12mo	B	B	mixed	vaginal	0,49	6.0	29/01/2020	5:30	male
-142_1mo	142	1mo	B	B	mixed	vaginal	1,598	6.0	19/02/2019	18:00	male
-142_24mo	142	24mo	24mo	B	mixed	vaginal			02/03/2021	18:30	male
-142_3mo	142	3mo	B	B	mixed	vaginal	1,352	6.0	10/04/2019	7:00	male
-142_7mo	142	7mo	B	B	mixed	vaginal	1,347	6.0	21/08/2019	18:30	male
-142_dad	142	father	father	dad	Parent	father	1,18	6.0	19/02/2019	Abends	
-142_mom	142	mother	mother	mom	Parent	mother	1,205	6.0	19/02/2019	Morgens	
-144_12mo	144	12mo	BF	breastfeeding	bf	vaginal	1,538	6.0	05/12/2019	8:45	female
-144_1mo	144	1mo	BF	breastfeeding	bf	vaginal	0,683	6.0	10/01/2019	10:00	female
-144_24mo	144	24mo	24mo	breastfeeding	bf	vaginal			12/19/2020	9:45	female
-144_3mo	144	3mo	BF	breastfeeding	bf	vaginal	1,265	6.0	14/03/2019	10:00	female
-144_7mo	144	7mo	BF	breastfeeding	bf	vaginal	3,673	6.0	27/06/2019	19:30	female
-144_dad	144	father	father	dad	Parent	father	1,129	6.0	10/01/2019	Mittags	
-144_mom	144	mother	mother	mom	Parent	mother	1,834	6.0	10/01/2019	Mittags	
-163_12mo	163	12mo	D	D	mixed	c-section	1,696	6.0	14/02/2021	18:30	female
-163_1mo	163	1mo	D	D	mixed	c-section	1,405	6.0	16/03/2020	10:15	female
-163_24mo	163	24mo	24mo	D	mixed	c-section			1/26/2022	8:00	female
-163_3mo	163	3mo	D	D	mixed	c-section	1,074	6.0	25/05/2020	13:00	female
-163_7mo	163	7mo	D	D	mixed	c-section	3,217	6.0	22/09/2020	10:30	female
-163_dad	163	father	father	dad	Parent	father	1,927	6.0	16/03/2020	na	
-163_mom	163	mother	mother	mom	Parent	mother	1,555	6.0	16/03/2020	na	
-178_12mo	178	12mo	C	C	mixed	c-section	3,426	6.0	22/01/2021	16:00	female
-178_1mo	178	1mo	C	C	mixed	c-section	1,793	6.0	13/02/2020	15:30	female
-178_24mo	178	24mo	24mo	C	mixed	c-section			2/15/2022	7:10	female
-178_3mo	178	3mo	C	C	mixed	c-section	1	6.0	21/04/2020	6:00	female
-178_7mo	178	7mo	C	C	mixed	c-section	2,02	6.0	27/08/2020	9:45	female
-178_dad	178	father	father	dad	Parent	father	1	6.0	13/02/2020	Morgens	
-178_mom	178	mother	mother	mom	Parent	mother	2,114	6.0	12/02/2020	Abends	
-183_12mo	183	12mo	A	A	mixed	c-section	2,236	6.0	01/09/2019	15:00	male
-183_1mo	183	1mo	A	A	mixed	c-section	1,47	6.0	01/10/2018	1:00	male
-183_24mo	183	24mo	24mo	A	mixed	c-section			09/01/2020	8:45	male
-183_3mo	183	3mo	A	A	mixed	c-section	1,054	6.0	26/11/2018	13:30	male
-183_7mo	183	7mo	A	A	mixed	c-section	1,622	6.0	31/03/2019	15:30	male
-183_dad	183	father	father	dad	Parent	father	1,251	6.0	30/09/2018	Morgens	
-183_mom	183	mother	mother	mom	Parent	mother	1,204	6.0	01/10/2018	Morgens	
-199_12mo	199	12mo	D	D	bottle	vaginal	5,105	6.0	13/01/2021	8:15	female
-199_1mo	199	1mo	D	D	bottle	vaginal	2,388	6.0	05/02/2020	11:30	female
-199_24mo	199	24mo	24mo	D	bottle	vaginal			12/10/2021	8:50	female
-199_3mo	199	3mo	D	D	bottle	vaginal	2,33	6.0	07/04/2020	7:30	female
-199_7mo	199	7mo	D	D	bottle	vaginal	3,951	6.0	12/08/2020	14:00	female
-199_mom	199	mother	mother	mom	Parent	mother	3,607	6.0	05/02/2020	Morgens	
-208_12mo	208	12mo	A	A	mixed	c-section	2,483	6.0	25/09/2019	9:00	female
-208_1mo	208	1mo	BF	A	mixed	c-section	1,064	6.0	23/10/2018	4:30	female
-208_24mo	208	24mo	24mo	A	mixed	c-section			9/27/2020	16:00	female
-208_3mo	208	3mo	BF	A	mixed	c-section	1,44	6.0	20/12/2018	keine Angabe	female
-208_7mo	208	7mo	A	A	mixed	c-section	3,813	6.0	09/04/2019	16:00	female
-208_dad	208	father	father	dad	Parent	father	1,727	6.0	22/10/2018	na	
-208_mom	208	mother	mother	mom	Parent	mother	1,985	6.0	23/10/2018	Morgens	
-214_12mo	214	12mo	D	D	mixed	vaginal	6,764	6.0	15/02/2021	19:00	female
-214_1mo	214	1mo	D	D	mixed	vaginal	1	6.0	18/03/2020	19:15	female
-214_24mo	214	24mo	24mo	D	mixed	vaginal			1/23/2022	19:30	female
-214_3mo	214	3mo	D	D	mixed	vaginal	2,315	6.0	25/05/2020	19:30	female
-214_7mo	214	7mo	D	D	mixed	vaginal	2,604	6.0	22/09/2020	18:00	female
-214_dad	214	father	father	dad	Parent	father	1,795	6.0	19/03/2020	Mittags	
-214_mom	214	mother	mother	mom	Parent	mother	3,843	6.0	18/03/2020	Abends	
-220_12mo	220	12mo	B	B	mixed	vaginal	2,566	6.0	05/04/2020	9:00	female
-220_1mo	220	1mo	B	B	mixed	vaginal	3,62	6.0	20/05/2019	18:00	female
-220_24mo	220	24mo	24mo	B	mixed	vaginal			04/06/2021	7:45	female
-220_3mo	220	3mo	B	B	mixed	vaginal	3,558	6.0	16/07/2019	10:00	female
-220_7mo	220	7mo	B	B	mixed	vaginal	2,758	6.0	05/11/2019	9:00	female
-220_dad	220	father	father	dad	Parent	father	1,065	6.0	21/05/2019	Morgens	
-220_mom	220	mother	mother	mom	Parent	mother	1,651	6.0	20/05/2019	Morgens	
-257_12mo	257	12mo	BF	breastfeeding	bf	c-section	3,523	6.0	14/03/2021	10:30	male
-257_1mo	257	1mo	BF	breastfeeding	bf	c-section	0,043	6.0	17/04/2020	7:45	male
-257_24mo	257	24mo	24mo	breastfeeding	bf	c-section			02/07/2022	7:45	male
-257_3mo	257	3mo	BF	breastfeeding	bf	c-section	1,198	6.0	22/05/2020	8:00	male
-257_7mo	257	7mo	BF	breastfeeding	bf	c-section	0,735	6.0	12/10/2020	10:30	male
-257_dad	257	father	father	dad	Parent	father	0,7	6.0	21/04/2020	Morgens	
-257_mom	257	mother	mother	mom	Parent	mother	0,877	6.0	21/04/2020	Morgens	
-263_12mo	263	12mo	B	B	mixed	vaginal	1,316	6.0	10/11/2020	9:00	female
-263_1mo	263	1mo	BF	B	mixed	vaginal	0,567	6.0	04/12/2019	15:00	female
-263_24mo	263	24mo	24mo	B	mixed	vaginal			11/04/2021	11:00	female
-263_3mo	263	3mo	BF	BF	mixed	vaginal	1	6.0	01/03/2020	9:30	female
-263_7mo	263	7mo	B	B	mixed	vaginal	1,642	6.0	15/06/2020	13:00	female
-263_dad	263	father	father	dad	Parent	father	0,828	6.0	05/12/2019	Morgens	
-263_mom	263	mother	mother	mom	Parent	mother	0,654	6.0	05/12/2019	Morgens	
-276_12mo	276	12mo	D	D	mixed	vaginal	0,279	6.0	23/04/2020	13:30	female
-276_1mo	276	1mo	BF	D	mixed	vaginal	0,646	6.0	28/05/2019	7:00	female
-276_24mo	276	24mo	24mo	D	mixed	vaginal			4/20/2021	7:30	female
-276_3mo	276	3mo	BF	BF	mixed	vaginal	1	6.0	29/07/2019	6:40	female
-276_7mo	276	7mo	D	D	mixed	vaginal	1,947	6.0	19/11/2019	11:30	female
-276_dad	276	father	father	dad	Parent	father	1	6.0	27/05/2019	Abends	
-276_mom	276	mother	mother	mom	Parent	mother	1,596	6.0	27/05/2019	Mittags	
-300_24mo	300	24mo	24mo	BF	bf	vaginal			10/15/2020	11:30	male
-300_3mo	300	3mo	BF	BF	bf	vaginal	0,352	6.0	28/01/2019	19:00	male
-300_7mo	300	7mo	BF	BF	bf	vaginal	1,624	6.0	01/07/2019	8:00	male
-300_mom	300	mother	mother	mom	Parent	mother	1,864	6.0	20/11/2018	Morgens	
-303_12mo	303	12mo	C	C	mixed	vaginal	2,054	6.0	22/10/2019	7:30	male
-303_1mo	303	1mo	BF	C	mixed	vaginal	0,593	6.0	12/11/2018	10:00	male
-303_24mo	303	24mo	24mo	C	mixed	vaginal			11/10/2020	7:30	male
-303_3mo	303	3mo	BF	BF	mixed	vaginal	0,613	6.0	29/01/2019	10:00	male
-303_7mo	303	7mo	C	C	mixed	vaginal	5,33	6.0	20/05/2019	8:30	male
-303_mom	303	mother	mother	mom	Parent	mother	1,164	6.0	12/11/2018	Morgens	
-327_12mo	327	12mo	C	C	mixed	c-section	5,133	6.0	20/01/2020	9:30	male
-327_1mo	327	1mo	BF	C	mixed	c-section	0,675	6.0	18/02/2019	20:00	male
-327_24mo	327	24mo	24mo	C	mixed	c-section			03/03/2021	7:50	male
-327_3mo	327	3mo	BF	C	mixed	c-section	0,913	6.0	07/04/2019	19:30	male
-327_7mo	327	7mo	BF	C	mixed	c-section	1,77	6.0	21/08/2019	20:40	male
-327_dad	327	father	father	dad	Parent	father	1,551	6.0	17/02/2019	Abends	
-327_mom	327	mother	mother	mom	Parent	mother	2,943	6.0	18/02/2019	Morgens	
-369_12mo	369	12mo	BF	breastfeeding	bf	c-section	5,528	6.0	14/03/2021	18:30	female
-369_1mo	369	1mo	BF	breastfeeding	bf	c-section	1	6.0	29/04/2020	7:40	female
-369_24mo	369	24mo	24mo	breastfeeding	bf	c-section			02/08/2022	7:10	female
-369_3mo	369	3mo	BF	breastfeeding	bf	c-section	0,505	6.0	06/07/2020	15:00	female
-369_7mo	369	7mo	BF	breastfeeding	bf	c-section	1,66	6.0	20/10/2020	7:10	female
-369_mom	369	mother	mother	mom	Parent	mother	2,046	6.0	29/04/2020	Morgens	
-387_12mo	387	12mo	BF	breastfeeding	bf	vaginal	2,558	6.0	12/03/2021	21:00	male
-387_1mo	387	1mo	BF	breastfeeding	bf	vaginal	0,064	6.0	20/04/2020	14:30	male
-387_24mo	387	24mo	24mo	BF	bf	vaginal			02/01/2022	14:00	male
-387_3mo	387	3mo	BF	BF	bf	vaginal	0,021	6.0	23/06/2020	9:30	male
-387_7mo	387	7mo	BF	BF	bf	vaginal	2,001	6.0	27/10/2020	18:40	male
-387_dad	387	father	father	dad	Parent	father	1,391	6.0	21/04/2020	Mittags	
-387_mom	387	mother	mother	mom	Parent	mother	2,591	6.0	20/04/2020	Abends	
-418_12mo	418	12mo	B	B	mixed	c-section	1,005	6.0	05/12/2019	8:30	female
-418_1mo	418	1mo	B	B	mixed	c-section	1,817	6.0	23/01/2019	18:00	female
-418_24mo	418	24mo	24mo	B	mixed	c-section			1/16/2021	11:00	female
-418_3mo	418	3mo	B	B	mixed	c-section	2,222	6.0	03/04/2019	16:00	female
-418_7mo	418	7mo	B	B	mixed	c-section	2,784	6.0	26/08/2019	18:00	female
-418_dad	418	father	father	dad	Parent	father	1,343	6.0	23/01/2019	Abends	
-418_mom	418	mother	mother	mom	Parent	mother	3,068	6.0	24/01/2019	Morgens	
-421_12mo	421	12mo	BF	breastfeeding	bf	vaginal	2,128	6.0	02/03/2020	16:50	female
-421_1mo	421	1mo	BF	breastfeeding	bf	vaginal	0,479	6.0	18/03/2019	4:00	female
-421_24mo	421	24mo	24mo	BF	bf	vaginal			03/02/2021	10:20	female
-421_3mo	421	3mo	BF	BF	bf	vaginal	0,843	6.0	21/05/2019	10:00	female
-421_7mo	421	7mo	BF	BF	bf	vaginal	2,197	6.0	17/09/2019	5:30	female
-421_dad	421	father	father	dad	Parent	father	1,265	6.0	17/03/2019	Abends	
-421_mom	421	mother	mother	mom	Parent	mother	1	6.0	18/03/2019	Morgens	
-430_12mo	430	12mo	BF	breastfeeding	bf	vaginal	1,568	6.0	26/01/2021	7:40	female
-430_1mo	430	1mo	BF	breastfeeding	bf	vaginal	0,285	6.0	24/02/2020	6:00	female
-430_24mo	430	24mo	24mo	breastfeeding	bf	vaginal			1/24/2022	14:55	female
-430_3mo	430	3mo	BF	breastfeeding	bf	vaginal	1	6.0	29/04/2020	7:30	female
-430_7mo	430	7mo	BF	breastfeeding	bf	vaginal	1,27	6.0	24/08/2020	8:40	female
-430_mom	430	mother	mother	mom	Parent	mother	1,568	6.0	24/02/2020	Morgens	
-432_12mo	432	12mo	BF	breastfeeding	bf	vaginal	0,901	6.0	28/04/2020	16:30	female
-432_1mo	432	1mo	BF	breastfeeding	bf	vaginal	0,814	6.0	03/06/2019	13:00	female
-432_24mo	432	24mo	24mo	BF	bf	vaginal			6/14/2021	15:45	female
-432_3mo	432	3mo	BF	BF	bf	vaginal	1	6.0	05/08/2019	15:00	female
-432_7mo	432	7mo	BF	BF	bf	vaginal	1,506	6.0	02/12/2019	12:00	female
-432_dad	432	father	father	dad	Parent	father	0,822	6.0	03/06/2019	Morgens	
-432_mom	432	mother	mother	mom	Parent	mother	1	6.0	03/06/2019	Mittags	
-501_12mo	501	12mo	BF	breastfeeding	bf	vaginal	4,369	6.0	20/07/2020	7:15	male
-501_1mo	501	1mo	BF	breastfeeding	bf	vaginal	1,166	6.0	21/08/2019	9:00	male
-501_24mo	501	24mo	24mo	breastfeeding	bf	vaginal			11/23/2021	20:30	male
-501_3mo	501	3mo	BF	breastfeeding	bf	vaginal	0,807	6.0	04/11/2019	6:00	male
-501_7mo	501	7mo	BF	breastfeeding	bf	vaginal	1,057	6.0	27/02/2020	14:00	male
-501_dad	501	father	father	dad	Parent	father	1,914	6.0	21/08/2019	Morgens	
-501_mom	501	mother	mother	mom	Parent	mother	1,631	6.0	20/08/2019	Mittags	
-502_12mo	502	12mo	BF	breastfeeding	bf	vaginal	1,105	6.0	17/12/2019	12:10	male
-502_1mo	502	1mo	BF	breastfeeding	bf	vaginal	0,573	6.0	07/01/2019	18:00	male
-502_24mo	502	24mo	24mo	breastfeeding	bf	vaginal			12/14/2020	11:45	male
-502_3mo	502	3mo	BF	breastfeeding	bf	vaginal	0,919	6.0	21/03/2019	7:30	male
-502_7mo	502	7mo	BF	breastfeeding	bf	vaginal	0,015	6.0	06/08/2019	7:30	male
-502_mom	502	mother	mother	mom	Parent	mother	1,694	6.0	13/01/2019	Mittags	
-523_12mo	523	12mo	BF	breastfeeding	bf	vaginal	2,619	6.0	15/02/2021	8:30	male
-523_1mo	523	1mo	BF	breastfeeding	bf	vaginal	1,449	6.0	16/03/2020	11:00	male
-523_24mo	523	24mo	24mo	BF	bf	vaginal			1/26/2022	9:00	male
-523_3mo	523	3mo	BF	BF	bf	vaginal	1,263	6.0	26/05/2020	9:00	male
-523_7mo	523	7mo	BF	BF	bf	vaginal	3,753	6.0	22/09/2020	9:30	male
-523_dad	523	father	father	dad	Parent	father	1,682	6.0	15/03/2020	Abends	
-523_mom	523	mother	mother	mom	Parent	mother	2,398	6.0	15/03/2020	Abends	
-527_12mo	527	12mo	BF	breastfeeding	bf	vaginal	1,508	6.0	24/09/2019	8:30	male
-527_1mo	527	1mo	BF	breastfeeding	bf	vaginal	1,118	6.0	24/10/2018	19:00	male
-527_24mo	527	24mo	24mo	BF	bf	vaginal			9/25/2020	7:30	male
-527_3mo	527	3mo	BF	BF	bf	vaginal	0,712	6.0	18/12/2018	7:45	male
-527_7mo	527	7mo	BF	BF	bf	vaginal	3,995	6.0	15/04/2019	8:15	male
-527_dad	527	father	father	dad	Parent	father	1,011	6.0	22/10/2018	Morgens	
-527_mom	527	mother	mother	mom	Parent	mother	3,239	6.0	22/10/2018	Morgens	
-544_12mo	544	12mo	BF	breastfeeding	bf	vaginal	2,142	6.0	16/06/2020	18:00	female
-544_1mo	544	1mo	BF	breastfeeding	bf	vaginal	0,498	6.0	15/07/2019	9:00	female
-544_24mo	544	24mo	24mo	BF	bf	vaginal			6/20/2021	10:00	female
-544_3mo	544	3mo	BF	BF	bf	vaginal	1	6.0	03/09/2019	11:00	female
-544_7mo	544	7mo	BF	BF	bf	vaginal	2,253	6.0	28/01/2020	9:30	female
-544_dad	544	father	father	dad	Parent	father	0,87	6.0	15/07/2019	Morgens	
-544_mom	544	mother	mother	mom	Parent	mother	1	6.0	15/07/2019	Morgens	
-568_12mo	568	12mo	A	A	mixed	vaginal	2,738	6.0	09/07/2020	10:00	male
-568_1mo	568	1mo	BF	A	mixed	vaginal	0,989	6.0	09/08/2019	8:00	male
-568_24mo	568	24mo	24mo	A	mixed	vaginal			11/09/2021	14:45	male
-568_3mo	568	3mo	BF	BF	mixed	vaginal	0,323	6.0	07/10/2019	7:00	male
-568_7mo	568	7mo	A	A	mixed	vaginal	1,862	6.0	25/02/2020	12:00	male
-568_dad	568	father	father	dad	Parent	father	2,205	6.0	09/08/2019	Morgens	
-568_mom	568	mother	mother	mom	Parent	mother	0,054	6.0	07/10/2019	Morgens	
-577A_12mo	577A	12mo	B	B	mixed	vaginal	1,411	6.0	23/04/2020	18:30	female
-577A_1mo	577A	1mo	BF	B	mixed	vaginal	0,937	6.0	22/05/2019	8:00	female
-577A_24mo	577A	24mo	24mo	B	mixed	vaginal			na	na	female
-577A_3mo	577A	3mo	BF	B	mixed	vaginal	1	6.0	22/07/2019	13:45	female
-577A_7mo	577A	7mo	B	B	mixed	vaginal	5,261	6.0	20/11/2019	14:00	female
-577A_mom	577A	mother	mother	mom	Parent	mother	5,243	6.0	22/05/2019	Morgens	
-599_12mo	599	12mo	A	A	mixed	vaginal	4,097	6.0	24/05/2020	17:00	male
-599_1mo	599	1mo	BF	A	mixed	vaginal	1,134	6.0	16/06/2019	22:00	male
-599_24mo	599	24mo	24mo	A	mixed	vaginal			6/16/2021	17:00	male
-599_3mo	599	3mo	A	A	mixed	vaginal	1,473	6.0	27/08/2019	13:00	male
-599_7mo	599	7mo	A	A	mixed	vaginal	1	6.0	09/12/2019	16:00	male
-599_mom	599	mother	mother	mom	Parent	mother	1,783	6.0	17/06/2019	na	
-605_12mo	605	12mo	C	C	mixed	vaginal	1,188	6.0	21/09/2020	18:30	male
-605_1mo	605	1mo	BF	C	mixed	vaginal	1	6.0	30/10/2019	10:00	male
-605_24mo	605	24mo	24mo	C	mixed	vaginal			11/24/2021	17:00	male
-605_3mo	605	3mo	BF	BF	mixed	vaginal	1	6.0	16/12/2019	8:15	male
-605_7mo	605	7mo	C	C	mixed	vaginal	1,581	6.0	22/04/2020	8:30	male
-605_dad	605	father	father	dad	Parent	father	1,782	6.0	29/10/2019	Abends	
-605_mom	605	mother	mother	mom	Parent	mother	0,685	6.0	29/10/2019	Mittags	
-668_12mo	668	12mo	A	A	mixed	vaginal	0,805	6.0	14/01/2020	8:00	female
-668_1mo	668	1mo	BF	A	mixed	vaginal	0,706	6.0	04/02/2019	23:00	female
-668_24mo	668	24mo	24mo	A	mixed	vaginal			1/28/2021	14:00	female
-668_3mo	668	3mo	BF	A	mixed	vaginal	1,149	6.0	20/03/2019	20:00	female
-668_7mo	668	7mo	A	A	mixed	vaginal	2,995	6.0	28/07/2019	21:00	female
-668_mom	668	mother	mother	mom	Parent	mother	3,033	6.0	05/02/2019	na	
-679_12mo	679	12mo	D	D	mixed	vaginal	7,722	6.0	25/01/2021	15:30	male
-679_1mo	679	1mo	BF	D	mixed	vaginal	1	6.0	25/02/2020	6:00	male
-679_24mo	679	24mo	24mo	D	mixed	vaginal			1/22/2022	15:00	male
-679_3mo	679	3mo	BF	D	mixed	vaginal	1	6.0	22/04/2020	14:00	male
-679_7mo	679	7mo	D	D	mixed	vaginal	4,892	6.0	13/08/2020	9:00	male
-679_dad	679	father	father	dad	Parent	father	3,937	6.0	25/02/2020	Morgens	
-679_mom	679	mother	mother	mom	Parent	mother	1	6.0	24/02/2020	Mittags	
-710_12mo	710	12mo	C	C	mixed	vaginal	1,827	6.0	25/05/2020	11:00	female
-710_1mo	710	1mo	BF	C	mixed	vaginal	0,989	6.0	03/06/2019	8:00	female
-710_24mo	710	24mo	24mo	C	mixed	vaginal			6/13/2021	18:30	female
-710_3mo	710	3mo	BF	BF	mixed	vaginal	0,899	6.0	01/08/2019	7:00	female
-710_7mo	710	7mo	BF	BF	mixed	vaginal	1,009	6.0	23/01/2020	8:00	female
-710_mom	710	mother	mother	mom	Parent	mother	1,839	6.0	03/06/2019	Morgens	
-719_12mo	719	12mo	C	C	mixed	c-section	1,816	6.0	19/11/2019	9:00	male
-719_1mo	719	1mo	C	C	mixed	c-section	2,928	6.0	26/11/2018	16:00	male
-719_24mo	719	24mo	24mo	C	mixed	c-section			11/19/2020	9:45	male
-719_3mo	719	3mo	C	C	mixed	c-section	2,294	6.0	29/01/2019	2:00	male
-719_7mo	719	7mo	C	C	mixed	c-section	2,05	6.0	23/06/2019	11:00	male
-719_mom	719	mother	mother	mom	Parent	mother	2,081	6.0	27/11/2018	Morgens	
-748_12mo	748	12mo	D	D	mixed	c-section	0,142	6.0	03/12/2020	12:30	female
-748_1mo	748	1mo	D	D	mixed	c-section	1,386	6.0	14/01/2020	17:15	female
-748_24mo	748	24mo	24mo	D	mixed	c-section			12/07/2021	18:55	female
-748_3mo	748	3mo	D	BF	mixed	c-section	0,305	6.0	03/03/2020	14:30	female
-748_7mo	748	7mo	D	D	mixed	c-section	1,518	6.0	07/07/2020	7:30	female
-748_dad	748	father	father	dad	Parent	father	3,13	6.0	14/01/2020	Morgens	
-748_mom	748	mother	mother	mom	Parent	mother	2,929	6.0	13/01/2020	Abends	
-756_12mo	756	12mo	BF	breastfeeding	bf	vaginal	2,104	6.0	01/09/2020	8:20	female
-756_1mo	756	1mo	BF	breastfeeding	bf	vaginal	1,056	6.0	07/10/2019	17:30	female
-756_24mo	756	24mo	24mo	BF	bf	vaginal			11/22/2021	18:55	female
-756_3mo	756	3mo	BF	BF	bf	vaginal	0,65	6.0	28/11/2019	6:45	female
-756_7mo	756	7mo	BF	BF	bf	vaginal	1,306	6.0	25/04/2020	8:30	female
-756_dad	756	father	father	dad	Parent	father	0,42	6.0	08/10/2019	Morgens	
-756_mom	756	mother	mother	mom	Parent	mother	1,085	6.0	08/10/2019	Morgens	
-789_12mo	789	12mo	BF	breastfeeding	bf	vaginal	0,791	6.0	09/09/2019	10:00	female
-789_1mo	789	1mo	BF	breastfeeding	bf	vaginal	1	6.0	27/08/2018	keine Angabe	female
-789_24mo	789	24mo	24mo	BF	bf	vaginal			08/12/2020	11:15	female
-789_7mo	789	7mo	BF	BF	bf	vaginal	0,712	6.0	07/03/2019	15:00	female
-789_dad	789	father	father	dad	Parent	father	1	6.0	27/08/2018	na	
-789_mom	789	mother	mother	mom	Parent	mother	1	6.0	27/08/2018	NA	
-792_12mo	792	12mo	BF	breastfeeding	bf	vaginal	0,509	6.0	12/08/2020	8:30	female
-792_1mo	792	1mo	BF	breastfeeding	bf	vaginal	0,96	6.0	16/09/2019	8:00	female
-792_24mo	792	24mo	24mo	breastfeeding	bf	vaginal			1/20/2022	8:00	female
-792_3mo	792	3mo	BF	breastfeeding	bf	vaginal	0,711	6.0	11/11/2019	10:45	female
-792_7mo	792	7mo	BF	breastfeeding	bf	vaginal	0,29	6.0	16/03/2020	10:00	female
-792_dad	792	father	father	dad	Parent	father	1	6.0	16/09/2019	Morgens	
-792_mom	792	mother	mother	mom	Parent	mother	0,823	6.0	15/09/2019	Mittags	
-802_12mo	802	12mo	D	D	mixed	vaginal	2	6.0	20/07/2020	8:30	female
-802_1mo	802	1mo	D	D	mixed	vaginal	2,045	6.0	21/08/2019	14:00	female
-802_24mo	802	24mo	24mo	D	mixed	vaginal			11/29/2021	18:45	female
-802_3mo	802	3mo	D	D	mixed	vaginal	0,794	6.0	13/10/2019	17:00	female
-802_7mo	802	7mo	D	D	mixed	vaginal	2,596	6.0	27/02/2020	12:00	female
-802_dad	802	father	father	dad	Parent	father	0,847	6.0	21/08/2019	Mittags	
-802_mom	802	mother	mother	mom	Parent	mother	1,009	6.0	21/08/2019	Morgens	
-806_12mo	806	12mo	A	A	mixed	vaginal	2,083	6.0	04/03/2021	8:15	female
-806_1mo	806	1mo	A	A	mixed	vaginal	1	6.0	30/03/2020	17:00	female
-806_24mo	806	24mo	24mo	A	mixed	vaginal			02/05/2022	8:45	female
-806_3mo	806	3mo	A	A	mixed	vaginal	1	6.0	25/05/2020	13:50	female
-806_7mo	806	7mo	A	A	mixed	vaginal	0,977	6.0	27/09/2020	11:20	female
-806_dad	806	father	father	dad	Parent	father	1	6.0	30/03/2020	Morgens	
-806_mom	806	mother	mother	mom	Parent	mother	0,814	6.0	30/03/2020	Morgens	
-819_12mo	819	12mo	D	D	mixed	c-section	2,745	6.0	23/01/2020	7:30	female
-819_1mo	819	1mo	BF	D	mixed	c-section	0,561	6.0	26/02/2019	7:00	female
-819_24mo	819	24mo	24mo	D	mixed	c-section			2/25/2021	18:00	female
-819_3mo	819	3mo	D	D	mixed	c-section	0,944	6.0	20/05/2019	7:30	female
-819_7mo	819	7mo	D	D	mixed	c-section	2,135	6.0	25/08/2019	10:00	female
-819_dad	819	father	father	dad	Parent	father	2,258	6.0	26/02/2019	na	
-819_mom	819	mother	mother	mom	Parent	mother	1,703	6.0	25/02/2019	Morgens	
-836_12mo	836	12mo	C	C	mixed	vaginal	1,245	6.0	19/01/2021	14:30	male
-836_1mo	836	1mo	C	C	mixed	vaginal	0,878	6.0	04/02/2020	8:00	male
-836_24mo	836	24mo	24mo	C	mixed	vaginal			12/07/2021	17:00	male
-836_3mo	836	3mo	C	C	mixed	vaginal	1	6.0	08/04/2020	19:00	male
-836_7mo	836	7mo	C	C	mixed	vaginal	0,804	6.0	29/07/2020	9:15	male
-836_mom	836	mother	mother	mom	Parent	mother	0,966	6.0	04/02/2020	Morgens	
-839_12mo	839	12mo	D	D	mixed	c-section	0,963	6.0	31/05/2020	19:00	male
-839_1mo	839	1mo	D	D	mixed	c-section	0,694	6.0	18/06/2019	8:45	male
-839_24mo	839	24mo	24mo	D	mixed	c-section			5/27/2021	11:00	male
-839_3mo	839	3mo	D	D	mixed	c-section	1	6.0	20/08/2019	8:00	male
-839_7mo	839	7mo	D	D	mixed	c-section	0,939	6.0	16/12/2019	7:00	male
-839_dad	839	father	father	dad	Parent	father	1	6.0	17/06/2019	Abends	
-839_mom	839	mother	mother	mom	Parent	mother	1	6.0	17/06/2019	Morgens	
-859_12mo	859	12mo	B	B	mixed	vaginal	2,382	6.0	19/09/2019	8:00	female
-859_1mo	859	1mo	B	B	mixed	vaginal	1,01	6.0	09/10/2018	17:00	female
-859_24mo	859	24mo	24mo	B	mixed	vaginal			9/13/2020	14:00	female
-859_3mo	859	3mo	B	B	mixed	vaginal	1,454	6.0	12/12/2018	8:00	female
-859_7mo	859	7mo	B	B	mixed	vaginal	2,105	6.0	22/04/2019	20:00	female
-859_dad	859	father	father	dad	Parent	father	4,825	6.0	09/10/2018	Morgens	
-859_mom	859	mother	mother	mom	Parent	mother	0,757	6.0	09/10/2018	Abends	
-861_12mo	861	12mo	BF	breastfeeding	bf	vaginal	2,858	6.0	03/09/2019	14:30	female
-861_1mo	861	1mo	BF	breastfeeding	bf	vaginal	1,149	6.0	18/09/2018	21:00	female
-861_24mo	861	24mo	24mo	BF	bf	vaginal			09/01/2020	7:00	female
-861_3mo	861	3mo	BF	BF	bf	vaginal	1,044	6.0	05/12/2018	8:30	female
-861_7mo	861	7mo	BF	BF	bf	vaginal	3,506	6.0	05/04/2019	11:30	female
-861_dad	861	father	father	dad	Parent	father	1,709	6.0	19/09/2018	Morgens	
-861_mom	861	mother	mother	mom	Parent	mother	1,669	6.0	18/09/2018	Mittags	
-865_12mo	865	12mo	B	B	mixed	vaginal	1	6.0	21/01/2020	7:30	female
-865_1mo	865	1mo	B	B	mixed	vaginal	1,039	6.0	06/02/2019	keine Angabe	female
-865_24mo	865	24mo	24mo	B	mixed	vaginal			02/12/2021	19:30	female
-865_3mo	865	3mo	B	BF	mixed	vaginal	0,788	6.0	08/04/2019	11:00	female
-865_7mo	865	7mo	B	B	mixed	vaginal	0,808	6.0	26/08/2019	10:00	female
-865_dad	865	father	father	dad	Parent	father	3,728	6.0	05/02/2019	Abends	
-865_mom	865	mother	mother	mom	Parent	mother	1,645	6.0	04/02/2019	Morgens	
-907_12mo	907	12mo	BF	breastfeeding	bf	vaginal	1,044	6.0	03/12/2020	7:00	female
-907_1mo	907	1mo	BF	breastfeeding	bf	vaginal	0,752	6.0	17/12/2019	5:00	female
-907_24mo	907	24mo	24mo	BF	bf	vaginal			02/03/2022	7:45	female
-907_3mo	907	3mo	BF	BF	bf	vaginal	0,246	6.0	09/03/2020	9:00	female
-907_7mo	907	7mo	BF	BF	bf	vaginal	0,654	6.0	23/06/2020	8:00	female
-907_mom	907	mother	mother	mom	Parent	mother	0,553	6.0	17/12/2019	Mittags	
-912_12mo	912	12mo	BF	breastfeeding	bf	vaginal	2,317	6.0	14/02/2021	8:00	female
-912_1mo	912	1mo	BF	breastfeeding	bf	vaginal	1,252	6.0	16/03/2020	8:00	female
-912_24mo	912	24mo	24mo	breastfeeding	bf	vaginal			02/07/2022	17:00	female
-912_3mo	912	3mo	BF	breastfeeding	bf	vaginal	0,985	6.0	26/05/2020	17:30	female
-912_7mo	912	7mo	BF	breastfeeding	bf	vaginal	1,087	6.0	22/09/2020	7:45	female
-912_mom	912	mother	mother	mom	Parent	mother	3,006	6.0	16/03/2020	Morgens	
-933_12mo	933	12mo	C	C	mixed	c-section	1,972	6.0	10/11/2019	8:00	male
-933_1mo	933	1mo	C	C	mixed	c-section	2,063	6.0	03/12/2018	11:00	male
-933_24mo	933	24mo	24mo	C	mixed	c-section			11/10/2020	8:15	male
-933_3mo	933	3mo	C	C	mixed	c-section	1,821	6.0	12/02/2019	16:30	male
-933_7mo	933	7mo	C	C	mixed	c-section	3,604	6.0	18/06/2019	8:45	male
-933_dad	933	father	father	dad	Parent	father	1,553	6.0	03/12/2018	Morgens	
-933_mom	933	mother	mother	mom	Parent	mother	1,666	6.0	02/12/2018	Abends	
-960_12mo	960	12mo	A	A	mixed	vaginal	1	6.0	26/02/2020	19:30	female
-960_1mo	960	1mo	A	A	mixed	vaginal	1,28	6.0	18/03/2019	17:00	female
-960_24mo	960	24mo	24mo	A	mixed	vaginal			2/18/2021	18:30	female
-960_3mo	960	3mo	A	A	mixed	vaginal	1,284	6.0	17/06/2019	11:30	female
-960_7mo	960	7mo	A	A	mixed	vaginal	1	6.0	09/09/2019	7:30	female
-960_dad	960	father	father	dad	Parent	father	3,491	6.0	18/03/2019	Mittags	
-960_mom	960	mother	mother	mom	Parent	mother	1,196	6.0	17/03/2019	Abends	
-968_12mo	968	12mo	B	B	mixed	vaginal	1,218	6.0	24/05/2020	15:00	male
-968_1mo	968	1mo	B	B	mixed	vaginal	2,355	6.0	01/07/2019	16:00	male
-968_24mo	968	24mo	24mo	B	mixed	vaginal			06/10/2021	7:00	male
-968_3mo	968	3mo	B	B	mixed	vaginal	2,137	6.0	23/08/2019	20:30	male
-968_7mo	968	7mo	B	B	mixed	vaginal	2,739	6.0	19/01/2020	8:00	male
-968_dad	968	father	father	dad	Parent	father	0,998	6.0	02/07/2019	Morgens	
-968_mom	968	mother	mother	mom	Parent	mother	2,275	6.0	01/07/2019	Abends	
-975_12mo	975	12mo	A	A	mixed	vaginal	4,3	6.0	01/10/2019	12:00	male
-975_1mo	975	1mo	A	A	mixed	vaginal	2,532	6.0	17/10/2018	11:00	male
-975_24mo	975	24mo	24mo	A	mixed	vaginal			09/02/2020	7:30	male
-975_3mo	975	3mo	A	A	mixed	vaginal	2,898	6.0	06/12/2018	3:00	male
-975_7mo	975	7mo	A	A	mixed	vaginal	4,242	6.0	08/03/2019	6:30	male
-975_mom	975	mother	mother	mom	Parent	mother	2,956	6.0	18/10/2018	Morgens	
-981_12mo	981	12mo	D	D	bottle	c-section	1,672	6.0	21/09/2020	13:15	female
-981_1mo	981	1mo	D	D	bottle	c-section	1,739	6.0	03/11/2019	17:30	female
-981_24mo	981	24mo	24mo	D	bottle	c-section			11/22/2021	11:45	female
-981_3mo	981	3mo	D	D	bottle	c-section	2,73	6.0	12/01/2020	13:00	female
-981_7mo	981	7mo	D	D	bottle	c-section	5,381	6.0	28/04/2020	11:00	female
-981_dad	981	father	father	dad	Parent	father	1	6.0	04/11/2019	Morgens	
-981_mom	981	mother	mother	mom	Parent	mother	1,946	6.0	04/11/2019	Morgens	
-999_12mo	999	12mo	C	C	mixed	c-section	0,776	6.0	08/10/2019	7:45	male
-999_1mo	999	1mo	BF	C	mixed	c-section	0,877	6.0	23/10/2018	9:00	male
-999_24mo	999	24mo	24mo	C	mixed	c-section			10/14/2020	7:00	male
-999_3mo	999	3mo	BF	C	mixed	c-section	0,686	6.0	19/12/2018	9:00	male
-999_7mo	999	7mo	C	C	mixed	c-section	2,344	6.0	10/04/2019	9:00	male
-999_dad	999	father	father	dad	Parent	father	0,593	6.0	23/10/2018	Abends	
-999_mom	999	mother	mother	mom	Parent	mother	1,468	6.0	23/10/2018	Morgens	
+sampleid	ID	Time point	Feeding group	Feeding Overall	Exclusive	Type of Birth	Date	TimeOfDay	Sex
+102_12mo	102	12mo	B	B	mixed	vaginal	10/12/2019	8:00	male
+102_1mo	102	1mo	BF	B	mixed	vaginal	10/12/2018	8:00	male
+102_24mo	102	24mo	24mo	B	mixed	vaginal	11/11/2020	10:00	male
+102_3mo	102	3mo	BF	B	mixed	vaginal	19/02/2019	8:45	male
+102_7mo	102	7mo	B	B	mixed	vaginal	24/06/2019	9:00	male
+102_mom	102	mother	mother	mom	Parent	mother	10/12/2018	Morgens	
+116_12mo	116	12mo	C	C	mixed	vaginal	24/06/2020	9:30	male
+116_1mo	116	1mo	C	C	mixed	vaginal	24/07/2019	8:00	male
+116_24mo	116	24mo	24mo	C	mixed	vaginal	6/21/2021	13:00	male
+116_3mo	116	3mo	C	C	mixed	vaginal	26/09/2019	9:30	male
+116_7mo	116	7mo	C	C	mixed	vaginal	06/02/2020	14:00	male
+116_dad	116	father	father	dad	Parent	father	24/07/2019	Morgens	
+116_mom	116	mother	mother	mom	Parent	mother	24/07/2019	Morgens	
+120B_12mo	120B	12mo	BF	breastfeeding	bf	c-section	11/08/2020	9:00	female
+120B_1mo	120B	1mo	BF	breastfeeding	bf	c-section	09/09/2019	9:30	female
+120B_24mo	120B	24mo	24mo	breastfeeding	bf	c-section	na	na	female
+120B_3mo	120B	3mo	BF	breastfeeding	bf	c-section	29/10/2019	9:30	female
+120B_7mo	120B	7mo	BF	breastfeeding	bf	c-section	02/03/2020	8:00	female
+120B_dad	120B	father	father	dad	Parent	father	10/09/2019	Morgens	
+120B_mom	120B	mother	mother	mom	Parent	mother	09/09/2019	Abends	
+121_12mo	121	12mo	A	A	mixed	vaginal	22/01/2021	9:00	male
+121_1mo	121	1mo	A	A	mixed	vaginal	02/03/2020	22:00	male
+121_24mo	121	24mo	24mo	A	mixed	vaginal	1/23/2021	19:00	male
+121_3mo	121	3mo	A	A	mixed	vaginal	22/04/2020	21:30	male
+121_7mo	121	7mo	A	A	mixed	vaginal	21/09/2020	15:00	male
+121_dad	121	father	father	dad	Parent	father	02/03/2020	Abends	
+121_mom	121	mother	mother	mom	Parent	mother	02/03/2020	Abends	
+128_12mo	128	12mo	B	B	mixed	c-section	25/01/2021	15:00	female
+128_1mo	128	1mo	B	B	mixed	c-section	24/02/2020	16:30	female
+128_24mo	128	24mo	24mo	B	mixed	c-section	1/23/2022	16:30	female
+128_3mo	128	3mo	B	B	mixed	c-section	21/04/2020	8:30	female
+128_7mo	128	7mo	B	B	mixed	c-section	01/09/2020	7:30	female
+128_dad	128	father	father	dad	Parent	father	25/02/2020	Morgens	
+128_mom	128	mother	mother	mom	Parent	mother	24/02/2020	Mittags	
+131_12mo	131	12mo	A	A	mixed	c-section	10/09/2019	9:15	male
+131_1mo	131	1mo	BF	A	mixed	c-section	30/09/2018	15:30	male
+131_24mo	131	24mo	24mo	A	mixed	c-section	8/31/2020	13:00	male
+131_3mo	131	3mo	BF	A	mixed	c-section	05/12/2018	8:00	male
+131_7mo	131	7mo	BF	A	mixed	c-section	05/04/2019	8:30	male
+131_dad	131	father	father	dad	Parent	father	30/09/2018	Abends	
+131_mom	131	mother	mother	mom	Parent	mother	30/09/2018	Abends	
+142_12mo	142	12mo	B	B	mixed	vaginal	29/01/2020	5:30	male
+142_1mo	142	1mo	B	B	mixed	vaginal	19/02/2019	18:00	male
+142_24mo	142	24mo	24mo	B	mixed	vaginal	02/03/2021	18:30	male
+142_3mo	142	3mo	B	B	mixed	vaginal	10/04/2019	7:00	male
+142_7mo	142	7mo	B	B	mixed	vaginal	21/08/2019	18:30	male
+142_dad	142	father	father	dad	Parent	father	19/02/2019	Abends	
+142_mom	142	mother	mother	mom	Parent	mother	19/02/2019	Morgens	
+144_12mo	144	12mo	BF	breastfeeding	bf	vaginal	05/12/2019	8:45	female
+144_1mo	144	1mo	BF	breastfeeding	bf	vaginal	10/01/2019	10:00	female
+144_24mo	144	24mo	24mo	breastfeeding	bf	vaginal	12/19/2020	9:45	female
+144_3mo	144	3mo	BF	breastfeeding	bf	vaginal	14/03/2019	10:00	female
+144_7mo	144	7mo	BF	breastfeeding	bf	vaginal	27/06/2019	19:30	female
+144_dad	144	father	father	dad	Parent	father	10/01/2019	Mittags	
+144_mom	144	mother	mother	mom	Parent	mother	10/01/2019	Mittags	
+163_12mo	163	12mo	D	D	mixed	c-section	14/02/2021	18:30	female
+163_1mo	163	1mo	D	D	mixed	c-section	16/03/2020	10:15	female
+163_24mo	163	24mo	24mo	D	mixed	c-section	1/26/2022	8:00	female
+163_3mo	163	3mo	D	D	mixed	c-section	25/05/2020	13:00	female
+163_7mo	163	7mo	D	D	mixed	c-section	22/09/2020	10:30	female
+163_dad	163	father	father	dad	Parent	father	16/03/2020	na	
+163_mom	163	mother	mother	mom	Parent	mother	16/03/2020	na	
+178_12mo	178	12mo	C	C	mixed	c-section	22/01/2021	16:00	female
+178_1mo	178	1mo	C	C	mixed	c-section	13/02/2020	15:30	female
+178_24mo	178	24mo	24mo	C	mixed	c-section	2/15/2022	7:10	female
+178_3mo	178	3mo	C	C	mixed	c-section	21/04/2020	6:00	female
+178_7mo	178	7mo	C	C	mixed	c-section	27/08/2020	9:45	female
+178_dad	178	father	father	dad	Parent	father	13/02/2020	Morgens	
+178_mom	178	mother	mother	mom	Parent	mother	12/02/2020	Abends	
+183_12mo	183	12mo	A	A	mixed	c-section	01/09/2019	15:00	male
+183_1mo	183	1mo	A	A	mixed	c-section	01/10/2018	1:00	male
+183_24mo	183	24mo	24mo	A	mixed	c-section	09/01/2020	8:45	male
+183_3mo	183	3mo	A	A	mixed	c-section	26/11/2018	13:30	male
+183_7mo	183	7mo	A	A	mixed	c-section	31/03/2019	15:30	male
+183_dad	183	father	father	dad	Parent	father	30/09/2018	Morgens	
+183_mom	183	mother	mother	mom	Parent	mother	01/10/2018	Morgens	
+199_12mo	199	12mo	D	D	bottle	vaginal	13/01/2021	8:15	female
+199_1mo	199	1mo	D	D	bottle	vaginal	05/02/2020	11:30	female
+199_24mo	199	24mo	24mo	D	bottle	vaginal	12/10/2021	8:50	female
+199_3mo	199	3mo	D	D	bottle	vaginal	07/04/2020	7:30	female
+199_7mo	199	7mo	D	D	bottle	vaginal	12/08/2020	14:00	female
+199_mom	199	mother	mother	mom	Parent	mother	05/02/2020	Morgens	
+208_12mo	208	12mo	A	A	mixed	c-section	25/09/2019	9:00	female
+208_1mo	208	1mo	BF	A	mixed	c-section	23/10/2018	4:30	female
+208_24mo	208	24mo	24mo	A	mixed	c-section	9/27/2020	16:00	female
+208_3mo	208	3mo	BF	A	mixed	c-section	20/12/2018	keine Angabe	female
+208_7mo	208	7mo	A	A	mixed	c-section	09/04/2019	16:00	female
+208_dad	208	father	father	dad	Parent	father	22/10/2018	na	
+208_mom	208	mother	mother	mom	Parent	mother	23/10/2018	Morgens	
+214_12mo	214	12mo	D	D	mixed	vaginal	15/02/2021	19:00	female
+214_1mo	214	1mo	D	D	mixed	vaginal	18/03/2020	19:15	female
+214_24mo	214	24mo	24mo	D	mixed	vaginal	1/23/2022	19:30	female
+214_3mo	214	3mo	D	D	mixed	vaginal	25/05/2020	19:30	female
+214_7mo	214	7mo	D	D	mixed	vaginal	22/09/2020	18:00	female
+214_dad	214	father	father	dad	Parent	father	19/03/2020	Mittags	
+214_mom	214	mother	mother	mom	Parent	mother	18/03/2020	Abends	
+220_12mo	220	12mo	B	B	mixed	vaginal	05/04/2020	9:00	female
+220_1mo	220	1mo	B	B	mixed	vaginal	20/05/2019	18:00	female
+220_24mo	220	24mo	24mo	B	mixed	vaginal	04/06/2021	7:45	female
+220_3mo	220	3mo	B	B	mixed	vaginal	16/07/2019	10:00	female
+220_7mo	220	7mo	B	B	mixed	vaginal	05/11/2019	9:00	female
+220_dad	220	father	father	dad	Parent	father	21/05/2019	Morgens	
+220_mom	220	mother	mother	mom	Parent	mother	20/05/2019	Morgens	
+257_12mo	257	12mo	BF	breastfeeding	bf	c-section	14/03/2021	10:30	male
+257_1mo	257	1mo	BF	breastfeeding	bf	c-section	17/04/2020	7:45	male
+257_24mo	257	24mo	24mo	breastfeeding	bf	c-section	02/07/2022	7:45	male
+257_3mo	257	3mo	BF	breastfeeding	bf	c-section	22/05/2020	8:00	male
+257_7mo	257	7mo	BF	breastfeeding	bf	c-section	12/10/2020	10:30	male
+257_dad	257	father	father	dad	Parent	father	21/04/2020	Morgens	
+257_mom	257	mother	mother	mom	Parent	mother	21/04/2020	Morgens	
+263_12mo	263	12mo	B	B	mixed	vaginal	10/11/2020	9:00	female
+263_1mo	263	1mo	BF	B	mixed	vaginal	04/12/2019	15:00	female
+263_24mo	263	24mo	24mo	B	mixed	vaginal	11/04/2021	11:00	female
+263_3mo	263	3mo	BF	BF	mixed	vaginal	01/03/2020	9:30	female
+263_7mo	263	7mo	B	B	mixed	vaginal	15/06/2020	13:00	female
+263_dad	263	father	father	dad	Parent	father	05/12/2019	Morgens	
+263_mom	263	mother	mother	mom	Parent	mother	05/12/2019	Morgens	
+276_12mo	276	12mo	D	D	mixed	vaginal	23/04/2020	13:30	female
+276_1mo	276	1mo	BF	D	mixed	vaginal	28/05/2019	7:00	female
+276_24mo	276	24mo	24mo	D	mixed	vaginal	4/20/2021	7:30	female
+276_3mo	276	3mo	BF	BF	mixed	vaginal	29/07/2019	6:40	female
+276_7mo	276	7mo	D	D	mixed	vaginal	19/11/2019	11:30	female
+276_dad	276	father	father	dad	Parent	father	27/05/2019	Abends	
+276_mom	276	mother	mother	mom	Parent	mother	27/05/2019	Mittags	
+300_24mo	300	24mo	24mo	BF	bf	vaginal	10/15/2020	11:30	male
+300_3mo	300	3mo	BF	BF	bf	vaginal	28/01/2019	19:00	male
+300_7mo	300	7mo	BF	BF	bf	vaginal	01/07/2019	8:00	male
+300_mom	300	mother	mother	mom	Parent	mother	20/11/2018	Morgens	
+303_12mo	303	12mo	C	C	mixed	vaginal	22/10/2019	7:30	male
+303_1mo	303	1mo	BF	C	mixed	vaginal	12/11/2018	10:00	male
+303_24mo	303	24mo	24mo	C	mixed	vaginal	11/10/2020	7:30	male
+303_3mo	303	3mo	BF	BF	mixed	vaginal	29/01/2019	10:00	male
+303_7mo	303	7mo	C	C	mixed	vaginal	20/05/2019	8:30	male
+303_mom	303	mother	mother	mom	Parent	mother	12/11/2018	Morgens	
+327_12mo	327	12mo	C	C	mixed	c-section	20/01/2020	9:30	male
+327_1mo	327	1mo	BF	C	mixed	c-section	18/02/2019	20:00	male
+327_24mo	327	24mo	24mo	C	mixed	c-section	03/03/2021	7:50	male
+327_3mo	327	3mo	BF	C	mixed	c-section	07/04/2019	19:30	male
+327_7mo	327	7mo	BF	C	mixed	c-section	21/08/2019	20:40	male
+327_dad	327	father	father	dad	Parent	father	17/02/2019	Abends	
+327_mom	327	mother	mother	mom	Parent	mother	18/02/2019	Morgens	
+369_12mo	369	12mo	BF	breastfeeding	bf	c-section	14/03/2021	18:30	female
+369_1mo	369	1mo	BF	breastfeeding	bf	c-section	29/04/2020	7:40	female
+369_24mo	369	24mo	24mo	breastfeeding	bf	c-section	02/08/2022	7:10	female
+369_3mo	369	3mo	BF	breastfeeding	bf	c-section	06/07/2020	15:00	female
+369_7mo	369	7mo	BF	breastfeeding	bf	c-section	20/10/2020	7:10	female
+369_mom	369	mother	mother	mom	Parent	mother	29/04/2020	Morgens	
+387_12mo	387	12mo	BF	breastfeeding	bf	vaginal	12/03/2021	21:00	male
+387_1mo	387	1mo	BF	breastfeeding	bf	vaginal	20/04/2020	14:30	male
+387_24mo	387	24mo	24mo	BF	bf	vaginal	02/01/2022	14:00	male
+387_3mo	387	3mo	BF	BF	bf	vaginal	23/06/2020	9:30	male
+387_7mo	387	7mo	BF	BF	bf	vaginal	27/10/2020	18:40	male
+387_dad	387	father	father	dad	Parent	father	21/04/2020	Mittags	
+387_mom	387	mother	mother	mom	Parent	mother	20/04/2020	Abends	
+418_12mo	418	12mo	B	B	mixed	c-section	05/12/2019	8:30	female
+418_1mo	418	1mo	B	B	mixed	c-section	23/01/2019	18:00	female
+418_24mo	418	24mo	24mo	B	mixed	c-section	1/16/2021	11:00	female
+418_3mo	418	3mo	B	B	mixed	c-section	03/04/2019	16:00	female
+418_7mo	418	7mo	B	B	mixed	c-section	26/08/2019	18:00	female
+418_dad	418	father	father	dad	Parent	father	23/01/2019	Abends	
+418_mom	418	mother	mother	mom	Parent	mother	24/01/2019	Morgens	
+421_12mo	421	12mo	BF	breastfeeding	bf	vaginal	02/03/2020	16:50	female
+421_1mo	421	1mo	BF	breastfeeding	bf	vaginal	18/03/2019	4:00	female
+421_24mo	421	24mo	24mo	BF	bf	vaginal	03/02/2021	10:20	female
+421_3mo	421	3mo	BF	BF	bf	vaginal	21/05/2019	10:00	female
+421_7mo	421	7mo	BF	BF	bf	vaginal	17/09/2019	5:30	female
+421_dad	421	father	father	dad	Parent	father	17/03/2019	Abends	
+421_mom	421	mother	mother	mom	Parent	mother	18/03/2019	Morgens	
+430_12mo	430	12mo	BF	breastfeeding	bf	vaginal	26/01/2021	7:40	female
+430_1mo	430	1mo	BF	breastfeeding	bf	vaginal	24/02/2020	6:00	female
+430_24mo	430	24mo	24mo	breastfeeding	bf	vaginal	1/24/2022	14:55	female
+430_3mo	430	3mo	BF	breastfeeding	bf	vaginal	29/04/2020	7:30	female
+430_7mo	430	7mo	BF	breastfeeding	bf	vaginal	24/08/2020	8:40	female
+430_mom	430	mother	mother	mom	Parent	mother	24/02/2020	Morgens	
+432_12mo	432	12mo	BF	breastfeeding	bf	vaginal	28/04/2020	16:30	female
+432_1mo	432	1mo	BF	breastfeeding	bf	vaginal	03/06/2019	13:00	female
+432_24mo	432	24mo	24mo	BF	bf	vaginal	6/14/2021	15:45	female
+432_3mo	432	3mo	BF	BF	bf	vaginal	05/08/2019	15:00	female
+432_7mo	432	7mo	BF	BF	bf	vaginal	02/12/2019	12:00	female
+432_dad	432	father	father	dad	Parent	father	03/06/2019	Morgens	
+432_mom	432	mother	mother	mom	Parent	mother	03/06/2019	Mittags	
+501_12mo	501	12mo	BF	breastfeeding	bf	vaginal	20/07/2020	7:15	male
+501_1mo	501	1mo	BF	breastfeeding	bf	vaginal	21/08/2019	9:00	male
+501_24mo	501	24mo	24mo	breastfeeding	bf	vaginal	11/23/2021	20:30	male
+501_3mo	501	3mo	BF	breastfeeding	bf	vaginal	04/11/2019	6:00	male
+501_7mo	501	7mo	BF	breastfeeding	bf	vaginal	27/02/2020	14:00	male
+501_dad	501	father	father	dad	Parent	father	21/08/2019	Morgens	
+501_mom	501	mother	mother	mom	Parent	mother	20/08/2019	Mittags	
+502_12mo	502	12mo	BF	breastfeeding	bf	vaginal	17/12/2019	12:10	male
+502_1mo	502	1mo	BF	breastfeeding	bf	vaginal	07/01/2019	18:00	male
+502_24mo	502	24mo	24mo	breastfeeding	bf	vaginal	12/14/2020	11:45	male
+502_3mo	502	3mo	BF	breastfeeding	bf	vaginal	21/03/2019	7:30	male
+502_7mo	502	7mo	BF	breastfeeding	bf	vaginal	06/08/2019	7:30	male
+502_mom	502	mother	mother	mom	Parent	mother	13/01/2019	Mittags	
+523_12mo	523	12mo	BF	breastfeeding	bf	vaginal	15/02/2021	8:30	male
+523_1mo	523	1mo	BF	breastfeeding	bf	vaginal	16/03/2020	11:00	male
+523_24mo	523	24mo	24mo	BF	bf	vaginal	1/26/2022	9:00	male
+523_3mo	523	3mo	BF	BF	bf	vaginal	26/05/2020	9:00	male
+523_7mo	523	7mo	BF	BF	bf	vaginal	22/09/2020	9:30	male
+523_dad	523	father	father	dad	Parent	father	15/03/2020	Abends	
+523_mom	523	mother	mother	mom	Parent	mother	15/03/2020	Abends	
+527_12mo	527	12mo	BF	breastfeeding	bf	vaginal	24/09/2019	8:30	male
+527_1mo	527	1mo	BF	breastfeeding	bf	vaginal	24/10/2018	19:00	male
+527_24mo	527	24mo	24mo	BF	bf	vaginal	9/25/2020	7:30	male
+527_3mo	527	3mo	BF	BF	bf	vaginal	18/12/2018	7:45	male
+527_7mo	527	7mo	BF	BF	bf	vaginal	15/04/2019	8:15	male
+527_dad	527	father	father	dad	Parent	father	22/10/2018	Morgens	
+527_mom	527	mother	mother	mom	Parent	mother	22/10/2018	Morgens	
+544_12mo	544	12mo	BF	breastfeeding	bf	vaginal	16/06/2020	18:00	female
+544_1mo	544	1mo	BF	breastfeeding	bf	vaginal	15/07/2019	9:00	female
+544_24mo	544	24mo	24mo	BF	bf	vaginal	6/20/2021	10:00	female
+544_3mo	544	3mo	BF	BF	bf	vaginal	03/09/2019	11:00	female
+544_7mo	544	7mo	BF	BF	bf	vaginal	28/01/2020	9:30	female
+544_dad	544	father	father	dad	Parent	father	15/07/2019	Morgens	
+544_mom	544	mother	mother	mom	Parent	mother	15/07/2019	Morgens	
+568_12mo	568	12mo	A	A	mixed	vaginal	09/07/2020	10:00	male
+568_1mo	568	1mo	BF	A	mixed	vaginal	09/08/2019	8:00	male
+568_24mo	568	24mo	24mo	A	mixed	vaginal	11/09/2021	14:45	male
+568_3mo	568	3mo	BF	BF	mixed	vaginal	07/10/2019	7:00	male
+568_7mo	568	7mo	A	A	mixed	vaginal	25/02/2020	12:00	male
+568_dad	568	father	father	dad	Parent	father	09/08/2019	Morgens	
+568_mom	568	mother	mother	mom	Parent	mother	07/10/2019	Morgens	
+577A_12mo	577A	12mo	B	B	mixed	vaginal	23/04/2020	18:30	female
+577A_1mo	577A	1mo	BF	B	mixed	vaginal	22/05/2019	8:00	female
+577A_24mo	577A	24mo	24mo	B	mixed	vaginal	na	na	female
+577A_3mo	577A	3mo	BF	B	mixed	vaginal	22/07/2019	13:45	female
+577A_7mo	577A	7mo	B	B	mixed	vaginal	20/11/2019	14:00	female
+577A_mom	577A	mother	mother	mom	Parent	mother	22/05/2019	Morgens	
+599_12mo	599	12mo	A	A	mixed	vaginal	24/05/2020	17:00	male
+599_1mo	599	1mo	BF	A	mixed	vaginal	16/06/2019	22:00	male
+599_24mo	599	24mo	24mo	A	mixed	vaginal	6/16/2021	17:00	male
+599_3mo	599	3mo	A	A	mixed	vaginal	27/08/2019	13:00	male
+599_7mo	599	7mo	A	A	mixed	vaginal	09/12/2019	16:00	male
+599_mom	599	mother	mother	mom	Parent	mother	17/06/2019	na	
+605_12mo	605	12mo	C	C	mixed	vaginal	21/09/2020	18:30	male
+605_1mo	605	1mo	BF	C	mixed	vaginal	30/10/2019	10:00	male
+605_24mo	605	24mo	24mo	C	mixed	vaginal	11/24/2021	17:00	male
+605_3mo	605	3mo	BF	BF	mixed	vaginal	16/12/2019	8:15	male
+605_7mo	605	7mo	C	C	mixed	vaginal	22/04/2020	8:30	male
+605_dad	605	father	father	dad	Parent	father	29/10/2019	Abends	
+605_mom	605	mother	mother	mom	Parent	mother	29/10/2019	Mittags	
+668_12mo	668	12mo	A	A	mixed	vaginal	14/01/2020	8:00	female
+668_1mo	668	1mo	BF	A	mixed	vaginal	04/02/2019	23:00	female
+668_24mo	668	24mo	24mo	A	mixed	vaginal	1/28/2021	14:00	female
+668_3mo	668	3mo	BF	A	mixed	vaginal	20/03/2019	20:00	female
+668_7mo	668	7mo	A	A	mixed	vaginal	28/07/2019	21:00	female
+668_mom	668	mother	mother	mom	Parent	mother	05/02/2019	na	
+679_12mo	679	12mo	D	D	mixed	vaginal	25/01/2021	15:30	male
+679_1mo	679	1mo	BF	D	mixed	vaginal	25/02/2020	6:00	male
+679_24mo	679	24mo	24mo	D	mixed	vaginal	1/22/2022	15:00	male
+679_3mo	679	3mo	BF	D	mixed	vaginal	22/04/2020	14:00	male
+679_7mo	679	7mo	D	D	mixed	vaginal	13/08/2020	9:00	male
+679_dad	679	father	father	dad	Parent	father	25/02/2020	Morgens	
+679_mom	679	mother	mother	mom	Parent	mother	24/02/2020	Mittags	
+710_12mo	710	12mo	C	C	mixed	vaginal	25/05/2020	11:00	female
+710_1mo	710	1mo	BF	C	mixed	vaginal	03/06/2019	8:00	female
+710_24mo	710	24mo	24mo	C	mixed	vaginal	6/13/2021	18:30	female
+710_3mo	710	3mo	BF	BF	mixed	vaginal	01/08/2019	7:00	female
+710_7mo	710	7mo	BF	BF	mixed	vaginal	23/01/2020	8:00	female
+710_mom	710	mother	mother	mom	Parent	mother	03/06/2019	Morgens	
+719_12mo	719	12mo	C	C	mixed	c-section	19/11/2019	9:00	male
+719_1mo	719	1mo	C	C	mixed	c-section	26/11/2018	16:00	male
+719_24mo	719	24mo	24mo	C	mixed	c-section	11/19/2020	9:45	male
+719_3mo	719	3mo	C	C	mixed	c-section	29/01/2019	2:00	male
+719_7mo	719	7mo	C	C	mixed	c-section	23/06/2019	11:00	male
+719_mom	719	mother	mother	mom	Parent	mother	27/11/2018	Morgens	
+748_12mo	748	12mo	D	D	mixed	c-section	03/12/2020	12:30	female
+748_1mo	748	1mo	D	D	mixed	c-section	14/01/2020	17:15	female
+748_24mo	748	24mo	24mo	D	mixed	c-section	12/07/2021	18:55	female
+748_3mo	748	3mo	D	BF	mixed	c-section	03/03/2020	14:30	female
+748_7mo	748	7mo	D	D	mixed	c-section	07/07/2020	7:30	female
+748_dad	748	father	father	dad	Parent	father	14/01/2020	Morgens	
+748_mom	748	mother	mother	mom	Parent	mother	13/01/2020	Abends	
+756_12mo	756	12mo	BF	breastfeeding	bf	vaginal	01/09/2020	8:20	female
+756_1mo	756	1mo	BF	breastfeeding	bf	vaginal	07/10/2019	17:30	female
+756_24mo	756	24mo	24mo	BF	bf	vaginal	11/22/2021	18:55	female
+756_3mo	756	3mo	BF	BF	bf	vaginal	28/11/2019	6:45	female
+756_7mo	756	7mo	BF	BF	bf	vaginal	25/04/2020	8:30	female
+756_dad	756	father	father	dad	Parent	father	08/10/2019	Morgens	
+756_mom	756	mother	mother	mom	Parent	mother	08/10/2019	Morgens	
+789_12mo	789	12mo	BF	breastfeeding	bf	vaginal	09/09/2019	10:00	female
+789_1mo	789	1mo	BF	breastfeeding	bf	vaginal	27/08/2018	keine Angabe	female
+789_24mo	789	24mo	24mo	BF	bf	vaginal	08/12/2020	11:15	female
+789_7mo	789	7mo	BF	BF	bf	vaginal	07/03/2019	15:00	female
+789_dad	789	father	father	dad	Parent	father	27/08/2018	na	
+789_mom	789	mother	mother	mom	Parent	mother	27/08/2018	NA	
+792_12mo	792	12mo	BF	breastfeeding	bf	vaginal	12/08/2020	8:30	female
+792_1mo	792	1mo	BF	breastfeeding	bf	vaginal	16/09/2019	8:00	female
+792_24mo	792	24mo	24mo	breastfeeding	bf	vaginal	1/20/2022	8:00	female
+792_3mo	792	3mo	BF	breastfeeding	bf	vaginal	11/11/2019	10:45	female
+792_7mo	792	7mo	BF	breastfeeding	bf	vaginal	16/03/2020	10:00	female
+792_dad	792	father	father	dad	Parent	father	16/09/2019	Morgens	
+792_mom	792	mother	mother	mom	Parent	mother	15/09/2019	Mittags	
+802_12mo	802	12mo	D	D	mixed	vaginal	20/07/2020	8:30	female
+802_1mo	802	1mo	D	D	mixed	vaginal	21/08/2019	14:00	female
+802_24mo	802	24mo	24mo	D	mixed	vaginal	11/29/2021	18:45	female
+802_3mo	802	3mo	D	D	mixed	vaginal	13/10/2019	17:00	female
+802_7mo	802	7mo	D	D	mixed	vaginal	27/02/2020	12:00	female
+802_dad	802	father	father	dad	Parent	father	21/08/2019	Mittags	
+802_mom	802	mother	mother	mom	Parent	mother	21/08/2019	Morgens	
+806_12mo	806	12mo	A	A	mixed	vaginal	04/03/2021	8:15	female
+806_1mo	806	1mo	A	A	mixed	vaginal	30/03/2020	17:00	female
+806_24mo	806	24mo	24mo	A	mixed	vaginal	02/05/2022	8:45	female
+806_3mo	806	3mo	A	A	mixed	vaginal	25/05/2020	13:50	female
+806_7mo	806	7mo	A	A	mixed	vaginal	27/09/2020	11:20	female
+806_dad	806	father	father	dad	Parent	father	30/03/2020	Morgens	
+806_mom	806	mother	mother	mom	Parent	mother	30/03/2020	Morgens	
+819_12mo	819	12mo	D	D	mixed	c-section	23/01/2020	7:30	female
+819_1mo	819	1mo	BF	D	mixed	c-section	26/02/2019	7:00	female
+819_24mo	819	24mo	24mo	D	mixed	c-section	2/25/2021	18:00	female
+819_3mo	819	3mo	D	D	mixed	c-section	20/05/2019	7:30	female
+819_7mo	819	7mo	D	D	mixed	c-section	25/08/2019	10:00	female
+819_dad	819	father	father	dad	Parent	father	26/02/2019	na	
+819_mom	819	mother	mother	mom	Parent	mother	25/02/2019	Morgens	
+836_12mo	836	12mo	C	C	mixed	vaginal	19/01/2021	14:30	male
+836_1mo	836	1mo	C	C	mixed	vaginal	04/02/2020	8:00	male
+836_24mo	836	24mo	24mo	C	mixed	vaginal	12/07/2021	17:00	male
+836_3mo	836	3mo	C	C	mixed	vaginal	08/04/2020	19:00	male
+836_7mo	836	7mo	C	C	mixed	vaginal	29/07/2020	9:15	male
+836_mom	836	mother	mother	mom	Parent	mother	04/02/2020	Morgens	
+839_12mo	839	12mo	D	D	mixed	c-section	31/05/2020	19:00	male
+839_1mo	839	1mo	D	D	mixed	c-section	18/06/2019	8:45	male
+839_24mo	839	24mo	24mo	D	mixed	c-section	5/27/2021	11:00	male
+839_3mo	839	3mo	D	D	mixed	c-section	20/08/2019	8:00	male
+839_7mo	839	7mo	D	D	mixed	c-section	16/12/2019	7:00	male
+839_dad	839	father	father	dad	Parent	father	17/06/2019	Abends	
+839_mom	839	mother	mother	mom	Parent	mother	17/06/2019	Morgens	
+859_12mo	859	12mo	B	B	mixed	vaginal	19/09/2019	8:00	female
+859_1mo	859	1mo	B	B	mixed	vaginal	09/10/2018	17:00	female
+859_24mo	859	24mo	24mo	B	mixed	vaginal	9/13/2020	14:00	female
+859_3mo	859	3mo	B	B	mixed	vaginal	12/12/2018	8:00	female
+859_7mo	859	7mo	B	B	mixed	vaginal	22/04/2019	20:00	female
+859_dad	859	father	father	dad	Parent	father	09/10/2018	Morgens	
+859_mom	859	mother	mother	mom	Parent	mother	09/10/2018	Abends	
+861_12mo	861	12mo	BF	breastfeeding	bf	vaginal	03/09/2019	14:30	female
+861_1mo	861	1mo	BF	breastfeeding	bf	vaginal	18/09/2018	21:00	female
+861_24mo	861	24mo	24mo	BF	bf	vaginal	09/01/2020	7:00	female
+861_3mo	861	3mo	BF	BF	bf	vaginal	05/12/2018	8:30	female
+861_7mo	861	7mo	BF	BF	bf	vaginal	05/04/2019	11:30	female
+861_dad	861	father	father	dad	Parent	father	19/09/2018	Morgens	
+861_mom	861	mother	mother	mom	Parent	mother	18/09/2018	Mittags	
+865_12mo	865	12mo	B	B	mixed	vaginal	21/01/2020	7:30	female
+865_1mo	865	1mo	B	B	mixed	vaginal	06/02/2019	keine Angabe	female
+865_24mo	865	24mo	24mo	B	mixed	vaginal	02/12/2021	19:30	female
+865_3mo	865	3mo	B	BF	mixed	vaginal	08/04/2019	11:00	female
+865_7mo	865	7mo	B	B	mixed	vaginal	26/08/2019	10:00	female
+865_dad	865	father	father	dad	Parent	father	05/02/2019	Abends	
+865_mom	865	mother	mother	mom	Parent	mother	04/02/2019	Morgens	
+907_12mo	907	12mo	BF	breastfeeding	bf	vaginal	03/12/2020	7:00	female
+907_1mo	907	1mo	BF	breastfeeding	bf	vaginal	17/12/2019	5:00	female
+907_24mo	907	24mo	24mo	BF	bf	vaginal	02/03/2022	7:45	female
+907_3mo	907	3mo	BF	BF	bf	vaginal	09/03/2020	9:00	female
+907_7mo	907	7mo	BF	BF	bf	vaginal	23/06/2020	8:00	female
+907_mom	907	mother	mother	mom	Parent	mother	17/12/2019	Mittags	
+912_12mo	912	12mo	BF	breastfeeding	bf	vaginal	14/02/2021	8:00	female
+912_1mo	912	1mo	BF	breastfeeding	bf	vaginal	16/03/2020	8:00	female
+912_24mo	912	24mo	24mo	breastfeeding	bf	vaginal	02/07/2022	17:00	female
+912_3mo	912	3mo	BF	breastfeeding	bf	vaginal	26/05/2020	17:30	female
+912_7mo	912	7mo	BF	breastfeeding	bf	vaginal	22/09/2020	7:45	female
+912_mom	912	mother	mother	mom	Parent	mother	16/03/2020	Morgens	
+933_12mo	933	12mo	C	C	mixed	c-section	10/11/2019	8:00	male
+933_1mo	933	1mo	C	C	mixed	c-section	03/12/2018	11:00	male
+933_24mo	933	24mo	24mo	C	mixed	c-section	11/10/2020	8:15	male
+933_3mo	933	3mo	C	C	mixed	c-section	12/02/2019	16:30	male
+933_7mo	933	7mo	C	C	mixed	c-section	18/06/2019	8:45	male
+933_dad	933	father	father	dad	Parent	father	03/12/2018	Morgens	
+933_mom	933	mother	mother	mom	Parent	mother	02/12/2018	Abends	
+960_12mo	960	12mo	A	A	mixed	vaginal	26/02/2020	19:30	female
+960_1mo	960	1mo	A	A	mixed	vaginal	18/03/2019	17:00	female
+960_24mo	960	24mo	24mo	A	mixed	vaginal	2/18/2021	18:30	female
+960_3mo	960	3mo	A	A	mixed	vaginal	17/06/2019	11:30	female
+960_7mo	960	7mo	A	A	mixed	vaginal	09/09/2019	7:30	female
+960_dad	960	father	father	dad	Parent	father	18/03/2019	Mittags	
+960_mom	960	mother	mother	mom	Parent	mother	17/03/2019	Abends	
+968_12mo	968	12mo	B	B	mixed	vaginal	24/05/2020	15:00	male
+968_1mo	968	1mo	B	B	mixed	vaginal	01/07/2019	16:00	male
+968_24mo	968	24mo	24mo	B	mixed	vaginal	06/10/2021	7:00	male
+968_3mo	968	3mo	B	B	mixed	vaginal	23/08/2019	20:30	male
+968_7mo	968	7mo	B	B	mixed	vaginal	19/01/2020	8:00	male
+968_dad	968	father	father	dad	Parent	father	02/07/2019	Morgens	
+968_mom	968	mother	mother	mom	Parent	mother	01/07/2019	Abends	
+975_12mo	975	12mo	A	A	mixed	vaginal	01/10/2019	12:00	male
+975_1mo	975	1mo	A	A	mixed	vaginal	17/10/2018	11:00	male
+975_24mo	975	24mo	24mo	A	mixed	vaginal	09/02/2020	7:30	male
+975_3mo	975	3mo	A	A	mixed	vaginal	06/12/2018	3:00	male
+975_7mo	975	7mo	A	A	mixed	vaginal	08/03/2019	6:30	male
+975_mom	975	mother	mother	mom	Parent	mother	18/10/2018	Morgens	
+981_12mo	981	12mo	D	D	bottle	c-section	21/09/2020	13:15	female
+981_1mo	981	1mo	D	D	bottle	c-section	03/11/2019	17:30	female
+981_24mo	981	24mo	24mo	D	bottle	c-section	11/22/2021	11:45	female
+981_3mo	981	3mo	D	D	bottle	c-section	12/01/2020	13:00	female
+981_7mo	981	7mo	D	D	bottle	c-section	28/04/2020	11:00	female
+981_dad	981	father	father	dad	Parent	father	04/11/2019	Morgens	
+981_mom	981	mother	mother	mom	Parent	mother	04/11/2019	Morgens	
+999_12mo	999	12mo	C	C	mixed	c-section	08/10/2019	7:45	male
+999_1mo	999	1mo	BF	C	mixed	c-section	23/10/2018	9:00	male
+999_24mo	999	24mo	24mo	C	mixed	c-section	10/14/2020	7:00	male
+999_3mo	999	3mo	BF	C	mixed	c-section	19/12/2018	9:00	male
+999_7mo	999	7mo	C	C	mixed	c-section	10/04/2019	9:00	male
+999_dad	999	father	father	dad	Parent	father	23/10/2018	Abends	
+999_mom	999	mother	mother	mom	Parent	mother	23/10/2018	Morgens	
