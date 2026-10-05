@@ -22,11 +22,11 @@
 
 
 
-* KneadData v 0.10.0
-* Trim Galore v 0.6.10
-* MetaPhlAn v 4.1.1
-* StrainPhlAn v 4.1.1
-* HUMAnN v 3.6 (with MetaPhlAn 3.1.0 output)
+* KneadData v 0.10.0 [(KneadData)](https://github.com/biobakery/kneaddata)
+* Trim Galore v 0.6.10 [(Trim Galore)](https://github.com/felixkrueger/trimgalore)
+* MetaPhlAn v 4.1.1 [(MetaPhlAn)](https://github.com/biobakery/MetaPhlAn)
+* StrainPhlAn v 4.1.1 [(StrainPhlAn](https://github.com/biobakery/biobakery/wiki/strainphlan4)
+* HUMAnN v 3.6 (with MetaPhlAn 3.1.0 output) [(HUMAnN)](https://github.com/biobakery/humann)
 
 
 
@@ -38,11 +38,11 @@
 
 
 
-* MEGAHIT v 1.2.9
-* Prodigal v 2.6.3
-* cd-hit v 4.8.1
-* MSPminer
-* InterProScan v 5.55_88.0
+* MEGAHIT v 1.2.9 [(MEGAHIT)](https://github.com/voutcn/MEGAHIT)
+* Prodigal v 2.6.3 [(Prodigal)](https://github.com/hyattpd/prodigal)
+* cd-hit v 4.8.1 [(cd-hit)](https://github.com/weizhongli/cdhit)
+* MSPminer [(MSPminer)](https://academic.oup.com/bioinformatics/article/35/9/1544/5106712?login=false)
+* InterProScan v 5.55_88.0 [(InterProScan)](https://github.com/ebi-pf-team/interproscan)
 
 
 
