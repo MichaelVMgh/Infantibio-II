@@ -196,6 +196,15 @@ For the evolutionary distances we used the Python script `evolutionary_distances
 
 
 
+## Data availability
+
+
+
+
+Metagenomic reads have been deposited at the NCBI Sequence Read Archive (SRA) through SRA Bioproject ID PRJNA1491085 and SRA submission ID SUB16306007.
+
+
+
 
 ## Authors
 
