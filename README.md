@@ -1,5 +1,10 @@
-# Infantibio-II follow-up study design 
+# Infantibio-II Deep Shotgun Metagenomics Analysis Pipeline and Downstream Analysis
 
+
+
+
+
+## Study design
 
 
 
@@ -21,7 +26,7 @@ Schematic of the Infantibio-II interventional trial design and sample selection 
 
 
 
-# Deep Shotgun Metagenomics Analysis Pipeline and Downstream Analysis
+## Shotgun metagenomics pipeline: reference-based and assembly-based workflows
 
 
 
