@@ -1,4 +1,27 @@
-# Infantibio-II Shotgun Metagenomics Analysis Pipeline and Downstream Analysis
+# Infantibio-II follow-up study design 
+
+
+
+
+
+Previous shallow metagenomic sequencing of samples from 3- and 7-month-old infants in the Infantibio-II infant cohort had revealed species-level differences between breast-fed and formula-fed infants[(Heppner et al., 2024)](https://doi.org/10.1016/j.chom.2024.02.015). To investigate these differences at much higher resolution, we selected a longitudinal subset (n = 402 samples) which included five time points (1, 3, 7, 12, and 24 months of age) for deep shotgun metagenomic sequencing and downstream analyses. This enabled strain-level resolution, vertical strain transmission analysis, and functional profiling. One sample was excluded during QC due to host read contamination above threshold limit, resulting in a final dataset of 401 samples. This subset comprised 59 samples at 1 month of age, 59 at 3 months, 60 at 7 months, 59 at 12 months, and 60 at 24 months of age, along with paired parental samples collected when the infants were 1 month old (60 from mothers and 44 from fathers).
+
+
+
+
+
+![Study design](schematic.png)
+
+
+
+
+Schematic of the Infantibio-II interventional trial design and sample selection for strain-level metagenomic analyses (follow-up study). Illustrates the randomized formula interventions: placebo (formula A), supplemented with bifidobacteria (formula B), supplemented with GOS (formula C), or supplemented with both GOS and bifidobacteria (formula D), with breast-fed infants as a control. Selected sampling time points for metagenomics sequencing and subsequent analyses include: 1 month, 3 months, 7 months, 12 months, and 24 months, with paired parental samples at 1 month of age: 60 mothers and 44 fathers.
+
+
+
+
+
+# Deep Shotgun Metagenomics Analysis Pipeline and Downstream Analysis
 
 
 
